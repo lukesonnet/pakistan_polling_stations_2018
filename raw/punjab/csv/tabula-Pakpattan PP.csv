@@ -1,0 +1,2339 @@
+"PollingStationSerial No",Polling Station Name,Electoral Area,Block Code,"MaleVoters","FemaleVoters","TotalVoters","MaleBooths","FemaleBooths","TotalBooths"
+1,Govt:Boys Middle School Gobind Pur                 (Male),Gobind pur,210090101,698,0,698,2,0,2
+"",,Gobind pur,210090102,443,0,443,,,
+2,Govt:Boys Middle School Gobind Pur                 (Female),Gobind pur,210090101,0,585,585,0,2,2
+"",,Gobind pur,210090102,0,352,352,,,
+3,Govt: Girls Primary School Gobind Pur           (Male),Gobind Pur,210090103,358,0,358,2,0,2
+"",,Gobind Pur,210090104,335,0,335,,,
+"",,Joaya Kalia,210090107,534,0,534,,,
+4,Govt: Girls Primary School Gobind Pur   (Female),Gobind Pur,210090103,0,289,289,0,2,2
+"",,Gobind Pur,210090104,0,255,255,,,
+"",,Joaya Kalia,210090107,0,426,426,,,
+5,Govt:Boys Primary School Naqsha              (Combined),Naqsha,210090105,525,468,993,1,1,2
+6,"Govt:Boys Primary School, Tibbi Sabay wali  (Combined)",Tibbi Mohal,210090201,586,502,1088,1,1,2
+7,"Govt:Boys High School, 62/D      (Male)",Chak Qudratullah,210090106,119,0,119,2,0,2
+"",,Chak 62/D,210090203,549,0,549,,,
+"",,Chak 62/D,210090204,244,0,244,,,
+"",,Chak 62/D,210090205,414,0,414,,,
+8,"Govt:Boys High School, 62/D                     (Female)",Chak Qudratullah,210090106,0,86,86,0,2,2
+"",,Chak 62/D,210090203,0,471,471,,,
+"",,Chak 62/D,210090204,0,217,217,,,
+"",,Chak 62/D,210090205,0,328,328,,,
+9,Govt:Boys Primary School Tiwana                 (Combined),Doghari Doghara,210090202,400,354,754,2,2,4
+"",,Tiwana,210090708,456,307,763,,,
+10,Govt:Boys Primary School 59/D                (Combined),Chak 59/D,210090301,200,149,349,2,1,3
+"",,Chak 59/D,210090302,624,457,1081,,,
+11,Govt: Girls Primary School 59/D                (Combined),Chak 59/D,210090303,245,167,412,1,1,2
+"",,Chak Wasou,210090308,238,182,420,,,
+12,"Govt:Boys High School, 60/D East                (Combined)",Chak 60/D,210090304,320,226,546,2,1,3
+"",,Chak 60/D,210090305,367,316,683,,,
+13,"Govt:Boys High School, 60/D west                 (Combined)",Chak 60/D,210090306,211,185,396,1,1,2
+Chak 60/D,210090307,229,203,432,,,,,
+14,Govt:Boys Primary School 56/D    (Male),Chak 56/D,210090402,237,0,237,2,0,2
+"",,Chak 56/D,210090403,210,0,210,,,
+"",,Chak 56/D,210090404,275,0,275,,,
+15,Govt:Boys Primary School 56/D                   (Female),Chak 56/D,210090401,0,277,277,0,2,2
+"",,Chak 56/D,210090402,0,196,196,,,
+"",,Chak 56/D,210090403,0,141,141,,,
+"",,Chak 56/D,210090404,0,206,206,,,
+16,Govt:Boys Primary School 57/D                  (Combined),Chak 57/D,210090405,565,406,971,1,1,2
+17,Govt:Boys Primary School 58/D                 (Combined),Chak 58/D,210090406,395,331,726,2,1,3
+"",,Chak 58/D,210090407,384,264,648,,,
+18,"Govt:Boys Primary School, Alwardi Khan East  (Male)",Chak Alwadi Khan,210090501,602,0,602,3,0,3
+"",,Chak Alwadi Khan,210090502,363,0,363,,,
+"",,Chak Alwadi Khan,210090503,340,0,340,,,
+19,"Govt:Boys Primary School, Alwardi Khan West (Female)",Chak Alwadi Khan,210090501,0,457,457,0,2,2
+"",,Chak Alwadi Khan,210090502,0,310,310,,,
+"",,Chak Alwadi Khan,210090503,0,218,218,,,
+20,Govt:Boys Primary School 61/D                  (Combined),Chak 61/D,210090504,552,497,1049,1,1,2
+21,Govt:Girls Middle School Heela Wattoowan   (Male),Heela Wattwan,210090601,331,0,331,2,0,2
+"",,Heela Wattwan,210090602,36,0,36,,,
+"",,Heela Wattwan,210090603,650,0,650,,,
+22,Govt:Girls Middle School Heela Wattoowan  (Female),Heela Wattwan,210090601,0,189,189,0,2,2
+"",,Heela Wattwan,210090602,0,17,17,,,
+"",,Heela Wattwan,210090603,0,536,536,,,
+23,"Govt:Boys Primary School, Heela Kalarya           (Male)",Heela Kalaryn Wala,210090604,364,0,364,2,0,2
+"",,Heela Kalaryn Wala,210090605,476,0,476,,,
+24,"Govt:Boys Primary School, Heela Kalarya (Female)",Heela Kalaryn Wala,210090604,0,366,366,0,2,2
+"",,Heela Kalaryn Wala,210090605,0,395,395,,,
+25,Govt:Boys Primary School 63/ D                       (Male),Chak 63/D,210090606,445,0,445,2,0,2
+"",,Chak 63/D,210090607,496,0,496,,,
+"",,Chak 63/D,210090608,132,0,132,,,
+"",,Chak 63/D,210090609,226,0,226,,,
+26,Govt: Girls High School 63/D                      (Female),Chak 63/D,210090606,0,385,385,0,2,2
+Chak 63/D,210090607,0,355,355,,,,,
+Chak 63/D,210090608,0,105,105,,,,,
+Chak 63/D,210090609,0,161,161,,,,,
+28,Govt:Boys Middle School 67/D    (Male),Chak 67/D,210090701,818,0,818,3,0,3
+"",,Chak 67/D,210090702,49,0,49,,,
+"",,Chak 67/D,210090703,342,0,342,,,
+29,Govt:Boys Middle School 67/D                   (Female),Chak 67/D,210090701,0,695,695,0,2,2
+"",,Chak 67/D,210090702,0,30,30,,,
+"",,Chak 67/D,210090703,0,303,303,,,
+30,Govt: Girls Primary School 67/D                 (Combined),Chak 67/D,210090704,390,310,700,1,1,2
+"",,Chak 67/D,210090705,220,186,406,,,
+31,Govt:Boys Primary School Nosher Bodla       (Combined),Nosher Bodla,210090706,457,403,860,2,2,4
+"",,Nosher Bodla,210090707,424,302,726,,,
+32,Govt:Boys Primary School 66/D    (Male),Jamal Pur Tahli,210090709,338,0,338,2,0,2
+"",,Chak 66/D,210090806,671,0,671,,,
+33,Govt:Boys Primary School 66/D               (Female),Jamal Pur Tahli,210090709,0,269,269,0,1,1
+"",,Chak 66/D,210090806,0,458,458,,,
+34,Govt:Boys High School Islam Garh            (Combined),Islam Ghar,210090801,301,247,548,1,1,2
+"",,Chak Ghorian Wala,210090809,103,66,169,,,
+35,"Govt: Girls Primary School Islam Garh (Kartar Pur)(Male)",Islam Garh,210090802,567,0,567,2,0,2
+"",,Islam Garh,210090803,441,0,441,,,
+36,Govt: Girls Primary School Islam Garh (Kartar Pur) (Female),Islam Garh,210090802,0,427,427,0,2,2
+"",,Islam Garh,210090803,0,289,289,,,
+37,"Govt:Boys High School, Islam Garh (Kartar Pur)    (Male)",Islam Garh,210090804,539,0,539,2,0,2
+"",,Islam Garh(Kartar Pur),210090805,351,0,351,,,
+38,"Govt:Boys High School, Islam Garh (Kartar Pur)  (Female)",Islam Garh,210090804,0,403,403,0,2,2
+"",,Islam Garh(Kartar Pur),210090805,0,256,256,,,
+39,"Govt:Boys Middle School, 24/SP( Combined)",Chak 24/SP,210090807,387,269,656,1,1,2
+"",,Chak 24/SP,210090808,362,222,584,,,
+40,Govt:Boys Primary School Nizam Addli key (Combined),Nazam Addlikay,210090810,487,388,875,2,2,4
+"",,Ghazi Mardan,210090811,347,273,620,,,
+41,Govt: Boys Primary School Sham Kot (Combined,Sham Garh,210090812,634,490,1124,2,1,3
+42,"Govt:Boys Middle School, Bunga  Hayat       (Male)",Buga Hayat,210050101,452,0,452,2,0,2
+Buga Hayat,210050102,70,0,70,,,,,
+Buga Hayat,210050115,133,0,133,,,,,
+Buga Hayat,210050103,883,0,883,,,,,
+Buga Hayat,210050104,222,0,222,,,,,
+43,"Govt:Boys Middle School, Bunga  Hayat   (Female)",Buga Hayat,210050102,0,60,60,0,2,2
+"",,Buga Hayat,210050115,0,106,106,,,
+"",,Buga Hayat,210050103,0,697,697,,,
+"",,Buga Hayat,210050104,0,175,175,,,
+44,Govt: Girls Middle School Bunga Hayat   (Combined),Buga Hayat,210050105,285,248,533,2,2,4
+"",,Buga Hayat,210050106,129,100,229,,,
+"",,Buga Hayat,210050107,176,116,292,,,
+"",,Magan Pur,210050114,232,178,410,,,
+45,"Govt:Boys Primary School, Asdullah Pur  (Combined)",Asdullah Pur,210050111,282,285,567,2,2,4
+"",,Asdullah Pur,210050112,391,313,704,,,
+"",,Asdullah Pur,210050113,167,156,323,,,
+46,"Govt:Boys Primary School, Arazi Amar Singh (Combined)",Arazi Amar Singh,210050108,121,105,226,2,2,4
+"",,Arazi Amar Singh,210050109,473,298,771,,,
+"",,Arazi Amar Singh,210050110,393,292,685,,,
+47,"Govt:Boys Primary School, Nanik Pur   P )*  (Male)",Nanik Pur,210050301,413,0,413,2,0,2
+"",,Nanik Pur,210050302,380,0,380,,,
+"",,Nanik Pur,210050303,631,0,631,,,
+"",,Nanik Pur,210050304,259,0,259,,,
+48,"Govt:Boys Primary School, Nanik Pur   P )*           (Female)",Nanik Pur,210050301,0,315,315,0,2,2
+"",,Nanik Pur,210050302,0,299,299,,,
+"",,Nanik Pur,210050303,0,447,447,,,
+"",,Nanik Pur,210050304,0,206,206,,,
+49,"Govt: Boys Primary School 5 marla Scheem Bung Hayat(Combined)","Nanak Pura  ( 5 MarlaScheme)",210050310,644,434,1078,1,1,2
+50,Govt: Girls Primary School  Kot Maan Singh (Combined),Nank Pur,210050311,492,330,822,1,1,2
+51,"Govt: Girls,Primary School Nanak Pur   (Combined)",Nanak Pur,210050305,287,228,515,2,1,3
+"",,Nanak Pur,210050306,360,273,633,,,
+"",,Nanak Pur,210050307,275,197,472,,,
+52,Govt:Boys Primary School Nanak Pur   (Combined),Nanak Pur,210050308,320,247,567,1,1,2
+"",,Nanak Pur,210050309,235,164,399,,,
+53,"Govt:Boys Higher Secoundary School, Chak Bedi East(Combined)",Chak Bedi,210050401,307,254,561,1,1,2
+"",,Chak Bedi,210050402,381,311,692,,,
+54,"Govt:Boys Higher Secoundary School, Chak Bedi West(Male)",Chak Bedi,210050404,278,0,278,2,0,2
+Chak Bedi,210050405,326,0,326,,,,,
+Chak Bedi,210050406,619,0,619,,,,,
+55,(Female),Chak Bedi,210050405,0,225,225,0,2,2
+"",,Chak Bedi,210050406,0,489,489,,,
+56,Govt:Boys Primary School Tahtha Ranghran (Combined),Chak Bedi,210050403,355,285,640,1,1,2
+57,"Govt: Girls High School, Chak Bedi    (Combined)",Chak Bedi,210050407,526,432,958,2,1,3
+"",,Chak Bedi,210050409,210,144,354,,,
+58,Yousaf Saeed Public High School (PEF) 54/SP (Combined),Chak 54/SP,210050203,267,168,435,1,1,2
+59,Govt: Girls Primary School 54/SP            (Combined),Chak 54/SP,210050201,590,391,981,2,1,3
+"",,Chak 54/SP,210050202,277,201,478,,,
+60,Govt:Boys Primary School Prince Abad   (Combined),Khatwan,210050204,326,197,523,2,2,4
+"",,Prinsabad,210050205,302,229,531,,,
+"",,Prinsabad,210050206,224,160,384,,,
+"",,Chak Ellahi  Bakhash,210050408,131,111,242,,,
+61,"Govt:Boys Middle School, 23/SP    (Male)",Chak 23/SP,210050502,849,0,849,2,0,2
+"",,Chak 23/SP,210050503,485,0,485,,,
+"",,Chak 23/SP,210050504,279,0,279,,,
+62,"Govt:Boys Middle School, 23/SP               (Female)",Chak 23/SP,210050502,0,685,685,0,2,2
+"",,Chak 23/SP,210050503,0,390,390,,,
+"",,Chak 23/SP,210050504,0,240,240,,,
+63,Govt:Girls Primary School 23/SP     (Combined),Chak 23/SP,210050501,481,360,841,1,1,2
+64,Govt:Boys Primary School 22/SP                           (Male),Chak 22/SP,210050505,306,0,306,2,0,2
+"",,Chak 22/SP,210050506,517,0,517,,,
+"",,Chak 22/SP,210050507,297,0,297,,,
+"",,Chak 22/SP,210050508,134,0,134,,,
+"",,Chak 22/SP,210050509,233,0,233,,,
+65,Govt: Girls Primary School 22/SP              (Female),Chak 22/SP,210050505,0,276,276,0,2,2
+"",,Chak 22/SP,210050506,0,326,326,,,
+"",,Chak 22/SP,210050507,0,229,229,,,
+"",,Chak 22/SP,210050508,0,104,104,,,
+"",,Chak 22/SP,210050509,0,195,195,,,
+66,Govt:Boys Middle School 11/SP                      (Male),chak 11/SP,210050601,380,0,380,2,0,2
+chak 11/SP,210050602,299,0,299,,,,,
+chak 11/SP,210050603,548,0,548,,,,,
+chak 11/SP,210050601,0,257,257,,,,,
+chak 11/SP,210050602,0,232,232,,,,,
+68,Govt:Boys Primary School 12/SP             (Combined),Chak 12/SP,210050604,622,532,1154,2,1,3
+"",,Chak 12/SP,210050605,141,133,274,,,
+69,"Govt:Boys Middle School, 21/SP              (Combined)",Chak 21/SP,210050606,452,363,815,2,2,4
+"",,Chak 21/SP,210050607,476,383,859,,,
+70,Govt:Boys Primary School 48/SP                       (Male),Chak 48/SP,210050608,596,0,596,2,0,2
+"",,Chak 48/SP,210050609,522,0,522,,,
+71,Govt: Girls  Primary School 48/SP                 (Female),Chak 48/SP,210050608,0,460,460,0,2,2
+"",,Chak 48/SP,210050609,0,359,359,,,
+72,"Govt:Boys High School, Kumhari Wala East     (Male)",Kumhariwala,210050701,237,0,237,2,0,2
+"",,Kumhariwala,210050702,655,0,655,,,
+"",,Kumhariwala,210050703,233,0,233,,,
+73,"Govt:Boys High School, Kumhari Wala South (Female)",Kumhariwala,210050701,0,159,159,0,2,2
+"",,Kumhariwala,210050702,0,467,467,,,
+"",,Kumhariwala,210050703,0,178,178,,,
+74,"Govt: Girls High School, Kumahari Wala West (Combined)",Kumhariwala,210050704,326,241,567,2,1,3
+"",,Kumhariwala,210050705,441,328,769,,,
+75,Govt:Boys Primary School Kani Pur            (Combined),Kani Pur,210050706,466,284,750,1,1,2
+"",,Kani Pur,210050707,284,134,418,,,
+76,"Community Model School, Chak 10/SP     (Combined)",Chak 10/SP,210050708,186,116,302,2,1,3
+"",,Chak 10/SP,210050709,423,341,764,,,
+"",,Chak 10/SP,210050710,310,191,501,,,
+77,"Govt:Boys High School, Bail Gunj                           (Male)",Bail Gunj,210050901,673,0,673,2,0,2
+"",,Bail Gunj,210050902,411,0,411,,,
+"",,Chak 47/SP,210050906,7,0,7,,,
+"",,Chak 47/SP,210050907,10,0,10,,,
+78,"Govt:Boys High School, Bail Gunj (West            (Female)",Bail Gunj,210050901,0,479,479,0,2,2
+"",,Bail Gunj,210050902,0,340,340,,,
+"",,Chak 47/SP,210050906,0,4,4,,,
+"",,Chak 47/SP,210050907,0,6,6,,,
+79,Govt: Girls Community  Model School.Bail Gunj     (Male),Bail Gunj,210050903,462,0,462,2,0,2
+"",,Bail Gunj,210050904,260,0,260,,,
+"",,Bail Gunj,210050905,335,0,335,,,
+80,"Govt: Girls Community  Model School.Bail Gunj(West(Female)",Bail Gunj,210050903,0,336,336,0,2,2
+Bail Gunj,210050904,0,207,207,,,,,
+Bail Gunj,210050905,0,242,242,,,,,
+Kalaywal,210050910,115,82,197,,,,,
+"",,4/SP,210050912,353,267,620,,,
+"",,Bheday,210051008,372,250,622,,,
+82,Govt:Boys Primary School 6/SP             (Combined),Chak 6/SP,210050908,436,285,721,1,1,2
+"",,Chak 6/SP,210050909,159,73,232,,,
+83,"Govt:Boys Middle School, 46/SP         (Male)",Chak 46/SP,210051001,617,0,617,2,0,2
+"",,Chak 46/SP,210051002,270,0,270,,,
+"",,Chak 46/SP,210051003,207,0,207,,,
+84,"Govt:Boys Middle School, 46/SP                        (Female)",Chak 46/SP,210051001,0,460,460,0,2,2
+"",,Chak 46/SP,210051002,0,213,213,,,
+"",,Chak 46/SP,210051003,0,167,167,,,
+85,Govt: Girls Primary School Kot Kahan Singh    (Male),Kot Kahan singh,210051004,311,0,311,2,0,2
+"",,Kot Kahan singh,210051005,393,0,393,,,
+"",,Kot Kahan singh,210051006,424,0,424,,,
+"",,Chah Para Kumboh,210051007,24,0,24,,,
+86,Govt: Girls Primary School Kot Kahan Singh  (Female),Kot Kahan singh,210051004,0,283,283,0,2,2
+"",,Kot Kahan singh,210051005,0,297,297,,,
+"",,Kot Kahan singh,210051006,0,298,298,,,
+"",,Chah Para Kumboh,210051007,0,9,9,,,
+87,Govt:Boys Primary School 65/D (Male),Chak 65/D,210051104,340,0,340,2,0,2
+"",,Chak 65/D,210051105,653,0,653,,,
+88,Govt:Boys Primary School 65/D             (Female),Chak 65/D,210051104,0,266,266,0,2,2
+"",,Chak 65/D,210051105,0,499,499,,,
+89,Govt: Girls Primary School 65/D              (Combined),Chak 65/D,210051106,474,397,871,2,1,3
+"",,Faiz Pur,210051107,312,258,570,,,
+90,Govt: Girls Primary School Fazal Garh                (Male),Fazal Garh,210051101,168,0,168,2,0,2
+"",,Fazal Garh,210051102,327,0,327,,,
+"",,Fazal Garh,210051103,484,0,484,,,
+91,Govt: Boys Primary School Fazal Garh   (Female),Fazal Garh,210051101,0,122,122,0,2,2
+"",,Fazal Garh,210051102,0,286,286,,,
+"",,Fazal Garh,210051103,0,370,370,,,
+92,"Govt:BoysMiddle School Ghulam Farid Mallay ke Tarro(Male)",Mallay ke Tarroo ky,210050801,492,0,492,2,0,2
+"",,Mallay ke Tarroo ky,210050802,389,0,389,,,
+"",,Mallay ke Tarroo ky,210050803,269,0,269,,,
+93,"Govt:BoysMiddle School Ghulam Farid Mallay ke Tarro(Female)",Mallay ke Tarroo ky,210050801,0,339,339,0,2,2
+Mallay ke Tarroo ky,210050802,0,297,297,,,,,
+Mallay ke Tarroo ky,210050803,0,223,223,,,,,
+"",(Combined),Mallay Ke Tarro,210050805,254,178,432,,,
+95,"Govt:Boys High School,Pir Ghani    (Male)",Pir Ghani,210030205,348,0,348,2,0,2
+"",,Pir Ghani,210030206,445,0,445,,,
+96,Office of the Union Council No.17 Pir Ghani (Female),Pir Ghani,210030205,0,289,289,0,2,2
+"",,Pir Ghani,210030206,0,435,435,,,
+97,"Govt:Boys High School,Pir Ghani  (West)              (Male)",Pir Ghani,210030207,300,0,300,2,0,2
+"",,Pir Ghani,210030208,289,0,289,,,
+"",,Pir Ghani,210030209,756,0,756,,,
+98,"Govt:Boys High School,Pir Ghani  (South          (Female)",Pir Ghani,210030207,0,276,276,0,2,2
+"",,Pir Ghani,210030208,0,213,213,,,
+"",,Pir Ghani,210030209,0,644,644,,,
+99,"Govt: Girls Middle School, Pir Ghani     (Combined)",Jalil Mehteyka,210030201,122,79,201,2,1,3
+"",,Dedar Singh,210030202,406,261,667,,,
+"",,Rakh Pir Ghani,210030203,23,15,38,,,
+"",,Maney Ki,210030204,328,286,614,,,
+100,"Govt:Girls Primary School, Siddhu Malka  (Combined)",Saddu Malkana,210030501,529,428,957,2,1,3
+101,"Govt:Boys Middle School, Saleem Shah Bodla (Combined)",Piddu Busharat,210030505,571,425,996,1,1,2
+102,"Govt:Boys Primary School, Bheela (East)              (Male)",Dhaker,210030101,317,0,317,2,0,2
+"",,Bhela,210030103,420,0,420,,,
+"",,Bhela,210030104,420,0,420,,,
+103,"Govt:Girls Primary School, Bheela                (Female)",Dhaker,210030101,0,202,202,0,2,2
+"",,Bhela,210030103,0,287,287,,,
+"",,Bhela,210030104,0,304,304,,,
+104,Govt:Boys Primary School Bheela (West)   (Combined),Jeewana Mehtam,210030102,329,218,547,2,1,3
+"",,Bhela,210030105,526,319,845,,,
+105,"Govt:Boys Primary School, Chak Nasir Khan (Combined)",Nasir Khan Wala,210030601,479,377,856,1,1,2
+106,"Govt:Girls Middle School, Saleem Shah Bodla (Combined)",Saleem Shah Bodla,210030602,218,137,355,1,1,2
+107,"Govt: Girls Community Model School, Siddu Pipli(Male)",Saddu Pipli,210030604,829,0,829,2,0,2
+108,"Govt:Boys Primary School, Chak Khaggya          (Female)",Saddu Pipli,210030604,0,649,649,0,2,2
+110,"Govt:Boys Primary School Hassan ke Gamey Khan(Combined)","Hassan key GameyKhan",210030701,294,182,476,1,1,2
+"",,Kund Nain singh,210030702,85,59,144,,,
+"",,Kund Malay kay,210030703,74,69,143,,,
+11,Govt:Boys Primary School Gadai Shah           (Combined),Gadai Shah,210030704,749,528,1277,2,1,3
+112,Govt:Boys Primary School Noora Ahlooka           (Male),Noora Ahlooka,210030705,319,0,319,2,0,2
+"",,Amira,210030706,174,0,174,,,
+"",,Sohara,210030707,229,0,229,,,
+"",,Dadu Ahlooka,210030805,312,0,312,,,
+113,Govt:Boys Primary School Noora Ahlooka        (Female),Noora Ahlooka,210030705,0,235,235,0,2,2
+"",,Amira,210030706,0,153,153,,,
+"",,Sohara,210030707,0,141,141,,,
+"",,Dadu Ahlooka,210030805,0,233,233,,,
+114,"Govt:Boys Middle School, Malik Bahawal (East)(Combined)",Malik Bahawal,210030801,418,343,761,1,1,2
+"",,Malik Bahawal,210030802,250,161,411,,,
+115,Govt:Boys Primary School Kuhnd Mahar Kalan (Combined),"Kund Saddu HaidarMalkana",210030804,241,177,418,1,1,2
+"",,Kund Mahar Kalan,210030904,96,74,170,,,
+116,"Govt:Boys Middle School, Chak Malik Bhawal (West)(Combined)",Chak Amira Ahlooka,210030806,192,136,328,1,1,2
+"",,Chak Amira Ahlooka,210030807,295,193,488,,,
+117,"Govt:Boys Primary School Malik  Rehmoon  (Malik Bhawal)(Combined)",Bahmani,210030803,297,199,496,1,1,2
+"",,Malik Rahmoon,210030905,281,234,515,,,
+118,"Govt:Boys Middle School, 41/SP  (Combined)",Chak 41/SP,210030301,497,323,820,1,1,2
+119,Govt:Boys Primary School 40/SP         (Combined),Chak 40/SP,210030302,778,544,1322,2,1,3
+120,"Govt:Girls Primary School, 40/SP   (Combined)",Chak 40/SP,210030303,313,246,559,2,1,3
+"",,Chak 40/SP,210030304,351,254,605,,,
+121,"Govt:Girls  High School, 39/SP    (Male)",Chak 39/SP,210030305,306,0,306,2,0,2
+"",,Chak 39/SP,210030306,650,0,650,,,
+122,"Govt:Girls  High School, 39/SP                     (Female)",Chak 39/SP,210030305,0,234,234,0,2,2
+"",,Chak 39/SP,210030306,0,538,538,,,
+123,"Govt:Boys High School, 39/SP             (Combined)",Chak 39/SP,210030307,456,334,790,1,1,2
+124,"Govt:Boys Middle School, Moosay Wal   (Combined)",Moosay Wal,210030401,160,114,274,2,1,3
+Moosay Wal,210030402,185,162,347,,,,,
+Moosay Wal,210030403,367,288,655,,,,,
+Moosay Wal,210030404,240,173,413,,,,,
+"",,Chak 7/SP,210030406,245,170,415,,,
+126,Govt:Boys Primary School 8/SP              (Combined),Chak 8/SP,210030407,177,134,311,1,1,2
+"",,Chak 8/SP,210030408,433,352,785,,,
+127,Govt:Boys Primary School 9/SP            (Combined),Chak 9/SP,210030409,150,115,265,2,1,3
+"",,Chak 9/SP,210030410,294,192,486,,,
+"",,Chak 9/SP,210030411,185,145,330,,,
+"",,Chak 9/SP,210030412,261,173,434,,,
+128,Govt:Girls Primary School 38/SP           (Combined),Chak 38/SP,210030413,585,434,1019,2,2,4
+"",,Chak 38/SP,210030414,414,310,724,,,
+129,"Govt:Boys Middle School, Farid Kot (East)            (Male)",Baghar Mehtey Ka,210030502,109,0,109,3,0,3
+"",,Aalam Mehtey Ka,210030503,179,0,179,,,
+"",,Arazi Kham Tehsil,210030504,28,0,28,,,
+"",,Farid Kot,210030506,326,0,326,,,
+"",,Farid Kot,210030507,427,0,427,,,
+"",,Farid Kot,210030508,346,0,346,,,
+"",,Farid Kot,210030509,130,0,130,,,
+"",,Farid Kot,210030510,60,0,60,,,
+130,"Govt:Boys Middle School, Farid Kot (West) (Female)",Baghar Mehtey Ka,210030502,0,79,79,0,2,2
+"",,Aalam Mehtey Ka,210030503,0,127,127,,,
+"",,Arazi Kham Tehsil,210030504,0,16,16,,,
+"",,Farid Kot,210030506,0,248,248,,,
+"",,Farid Kot,210030507,0,316,316,,,
+"",,Farid Kot,210030508,0,215,215,,,
+"",,Farid Kot,210030509,0,89,89,,,
+"",,Farid Kot,210030510,0,35,35,,,
+131,"Govt:Boys Primary School Mustaqeem Mehmoonka(Combined)",Bonga Bloach,210030901,116,100,216,2,1,3
+"",,"MustaqeemMehmoonka",210030902,139,119,258,,,
+"",,Jahana Mehmonka,210030906,49,33,82,,,
+"",,Kirpa Ram,210031002,236,173,409,,,
+"",,Rehmani Malkana,210031104,221,179,400,,,
+"",,Rehmani Malkana,210031105,45,34,79,,,
+132,Govt:Boys Primary School Bohar             (Combined),Bohar,210030903,532,384,916,1,1,2
+Meer Khan Mahmooka,210030907,73,71,144,,,,,
+Panch,210030908,236,182,418,,,,,
+"",,Panch,210030910,245,200,445,,,
+"",,Panch,210030911,194,115,309,,,
+134,Govt:Boys Primary School Jagga Bloach         (Combined),Jagga Bloach,210031001,378,249,627,1,1,2
+"",,Lakhwera,210031004,331,228,559,,,
+135,Govt: Boys Model Primary School Bakar kay (Combined),Saddu Haider Malkana,210031003,616,518,1134,2,2,4
+"",,Arazi Jind Karm,210031005,192,188,380,,,
+"",,Khalita,210031006,46,29,75,,,
+"",,Kalanchi,210031007,60,28,88,,,
+"",,Nabi Bakhsh,210031008,13,16,29,,,
+"",,Qadir Bakhsh Bloch,210031009,7,5,12,,,
+136,Govt:Boys Primary School Khola Utam Singh (Combined),Chak 5/KB,210031101,195,141,336,1,1,2
+"",,Khola Utam Singh,210031102,329,287,616,,,
+"",,Arazi Jhajhal Bhag,210031103,44,20,64,,,
+"",,Khaggay Wala,210031106,20,14,34,,,
+137,"Govt:Boys Middle School, Rakh Pakpattan        (Male)",Rakh Pakpattan,210010205,300,0,300,2,0,2
+"",,Rakh Pakpattan,210010209,293,0,293,,,
+"",,Rakh Pakpattan,210010211,110,0,110,,,
+"",,Rakh Pakpattan,210010212,350,0,350,,,
+"",,Rakh Pakpattan,210010210,159,0,159,,,
+138,"Govt:Boys Middle School, Rakh Pakpattan  (Female)",Rakh Pakpattan,210010205,0,204,204,0,2,2
+"",,Rakh Pakpattan,210010209,0,210,210,,,
+"",,Rakh Pakpattan,210010211,0,84,84,,,
+"",,Rakh Pakpattan,210010212,0,284,284,,,
+"",,Rakh Pakpattan,210010210,0,114,114,,,
+139,"Govt:Girls Primary School, Rakh pakpattan  (Combined)",Rakh Pakpattan,210010206,557,458,1015,2,2,4
+"",,Rakh Pakpattan,210010207,361,254,615,,,
+"",,Rakh Pakpattan,210010208,181,128,309,,,
+140,"Govt:Boys Middle School, 13/SP            (Combined)",Chak 13/SP,210010606,167,112,279,2,2,4
+"",,Chak 13/SP,210010607,655,567,1222,,,
+141,"Govt:Girl Primary School, 13/SP             (Combined)",Chak 13/SP,210010608,450,367,817,1,1,2
+"",,Chak 13/SP,210010609,100,66,166,,,
+142,"Govt:Boys Primary School, 16/SP Mardana    (Male)",Chak 16/SP,210010201,276,0,276,3,0,3
+Chak 16/SP,210010202,484,0,484,,,,,
+Chak 16/SP,210010203,458,0,458,,,,,
+Chak 16/SP,210010204,365,0,365,,,,,
+143,"Govt:Girls Primary School, 16/SP (Feamel)",Chak 16/SP,210010202,0,408,408,0,2,2
+"",,Chak 16/SP,210010203,0,314,314,,,
+"",,Chak 16/SP,210010204,0,288,288,,,
+144,"Govt:Girls High School, 17/SP     (Male)",Chak 17/SP,210010601,577,0,577,2,0,2
+"",,Chak 17/SP,210010602,577,0,577,,,
+"",,Chak 17/SP,210010604,199,0,199,,,
+145,Govt:Boys Primary School 17/SP           (Female),Chak 17/SP,210010601,0,404,404,0,2,2
+"",,Chak 17/SP,210010602,0,384,384,,,
+"",,Chak 17/SP,210010604,0,127,127,,,
+146,"(72)Govt:Girls High School, 17/SP           (Combined)",Chak 17/SP,210010603,462,373,835,2,1,3
+"",,Chak 17/SP,210010605,254,195,449,,,
+147,"Govt:Boys  Middle School, Karm Pur Bhatti    (Male)",Karm Pur Bhatti,210010401,233,0,233,2,0,2
+"",,Karm Pur Bhatti,210010402,491,0,491,,,
+"",,Karm Pur Bhatti,210010403,331,0,331,,,
+148,"(103)Govt:Boys  Middle School, Karm Pur Bhatti   (Female)",Karm Pur Bhatti,210010401,0,203,203,0,2,2
+"",,Karm Pur Bhatti,210010402,0,434,434,,,
+"",,Karm Pur Bhatti,210010403,0,244,244,,,
+149,"Govt:Girls Primary School, Hafiz Sidique     (Combined)",Hafiz Siddiq,210010408,507,388,895,1,1,2
+150,"Govt: Boys Primary School,  Jandoo wala  (Combined)",Jandoo Wal,210010404,319,179,498,1,1,2
+"",,Cheena,210010405,96,71,167,,,
+151,"Govt.Boys High School, Basti Ghulam Qadir (Combined)",Ghulam Qadir,210010407,413,272,685,1,1,2
+152,"Govt: Boys Primary School, Ghulam Shah Bodla(Combined)",Bodla,210010406,563,473,1036,1,1,2
+153,"Govt:Boys Middle School, 15/SP    (Male)",Chak 15/SP,210010303,482,0,482,2,0,2
+"",,Chak 15/SP,210010304,253,0,253,,,
+"",,Chak 15/SP,210010305,348,0,348,,,
+154,"108Govt:Boys Middle School, 15/SP    (Male)",Chak 15/SP,210010301,479,0,479,2,0,2
+"",,Chak 15/SP,210010302,394,0,394,,,
+155,Govt: Girls Middle School 15/SP   (Female),Chak 15/SP,210010301,0,413,413,0,3,3
+Chak 15/SP,210010302,0,293,293,,,,,
+Chak 15/SP,210010303,0,326,326,,,,,
+Chak 15/SP,210010304,0,193,193,,,,,
+Chak 15/SP,210010305,0,241,241,,,,,
+Chak 1/KB,210010309,670,493,1163,,,,,
+157,"Govt:Boys Primary School, Rehmoo Kay       (Male)",Chak 1/KB,210010311,321,0,321,2,0,2
+"",,Chak 1/KB,210010312,203,0,203,,,
+"",,Rehmoon Kay,210010313,580,0,580,,,
+158,"Govt:Boys Primary School, Rehmoo Kay    (Female)",Chak 1/KB,210010311,0,216,216,0,2,2
+"",,Chak 1/KB,210010312,0,142,142,,,
+"",,Rehmoon Kay,210010313,0,433,433,,,
+159,Govt:Boys Primary School 14/SP      (Male),chak 14/SP,210010306,600,0,600,2,0,2
+"",,chak 14/SP,210010307,484,0,484,,,
+"",,chak 14/SP,210010308,104,0,104,,,
+160,Govt:Boys Primary School 14/SP                  (Female),chak 14/SP,210010306,0,495,495,0,2,2
+"",,chak 14/SP,210010307,0,399,399,,,
+"",,chak 14/SP,210010308,0,77,77,,,
+161,Govt:Boys Primary School 18/SP East             (Combined),Chak 18/SP,210080801,337,214,551,2,1,3
+"",,Chak 18/SP,210080802,481,336,817,,,
+162,Govt:Boys Primary School 18/SP West              (Combined),Chak 18/SP,210080803,319,213,532,1,1,2
+"",,Chak 18/SP,210080804,395,222,617,,,
+163,Govt:Boys Primary School 25/SP                      (Combined),Chak 25/SP,210080805,472,328,800,2,1,3
+"",,Dhamiana,210080808,265,196,461,,,
+164,Govt: Girls Primary School 25/SP   (Male),Chak 25/SP,210080806,564,0,564,2,0,2
+"",,Chak 25/SP,210080807,436,0,436,,,
+165,Govt: BoysPrimary School 25/SP                 (Female),Chak 25/SP,210080806,0,395,395,0,2,2
+"",,Chak 25/SP,210080807,0,320,320,,,
+166,Govt:Boys Primary School Gurditta             (Combined),Gurditta,210080601,277,195,472,1,1,2
+"",,Gurditta,210080602,292,212,504,,,
+167,Govt: Boys  Primary School Talib Ali             (Combined),Talib Ali,210080603,130,111,241,1,1,2
+168,Govt:Boys Primary School Patasa             (Combined),Patasa,210080604,526,369,895,2,1,3
+"",,Nehla Abad,210080605,285,191,476,,,
+169,"Govt:Boys High School, 27/SP     (Male)",Chak 27/SP,210080610,364,0,364,2,0,2
+Chak 27/SP,210080611,280,0,280,,,,,
+Chak 27/SP,210080612,104,0,104,,,,,
+Chak 27/SP,210080613,252,0,252,,,,,
+Chak 27/SP,210080614,185,0,185,,,,,
+Chak 27/SP,210080610,0,327,327,,,,,
+Chak 27/SP,210080611,0,195,195,,,,,
+Chak 27/SP,210080612,0,89,89,,,,,
+"",,Chak 27/SP,210080614,0,164,164,,,
+171,"Govt:Boys Primary School, Amar Singh          (Combined)",Chak Amar Singh,210080608,377,260,637,1,1,2
+Chak Amar Singh,210080609,178,109,287,,,,,
+"Mehmood Pur Babianwala",210080606,349,205,554,,,,,
+"PollingStationSerial No",Polling Station Name,Electoral Area,Block Code,"MaleVoters","FemaleVoters","TotalVoters","MaleBooths","FemaleBooths","TotalBooths"
+1,"Govt Boys High School Colony Area, Pakpattan (Male)","Kachari Road/ FaridNagar/ Depal Pur Road.",210100104,450,0,450,2,0,2
+"Kachari Road/ FaridNagar/ Depal Pur Road.",210100108,214,0,214,,,,,
+"Kachari Road/ FaridNagar/ Depal Pur Road.",210100109,524,0,524,,,,,
+"Kachari Road/ FaridNagar/ Depal Pur Road.",210100110,786,0,786,,,,,
+"Kachari Road/ FaridNagar/Depal Pur Road.",210100104,0,441,441,,,,,
+"Kachari Road/ FaridNagar/ Depal Pur Road.",210100108,0,205,205,,,,,
+"Kachari Road/ FaridNagar/ Depal Pur Road.",210100109,0,380,380,,,,,
+3,"Govt: Boys High School Colony Area, Pakpattan (Male)","Mohallah Green Town-1",210100101,266,0,266,2,0,2
+"",,"Mohallah Green Town-2",210100102,127,0,127,,,
+"",,"Canal Colony/ OfficerColony",210100103,131,0,131,,,
+4,"Govt:Girls High School, Colony  Area, Pakpattan  West(Female)","Mohallah Green Town-1",210100101,0,209,209,0,2,2
+"",,"Mohallah Green Town-2",210100102,127,116,243,,,
+"",,"Canal Colony/ OfficerColony",210100103,131,126,257,,,
+5,"Govt:Boys Primary School, Madayshah  (Combined)","Pul 19-SP ,  JamalChowk/ Maday shah",210100107,455,373,828,1,1,2
+6,"Tehsil Office, Basti Aslam Noai East                 (Male)","Ganj shakar Colony/Railway Road, KachariRoad.",210100105,320,0,320,2,0,2
+"",,"Ganj shakar Colony/Railway Road, KachariRoad.",210100111,339,0,339,,,
+"",,"Ganj shakar Colony/Railway Road, KachariRoad.",210100112,370,0,370,,,
+7,"Govt:Girls Primary School, Basti Aslam Noai (Female)","Ganj shakar Colony/Railway Road, KachariRoad.",210100105,0,257,257,0,2,2
+"Ganj shakar Colony/Railway Road, KachariRoad.",210100111,0,279,279,,,,,
+"Ganj shakar Colony/Railway Road, KachariRoad.",210100112,0,274,274,,,,,
+Basti Aslam Nowi,210100202,426,0,426,,,,,
+Basti Aslam Nowi,210100209,315,0,315,,,,,
+8,"Tehsil Office, Basti Aslam Noai East                 (Male)","ShaheedNaghar/Railway LocoShed/Basti Bagy Shah.",210100212,342,0,342,3,0,3
+9,"Govt:Girls Primary School, Basti Aslam Noai (Female)",Basti Aslam Nowi,210100202,0,349,349,0,3,3
+"",,Basti Aslam Nowi,210100209,0,268,268,,,
+"",,Basti Aslam Nowi,210100210,0,613,613,,,
+"",,"Shaheed Naghar/Railway Loco Shed/Basti Bagy Shah.",210100212,0,344,344,,,
+10,"Tehsil Office, Basti Aslam Noai West                 (Male)","ShaheedNaghar/Railway LocoShed/Basti Bagy Shah.",210100203,623,0,623,4,0,4
+"",,"ShaheedNaghar/Railway LocoShed/Basti Bagy Shah.",210100211,773,0,773,,,
+"",,"ShaheedNaghar/Railway LocoShed/Basti Bagy Shah.",210100213,661,0,661,,,
+11,"Govt:Boys Primary School, Basti Aslam Noai (Female)","Shaheed Naghar/Railway Loco Shed/Basti Bagy Shah.",210100203,0,886,886,0,4,4
+"",,"Shaheed Naghar/Railway Loco Shed/Basti Bagy Shah.",210100211,0,431,431,,,
+"",,"Shaheed Naghar/Railway Loco Shed/Basti Bagy Shah.",210100213,0,328,328,,,
+12,"Govt:Boys Primary School, Basti Aslam Noai (Female)","Ali Block, Mansoora",210100201,0,291,291,0,1,1
+"",,"Ali Block, Mansoora",210100208,0,165,165,,,
+13,"Tehsil Office, Basti Aslam Noai West                 (Male)","Ali Block,Mansoora",210100201,413,0,413,2,0,2
+"Ali Block,Mansoora",210100208,200,0,200,,,,,
+15,Govt: Girls College for Women West  (Female),"Kachari Road/Depalpur Road.",210100106,0,401,401,0,2,2
+16,"Govt:Boys Primary School, Basti Azizabad East (Male)","Mandi Mord/Rahmatpura/Azizabad/Androon GridStation.",210100205,862,0,862,2,0,2
+17,Govt:Boys Primary School Basti Aziz abad West  (Female),"Mandi Mord/Rahmatpura/Azizabad/Androon GridStation.",210100205,0,679,679,0,2,2
+18,"Govt. Secondary School. (Special Education) (BarayMuttasra Smaat) 37/SP Road Pakpattan East     (Male)","Muhammad Nagar/Rehmat Pura/Mohallah Nizamia/Nasirabad/ Sharif Pura.",210100206,435,0,435,3,0,3
+"Muhammad Nagar/Rehmat Pura/Mohallah Nizamia/Nasirabad/ Sharif Pura.",210100214,595,0,595,,,,,
+"Muhammad Nagar/Rehmat Pura/Mohallah Nizamia/Nasirabad/ Sharif Pura.",210100215,440,0,440,,,,,
+"Muhammad Nagar/Rehmat Pura/Mohallah Nizamia/Nasirabad/ Sharif Pura.",210100206,0,438,438,,,,,
+"",,"Muhammad Nagar/Rehmat Pura/Mohallah Nizamia/Nasirabad/ Sharif Pura.",210100215,0,372,372,,,
+20,"(12)Govt. Secondary School. (Special Education) (BarayMuttasra Smaat) 37/SP Road Pakpattan East    (Male)","Basti Mehr Chiragh/Jamil Colony/Nadrabad/ BihariColony",210100207,615,0,615,2,0,2
+21,"(13)Govt.Secondary School. (Special Education) (BarayMuttasra Smaat) 37/SP Road Pakpattan West   (Female)","Basti Mehr Chiragh/Jamil Colony/Nadrabad/ BihariColony",210100207,0,535,535,0,2,2
+22,"Govt:Girls Primary School, Basti Girja Ghar East(Male)","Khan Pura/KachariRoad/Railway Phatak.",210100204,757,0,757,2,0,2
+23,"Govt:Girls Primary School, Basti Girja Ghar West   (Female)","Khan Pura/KachariRoad/Railway Phatak.",210100204,0,631,631,0,2,2
+24,"Office of the SDO.WAPDA Depalpur Road, Pak.   (Male)","Islam Colony/ HaiderColony",210100303,375,0,375,2,0,2
+"",,"Islam Colony/ HaiderColony",210100308,546,0,546,,,
+"",,"Islam Colony/ HaiderColony",210100309,337,0,337,,,
+25,"office of the XEN Wapda, Depalpur Road, Pakpattan(Female)","Islam Colony/ HaiderColony",210100303,0,323,323,0,2,2
+"Islam Colony/ HaiderColony",210100308,0,447,447,,,,,
+"Islam Colony/ HaiderColony",210100309,0,316,316,,,,,
+26,"Office of the SDO.WAPDA Depalpur Road, Pak.   (Male)","Ghulshan Colony/ IslamColony/MohallahSamadan Wala",210100302,409,0,409,2,0,2
+"",,"Ghulshan Colony/ IslamColony/MohallahSamadan Wala",210100307,374,0,374,,,
+27,"office of the XEN Wapda, Depalpur Road, Pakpattan(Female)","Ghali Hafizan wali/Railway Colony/ AqabWapda",210100301,0,221,221,0,2,2
+"",,"Ghulshan Colony/ IslamColony/MohallahSamadan Wala",210100302,0,259,259,,,
+"",,"Ghulshan Colony/ IslamColony/MohallahSamadan Wala",210100307,0,397,397,,,
+28,"Office of the Market  Committee, Pakpattan  (East)    (Male)","Islam Colony/ RailwayRoad/Moh: Tahli wala",210100304,479,0,479,3,0,3
+"Moh:Tahli wala/ GhaliNadra Khanwali,Koknaya Wala",210100305,587,0,587,,,,,
+"Moh:Tahli wala/ GhaliNadra Khanwali,Koknaya Wala",210100311,346,0,346,,,,,
+"Islam Colony/ RailwayRoad/Moh: Tahli wala",210100304,0,377,377,,,,,
+"Moh:Tahli wala/ GhaliNadra Khanwali,Koknaya Wala",210100305,0,578,578,,,,,
+30,"Govt:Boys High School, Urban Area, Pakpattan East(Male)",Islam Colony,210100401,825,0,825,2,0,2
+"",,Islam Colony,210100407,421,0,421,,,
+31,"Govt:Boys High School, Urban Area,Pakpattan West(Female)",Islam Colony,210100401,0,695,695,0,2,2
+"",,Islam Colony,210100407,0,354,354,,,
+32,"(20)Govt:Boys High School, Urban Area, Pakpattan East(Combined)","Pir Karyan/ IslamColony",210100402,599,512,1111,2,2,4
+33,"Govt: MC.Boys Primary School, Pir Karyian East       (Male)","Railway Road/ PirKaryan 2",210100403,507,0,507,3,0,3
+"",,"Railway Road/ PirKaryan 3",210100408,329,0,329,,,
+"",,Pir Karyan-3,210100404,607,0,607,,,
+34,"Govt:MC Boys Primary School,Pir Karyian  West  (Female)","Railway Road/ PirKaryan 2",210100403,0,402,402,0,2,2
+"",,"Railway Road/ PirKaryan 3",210100408,0,311,311,,,
+"",,Pir Karyan-3,210100404,0,506,506,,,
+35,"(23)Govt:MC Boys Primary School,Pir Karyian  West(Combined)",Mohallah Pir  Karyan-4,210100405,311,284,595,2,2,4
+"",,Mohallah Pir   Karyan-5,210100406,526,444,970,,,
+36,"Govt:MC Boys Middle School, No.2 Pakpattan, East(Male)","Ghalllah Mandi /TahliWala",210100306,419,0,419,2,0,2
+"",,"Ghalllah Mandi /TahliWala",210100310,979,0,979,,,
+37,"Govt: MC.Girls  High School, No.2 Pakpattan East  (Female)","Ghalllah Mandi /TahliWala",210100306,0,449,449,0,3,3
+"",,"Ghalllah Mandi /TahliWala",210100310,0,793,793,,,
+38,"(24)Govt:MC Boys Middle School, No.2 Pakpattan, East(Combined)",Mohallah Ghalla Mandi,210110501,276,246,522,1,1,2
+"Karkhana HajiKhurshed -1",210110502,533,0,533,,,,,
+"Karkhana HajiKhurshad-2",210110503,257,0,257,,,,,
+40,"Govt: MC.Girls  High School, No.2 Pakpattan West(Female)","Karkhana HajiKhurshed -1",210110502,0,467,467,0,2,2
+"",,"Karkhana HajiKhurshad-2",210110503,0,243,243,,,
+"",,"Kachiabadi Hajikhurshad .",210110504,0,416,416,,,
+41,"Office of the Social Welfare Office,  Pir Kot Road, PakpattanEast  (Combined)","Meer Baz Khan/Mohallah Saeed Jalal",210100501,452,370,822,2,2,4
+"",,"Mohallah Pir Karyan/Mohallah Saeed Jalal",210100502,424,326,750,,,
+42,(28)Govt: Boys Primary School Pir kot               (Male),"Pir Karyan and Others,",210100503,645,0,645,2,0,2
+"",,Pir Karyan,210100504,359,0,359,,,
+43,Govt: Boys Primary School Pir kot (Female),"Pir Karyan and Others,",210100503,0,498,498,0,2,2
+"",,Pir Karyan,210100504,0,302,302,,,
+44,"Govt: MC Girls Primary School, Pir Kot, East        (Male)",Nai Abadi Pir Kot,210100705,264,0,264,2,0,2
+"",,Mohallah Pir Kot,210100706,853,0,853,,,
+45,"Govt: MC Girls Primary School, Pir Kot, West (Female)",Nai Abadi Pir Kot,210100705,0,202,202,0,2,2
+"",,Mohallah Pir Kot,210100706,0,666,666,,,
+46,"Nursing School, Hota Road, Pakpattan East     (Male)",Hassan Pura Bai Pass,210110403,192,0,192,2,0,2
+"",,"Mohallah Farid Abad/Nai  Abadi Pir Sultan",210110405,217,0,217,,,
+"",,Mohallah Farid Abad,210110406,240,0,240,,,
+47,"Nursing School,Hota Road, Pakpattan  West (Female)",Hassan Pura Bai Pass,210110403,0,174,174,0,2,2
+"Mohallah Farid Abad/Nai  Abadi Pir Sultan",210110405,0,170,170,,,,,
+Mohallah Farid Abad,210110406,0,163,163,,,,,
+"Jhajraran Wala/Mohallah Basharat/Machli Chowk.",210100701,410,0,410,,,,,
+49,(34)Govt: Girls City High School (Middle protion)   (Male),"Mohallah Saeed abad/Purni Mall Mandi/Gulzarabad",210100702,658,0,658,2,0,2
+"",,"Mohallah Saeed abad/Purni Mall Mandi/Gulzarabad",210100708,389,0,389,,,
+50,"Govt: Girls City High School West, Pakpattan   (High Portion(Female)","Jhajraran Wala/Mohallah Basharat/Machli Chowk.",210100701,0,357,357,0,3,3
+"",,"Jhajraran Wala/Mohallah Basharat/Machli Chowk.",210100707,0,355,355,,,
+"",,"Mohallah Saeed abad/Purni Mall Mandi/Gulzarabad",210100702,0,539,539,,,
+"",,"Mohallah Saeed abad/Purni Mall Mandi/Gulzarabad",210100708,0,342,342,,,
+51,Govt:Boys Middle School Sufia Abad            (Male),Mohallah Sufiabad,210100604,223,0,223,3,0,3
+"",,Mohallah Sufiabad,210100607,363,0,363,,,
+"",,Mohallah Sufiabad,210100608,376,0,376,,,
+"",,Mohallah Sufiabad,210100609,354,0,354,,,
+"",,Mohallah Sufiabad,210100612,373,0,373,,,
+52,Govt:Boys Middle School Sufia Abad               (Female),Mohallah Sufiabad,210100604,0,184,184,0,2,2
+Mohallah Sufiabad,210100607,0,356,356,,,,,
+Mohallah Sufiabad,210100608,0,307,307,,,,,
+Mohallah Sufiabad,210100609,0,315,315,,,,,
+Mohallah Sufiabad,210100612,0,216,216,,,,,
+"Pir Sulatan / Busharat/Karam Pura",210100602,265,0,265,,,,,
+"Pir Sulatan / Busharat/Karam Pura",210100605,153,0,153,,,,,
+"",,"Pir Sulatan / Busharat/Karam Pura",210100610,295,0,295,,,
+"",,"Pir Sulatan / Busharat/Karam Pura",210100611,165,0,165,,,
+54,"Govt:Girls High School,Old Tehsil Road,Pakpattan North(Female)","Pir Sulatan / Busharat/Karam Pura",210100602,0,196,196,0,3,3
+"",,"Pir Sulatan / Busharat/Karam Pura",210100605,0,122,122,,,
+"",,"Pir Sulatan / Busharat/Karam Pura",210100606,0,411,411,,,
+"",,"Pir Sulatan / Busharat/Karam Pura",210100610,0,300,300,,,
+"",,"Pir Sulatan / Busharat/Karam Pura",210100611,0,91,91,,,
+55,"Govt: Girls City High School , Pakpattan   (Middle Portion(Combined)","Chok Chati Kabar/Mohallah Busharat",210100601,240,218,458,1,1,2
+"",,"Shahad Naghar/ PuranaThana",210100603,303,234,537,,,
+56,"Govt.Boys High School, Sahiwal Road, Pakpattan East(Male)","Eid Gah-1/General BusStand",210110101,203,0,203,3,0,3
+"",,Eid Gah-2,210110104,638,0,638,,,
+"",,Eid Gah-3,210110105,547,0,547,,,
+57,"Govt.Boys High School, Sahiwal Road,Pakpattan  West(Female)","Eid Gah-1/General BusStand",210110101,0,187,187,0,2,2
+Eid Gah-2,210110104,0,525,525,,,,,
+Eid Gah-3,210110105,0,472,472,,,,,
+Sahiwal Raod Eid Gah,210110102,448,0,448,,,,,
+"",,Eid Gah-4,210110106,214,0,214,,,
+59,"Govt.Boys High School, Sahiwal Road,Pakpattan  South(Female)",Sahiwal Raod Eid Gah,210110102,0,416,416,0,2,2
+"",,Sahiwal Raod Eid Gah,210110103,0,208,208,,,
+"",,Eid Gah-4,210110106,0,178,178,,,
+60,"Office of the Excise & Taxation, Sahiwal Road, PakpattanEast     (Male)","Eid Gah/ Aziz MakiChowk/ Town Hall",210110201,594,0,594,3,0,3
+"",,Eid Gah-5,210110202,183,0,183,,,
+"",,"Mohallah ChahaDuhatta",210110302,538,0,538,,,
+61,"Office of the Excise & Taxation, Sahiwal Road, PakpattanWest       (Female)","Eid Gah/ Aziz MakiChowk/ Town Hall",210110201,0,572,572,0,2,2
+"",,Eid Gah-5,210110202,0,152,152,,,
+"",,"Mohallah ChahaDuhatta",210110302,0,453,453,,,
+62,Arif Memorial Middle School (PEF)            (Combined),ZafarAbad,210110303,490,422,912,2,2,4
+"",,"Hussan Pura / Cha.Duhatta/ Karm Pura",210110304,446,387,833,,,
+63,ACPS Public School (PEF) Hussan Pura             (Male),"Hussan Pura/Cha.Duhatta/ KarmPura",210110305,466,0,466,2,0,2
+"",,Nai Abadi Hussan Pura,210110402,535,0,535,,,
+64,ACPS Public School (PEF) Hussan Pura             (Female),"Hussan Pura/Cha.Duhatta/ KarmPura",210110305,0,456,456,0,2,2
+Nai Abadi Hussan Pura,210110402,0,440,440,,,,,
+"Khawja Aziz Maki/Kameer Raod",210110203,343,0,343,,,,,
+"ZafarAbad/ KameerRoad",210110204,402,0,402,,,,,
+66,"Govt: MC Boys High School, No.1 near Darbar, PakpattanNorth    (Female)","Khawja Aziz Maki/Kameer Raod",210110203,0,248,248,0,2,2
+"",,"ZafarAbad/ KameerRoad",210110204,0,336,336,,,
+"",,"Fawara Chowk /Machili Chowk/Shaheedi Bazar",210110904,0,238,238,,,
+67,"Govt:M.C Boys Primary School, near Kabir Chungi,Pakpattan      (Combined)","Mohallah Hassan Pura/Islam Colony",210110401,529,455,984,2,2,4
+"",,Hussan Pura,210110404,504,388,892,,,
+68,Govt:Faridia College for Boys Pakpattan (East) (Male),Inam Abad-1,210110601,390,0,390,3,0,3
+"",,"Inam Abad-2 oppositeHospital",210110602,513,0,513,,,
+"",,Smadhan  wala,210110604,172,0,172,,,
+"",,"Mohallah Kokna Wala /Smadhan wala/ GaliDr.Abdul Rab Wali",210110701,308,0,308,,,
+69,"Govt:Faridia College for Boys Pakpattan (West)(Female)",Inam Abad-1,210110601,0,342,342,0,2,2
+"",,"Inam Abad-2 oppositeHospital",210110602,0,472,472,,,
+"",,Smadhan  wala,210110604,0,150,150,,,
+"",,"Mohallah Kokna Wala /Smadhan wala/ GaliDr.Abdul Rab Wali",210110701,0,308,308,,,
+70,"Govt:  Fazil ka Islmia Boys High School, Pakpattan East(Male)","Shahdab Colony/Smadhan wala",210110505,361,0,361,3,0,3
+"Shahdab Colony/Smadhan wala",210110506,348,0,348,,,,,
+"Inam Abad/SahiwalRoad near NageenaChowk",210110603,281,0,281,,,,,
+"Mohallah Smadhanwala",210110702,246,0,246,,,,,
+71,"Govt:  Fazil ka Islmia Boys High School, Pakpattan West(Female)","Shahdab Colony/Smadhan wala",210110506,0,293,293,0,2,2
+"",,"Inam Abad/SahiwalRoad near NageenaChowk",210110603,0,243,243,,,
+"",,"Mohallah Smadhanwala",210110702,0,263,263,,,
+72,Office of the  Tehsil Council Pakpattan East  (Male),"Dhaki , KachaBurj,Purani SabziMandi",210110801,584,0,584,2,0,2
+"",,Kacha Burj,210110802,252,0,252,,,
+73,Office of the  Tehsil Council Pakpattan West  (Female),"Dhaki , KachaBurj,Purani SabziMandi",210110801,0,403,403,0,2,2
+"",,Kacha Burj,210110802,0,182,182,,,
+74,Govt:Faridia College for Boys Pakpattan  North   (Male),"Smadhan wala/ GollSark/Gali Dr.TanweerWali",210110703,555,0,555,2,0,2
+"",,"Smadhan wala/Circular Road",210110704,639,0,639,,,
+75,Govt:Faridia College for Boys Pakpattan  South  (Female),"Smadhan wala/ GollSark/Gali Dr.TanweerWali",210110703,0,486,486,0,2,2
+"",,"Smadhan wala/Circular Road",210110704,0,595,595,,,
+76,"Govt:MC.Boys High School, No.1 near Darbar, PakpattanEast    (Male)","Androon SheheedGate/ Cha JhajjranWala",210100704,535,0,535,4,0,4
+"Mohallah Cha Dhota /Purana Town Hall",210110301,566,0,566,,,,,
+"Badar Diwan/ AndroonRehmon Gate.",210110902,401,369,770,,,,,
+77,"Govt:MC.Boys High School No.1 near Darbar, PakpattanWest    (Female)","Mohallah Cha Dhota /Purana Town Hall",210110301,0,512,512,0,3,3
+"",,"Badar Diwan/ AndroonRehmon Gate.",210110902,0,369,369,,,
+78,"Govt:MC Girls Middle School, Circular  Road, PakpattanEast    (Male)","Dhaki Baba Farid nearNageena Chowk",210100703,268,0,268,2,0,2
+"",,"Mohallah Badar Dewan/ Sahiwal Road",210110803,297,0,297,,,
+"",,"Dhaki/ Mohallah BadarDewan",210110804,422,0,422,,,
+79,"Govt:MC Girls Middle School, Circular  Road, PakpattanWest  (Female)","Dhaki Baba Farid nearNageena Chowk",210100703,0,252,252,0,2,2
+"",,"Mohallah Badr Dewan/ Sahiwal Road",210110803,0,232,232,,,
+"",,"Dhaki/ Mohallah BadarDewan",210110804,0,329,329,,,
+80,"(59)Govt:MC Girls Middle School, Circular  Road, PakpattanEast   (Combined)",Mir Baz Dhaki,210110901,424,366,790,2,2,4
+"",,"Town Hall/ RahmanMasjid/ Fawara Chowk.",210110903,389,319,708,,,
+81,Govt.Girls Primary School Tiba Sher Kot       (Male),Pakpattan Rural,210100803,521,0,521,3,0,3
+"",,Pakpattan Rural,210100805,494,0,494,,,
+"",,Pakpattan Rural,210100806,118,0,118,,,
+"",,Pakpattan Rural,210100505,275,0,275,,,
+"",,Pakpattan Rural,210100506,35,0,35,,,
+"",,Pakpattan Rural,210100807,95,0,95,,,
+82,(61)Govt.Girls Primary School Tiba Sher Kot (Female),Pakpattan Rural,210100803,0,387,387,0,2,2
+Pakpattan Rural,210100805,0,430,430,,,,,
+Pakpattan Rural,210100806,0,79,79,,,,,
+Pakpattan Rural,210100505,0,237,237,,,,,
+Pakpattan Rural,210100506,0,37,37,,,,,
+Pakpattan Rural,210100807,0,69,69,,,,,
+Pakpattan Rural,210111003,253,175,428,,,,,
+"",,Pakpattan Rural,210100804,198,158,356,,,
+84,"Govt:Boys Primary School, Khairabad   (Combined)",Pakpattan Rural,210111005,155,100,255,1,1,2
+"",,Pakpattan Rural,210111006,373,269,642,,,
+85,Govt:Girls Primary School Soma            (Combined),Pakpattan Rural,210111001,507,368,875,2,1,3
+"",,Pakpattan Rural,210111002,272,224,496,,,
+86,Govt:Boys Primary School Basti Ghous Nagar  (Male),Pakpattan Rural,210111004,158,0,158,2,0,2
+"",,Pakpattan Rural,210111007,301,0,301,,,
+"",,Pakpattan Rural,210100801,533,0,533,,,
+87,Govt:Boys Primary School Basti Ghous Nagar (Female),Pakpattan Rural,210111004,0,114,114,0,2,2
+"",,Pakpattan Rural,210111007,0,231,231,,,
+"",,Pakpattan Rural,210100801,0,458,458,,,
+88,"Govt:Boys Middle School, 19/SP   (Male)","Chak 19/SP/ BastiRoshan Pura/ BaryanWala Khu.",210020108,631,0,631,2,0,2
+"",,Chak 19/SP,210020109,775,0,775,,,
+89,"(74)Govt:Boys Middle School, 19/SP             (Female)","Chak 19/SP/ BastiRoshan Pura/ BaryanWala Khu.",210020108,0,431,431,0,2,2
+"",,Chak 19/SP,210020109,0,564,564,,,
+90,"Govt:Girls Primary School, 19/SP           (Combined)",Chak 19/SP,210020110,274,200,474,2,2,4
+"",,Chak 19/SP,210020111,415,328,743,,,
+"",,Chak 19/SP,210020112,234,163,397,,,
+91,"Govt:Girls High School,          37/SP   (Male)","Chak 37/SP/ Farid CityHousing Scheme/AbadiHassan Baitu/ BastiMadhy Shah.",210020101,354,0,354,2,0,2
+"",,Chak 37/SP,210020102,291,0,291,,,
+"",,Chak 37/SP,210020113,299,0,299,,,
+92,"(76)Govt:Girls High School,          37/SP           (Female)","Chak 37/SP/ Farid CityHousing Scheme/AbadiHassan Baitu/ BastiMadhy Shah.",210020101,0,278,278,0,2,2
+Chak 37/SP,210020102,0,269,269,,,,,
+Chak 37/SP,210020113,0,258,258,,,,,
+93,"Govt:Boys High School, 37/SP              (Combined)","Chak 37/SP/ IshaqNagar.",210020104,431,350,781,2,1,3
+94,"Govt:Boys Primary School, Tibba  Nanak Sar  (Combined)","Chak 37/SP / TibaNanak Sar.",210020107,664,473,1137,1,1,2
+95,"Govt:Boys Primary School, Rasool Pur         (Combined)","Chak 37/SP / RashoolPur/ Tiba Inyat Shah.",210020105,400,281,681,2,1,3
+"",,"Chak 37/SP / RashoolPur/ Tiba Inyat Shah.",210020106,493,401,894,,,
+96,"Govt""DPS, Malik Pur  Hota Road,            (Combined)","Malik Pur/ Kot KhudaBhush",210020201,112,85,197,1,1,2
+"",,Malik Pur,210020202,68,47,115,,,
+"",,Malik Pur,210020203,64,52,116,,,
+"",,Malik Pur,210020204,418,314,732,,,
+97,"Govt: Boys Primary School, Malik Pur,    (Male)",Malik Pur,210020205,221,0,221,2,0,2
+"",,Malik Pur,210020219,201,0,201,,,
+"",,Malik Pur,210020206,278,0,278,,,
+"",,Malik Pur,210020210,224,0,224,,,
+"",,Malik Pur,210020211,296,0,296,,,
+98,"(81)Govt: Boys Primary School, Malik Pur,   (Female)",Malik Pur,210020205,0,168,168,0,2,2
+"",,Malik Pur,210020219,0,155,155,,,
+"",,Malik Pur,210020206,0,223,223,,,
+"",,Malik Pur,210020210,0,173,173,,,
+"",,Malik Pur,210020211,0,234,234,,,
+99,"Govt:Boys Primary School, Ali Kamal ( Male)",Malik Pur,210020207,267,0,267,2,0,2
+"",,Malik Pur,210020208,364,0,364,,,
+"",,Malik Pur,210020209,531,0,531,,,
+100,"Govt:Girls Primary School, Malik Pur           (Female)",Malik Pur,210020207,0,206,206,0,2,2
+"",,Malik Pur,210020208,0,276,276,,,
+"",,Malik Pur,210020209,0,441,441,,,
+101,"Govt:Boys Primary School, Dhakku Chishti   (Combined)",Dhakku Chishti,210020212,431,350,781,2,2,4
+"",,Dhakku Chishti,210020213,512,394,906,,,
+102,"Govt:Girls High School, Adda Kot Dewan Hotta Road(Combined)",Dhakku Chishti,210020214,279,161,440,1,1,2
+Chak 2/KB,210020215,639,552,1191,,,,,
+Chak 2/KB,210020216,200,172,372,,,,,
+Chak 4/KB,210020217,62,66,128,,,,,
+104,"Govt:Boys Middle School, Pacca  Sidhar     (Male)",Khamba Dogar,210020304,296,0,296,2,0,2
+"",,Pakka Sidhar,210020401,377,0,377,,,
+"",,Pakka Sidhar,210020402,437,0,437,,,
+105,"Govt:Boys Middle School, Pacca  Sidhar        (Female)",Khamba Dogar,210020304,0,189,189,0,2,2
+"",,Pakka Sidhar,210020401,0,218,218,,,
+"",,Pakka Sidhar,210020402,0,443,443,,,
+106,"Govt:Girls Primary School, Pakka  Sidha    (Combined)",Pakka Sidhar,210020403,326,240,566,1,1,2
+"",,Pakka Sidhar,210020404,378,313,691,,,
+107,Govt Boys Middle School Pakka Sidhar         (Combined),Pakka Sidhar,210020405,447,305,752,1,1,2
+"",,Pakka Sidhar,210020406,206,200,406,,,
+108,"Govt:Boys Primary School, Arifabad    (Male)",Chak 3/KB,210020303,622,0,622,2,0,2
+"",,Arifabad,210020407,257,0,257,,,
+"",,Arifabad,210020408,375,0,375,,,
+109,"(90)Govt:Boys Primary School, Arifabad        (Female)",Chak 3/KB,210020303,0,484,484,0,2,2
+"",,Arifabad,210020407,0,165,165,,,
+"",,Arifabad,210020408,0,254,254,,,
+110,"Govt: Girls Middle School,  Kot Bhubhar     (Combined)",Bhubhar,210020305,712,493,1205,1,1,2
+111,"Govt:Girls Primary School,Opana       (Male)",Opana,210020301,672,0,672,2,0,2
+"",,Opana,210020302,477,0,477,,,
+112,"(92)Govt:Girls Primary School,Opana          (Female)",Opana,210020301,0,489,489,0,2,2
+"",,Opana,210020302,0,355,355,,,
+113,"Govt:Boys Primary School, Jora            (Combined)",Jora,210020601,443,305,748,2,1,3
+"",,Jora,210020602,324,218,542,,,
+114,"Govt:Girls Primary School, Aalam Dhudhi    (Combined)",Aalam Dhudhi,210020606,460,281,741,2,1,3
+"",,Aalam Dhudhi,210020607,305,188,493,,,
+115,"Govt:Girls Primary School, Salamat             (Combined)","Chak Muhammad PurJagir",210020603,309,195,504,2,1,3
+"",,Salamat,210020604,446,387,833,,,
+"",,Chak Hakiman,210020605,90,78,168,,,
+116,"Govt.Boys Middle School, Amar Singh Hotta Road East(Combined)",Soochan,210020501,381,261,642,1,1,2
+"",,Soochan,210020502,176,139,315,,,
+117,"Govt.Boys Middle School, Amar Singh Sochan,Hotta Road(West)  (Combined)",Soochan,210020503,547,476,1023,1,1,2
+118,"Govt:Girls Primary School, 6/KB           (Combined)",Chak 6/KB,210020506,572,404,976,1,1,2
+Naib Wal,210020504,257,169,426,,,,,
+120,"Govt:Boys Middle School, Kot Bakhsha (West) (Combined)",Kaly Chishti,210040905,228,175,403,1,1,2
+"",,Rakh Feroz Pur,210040906,130,114,244,,,
+121,"Govt:Boys High School, Kalyana (East)                (Male)",Kalyana,210040101,447,0,447,3,0,3
+"",,Kalyana,210040119,399,0,399,,,
+"",,Kalyana,210040102,174,0,174,,,
+"",,Kalyana,210040103,387,0,387,,,
+"",,Kalyana,210040104,152,0,152,,,
+122,"Govt:Boys High School, Kalyana (East)               (Female)",Kalyana,210040101,0,338,338,0,2,2
+"",,Kalyana,210040119,0,237,237,,,
+"",,Kalyana,210040102,0,150,150,,,
+"",,Kalyana,210040103,0,304,304,,,
+"",,Kalyana,210040104,0,116,116,,,
+123,"Govt:Boys High School, Kalyana (West)   (Combined)",Kalyana,210040105,235,201,436,2,1,3
+"",,Kalyana,210040106,192,150,342,,,
+"",,Kalyana,210040107,203,175,378,,,
+"",,Kalyana,210040108,196,157,353,,,
+124,"Govt: Girls High School, Kalyana (East)    (Combined)",Kalyana,210040109,160,143,303,2,1,3
+"",,Kalyana,210040110,214,131,345,,,
+"",,Kalyana,210040111,193,144,337,,,
+"",,Kalyana,210040112,149,107,256,,,
+125,Office of the Union Council No.21. Kalyana  (Combined),Kalyana,210040113,123,90,213,1,1,2
+"",,Kalyana,210040114,198,152,350,,,
+"",,Kalyana,210040115,211,149,360,,,
+126,"Govt: Girls High School, Kalyana (West)  (Combined)",Kalyana,210040116,385,288,673,2,1,3
+"",,Kalyana,210040117,283,202,485,,,
+"",,Kalyana,210040118,258,200,458,,,
+127,"Govt:Boys Primary School, Malyana    (Combined)",Malyana,210040120,474,306,780,1,1,2
+128,"Govt:Boys Primary School, Mahint Darshan  (Combined)",Mahint Darshan,210040121,289,214,503,2,1,3
+"",,Mahint Darshan,210040122,283,218,501,,,
+"",,Mahint Darshan,210040123,398,356,754,,,
+129,"Govt:Boys High School, Feroz Pur Chishtian (Combined)",Feroz Pur Chishtian,210040901,196,165,361,2,2,4
+"",,Feroz Pur Chishtian,210040902,669,595,1264,,,
+130,"Govt:Girls Primary School, Feroz Pur Chishtian   (Combined)",Feroz Pur Chishtian,210040903,308,277,585,1,1,2
+"",,Feroz Pur Chishtian,210040904,407,308,715,,,
+131,"Govt:Boys Primary School, Singh Pura  (Combined)",Singh Pura,210041102,364,252,616,1,1,2
+133,"Govt:Boys Primary School, Tehi Javind Singh (Combined)",Tehi Jawing Singh,210041103,629,486,1115,2,1,3
+"",,Tehi Jawing Singh,210041104,310,235,545,,,
+134,"Govt:Boys High School, Azmat (East)                (Male)",Azmat,210041105,422,0,422,2,0,2
+"",,Azmat,210041106,456,0,456,,,
+"",,Azmat,210041107,233,0,233,,,
+135,"Govt:Boys High School, Azmat (South)           (Female)",Azmat,210041105,0,331,331,0,2,2
+"",,Azmat,210041106,0,288,288,,,
+"",,Azmat,210041107,0,193,193,,,
+136,"Govt:Boys High School, Azmat (West)      (Combined)",Azmat,210041108,234,181,415,1,1,2
+137,"Govt:Boys Primary School, 3/EB    (Male)",Chak 3/EB,210041109,373,0,373,2,0,2
+"",,Chak 3/EB,210041110,658,0,658,,,
+138,"Govt:Boys Primary School, 3/EB                   (Female)",Chak 3/EB,210041109,0,327,327,0,2,2
+"",,Chak 3/EB,210041110,0,561,561,,,
+139,"Govt:Boys Middle School, Warseen                    (Male)",Warseen,210041001,483,0,483,2,0,2
+"",,Warseen,210041002,206,0,206,,,
+"",,Warseen,210041003,368,0,368,,,
+140,"Govt:Boys Middle School, Warseen               (Female)",Warseen,210041001,0,380,380,0,2,2
+"",,Warseen,210041002,0,134,134,,,
+"",,Warseen,210041003,0,258,258,,,
+141,Govt:Boys Primary School Bara   (Combined),Bara,210041004,368,354,722,2,1,3
+"",,Bara,210041005,392,332,724,,,
+142,"Govt:Boys Primary School, 16/KB   (Combined)",Chak 16/KB,210040208,577,422,999,1,1,2
+143,"Govt:Boys Primary School, 15/KB   (Combined)",Bonga Imam Din,210040201,125,102,227,1,1,2
+"",,Chak 15/KB,210040207,490,348,838,,,
+144,"Govt:Girls Middle School, 14/KB            (Male)",Chak 14/KB,210040209,638,0,638,2,0,2
+"",,Chak 14/KB,210040210,302,0,302,,,
+"",,Gharnaj,210040301,181,0,181,,,
+145,"Govt:Girls Middle School, 14/KB    (Female)",Chak 14/KB,210040209,0,475,475,0,2,2
+"",,Chak 14/KB,210040210,0,228,228,,,
+"",,Gharnaj,210040301,0,147,147,,,
+146,"Govt:Girls Middle School, 13/KB             (Male)",chak 13/KB,210040204,417,0,417,2,0,2
+"",,chak 13/KB,210040205,221,0,221,,,
+"",,chak 13/KB,210040206,403,0,403,,,
+147,"Govt:Girls Middle School, 13/KB  (Female)",chak 13/KB,210040204,0,335,335,0,2,2
+chak 13/KB,210040205,0,145,145,,,,,
+chak 13/KB,210040206,0,307,307,,,,,
+148,"Govt:Boys Primary School, 11/KB   (Combined)",Chak 12/KB,210040203,383,328,711,2,1,3
+"",,Chak Elahi Wala,210040702,23,16,39,,,
+149,"Govt: Boys Primary School, Kund Kanjwan   (Combined)",Kund Kanjwan,210040804,410,259,669,2,1,3
+"",,Kund Kanjwan,210040805,234,165,399,,,
+150,"Govt.Boys Middle School, Kot  Bakhsha East  (Combined)",Kot Bakhsha,210040504,529,441,970,2,1,3
+"",,Kot Bakhsha,210040505,262,234,496,,,
+151,"Govt:Boys Middle School, Kot Bakhsha (West)(Combined)",Kot Bakhsha,210040506,308,242,550,1,1,2
+"",,Quddoos,210040803,5,2,7,,,
+152,"Govt:Boys Primary School, Mari Aunmb   (Combined)",Bablana,210040705,218,212,430,1,1,2
+"",,Mari Umb,210040801,250,175,425,,,
+"",,Munawar,210040802,163,168,331,,,
+153,"Govt:Boys Primary School, Purana Thana  (Combined)",Malooka Khurd,210040302,246,190,436,1,1,2
+"",,Malooka Khurd,210040303,348,290,638,,,
+154,"Govt:Boys Primary School, Malooka Khurd     (Male)",Malooka Khurd,210040304,282,0,282,2,0,2
+"",,Malooka Khurd,210040305,215,0,215,,,
+"",,Malooka Khurd,210040606,3,0,3,,,
+"",,Mansoora,210040701,359,0,359,,,
+155,"Govt:Boys Primary School, Malooka Khurd     (Female)",Malooka Khurd,210040304,0,234,234,0,2,2
+"",,Malooka Khurd,210040305,0,170,170,,,
+"",,Malooka Khurd,210040306,0,288,288,,,
+"",,Mansoora,210040701,0,267,267,,,
+156,"Govt:Boys Primary School, Malooka Kalan    (Male)",Malooka Kalan,210040307,337,0,337,2,0,2
+"",,Malooka Kalan,210040308,310,0,310,,,
+"",,Malooka Kalan,210040309,451,0,451,,,
+157,"Govt:Boys Primary School, Malooka Kalan    (Female)",Malooka Kalan,210040307,0,261,261,0,2,2
+"",,Malooka Kalan,210040308,0,223,223,,,
+"",,Malooka Kalan,210040309,0,323,323,,,
+158,"Govt:Boys High School, Hotta (East)  (Male)",Hotta,210040310,403,0,403,3,0,3
+Hotta,210040311,290,0,290,,,,,
+Hotta,210040321,302,0,302,,,,,
+Hotta,210040312,119,0,119,,,,,
+Hotta,210040313,191,0,191,,,,,
+Hotta,210040310,0,276,276,,,,,
+Hotta,210040311,0,187,187,,,,,
+Hotta,210040321,0,256,256,,,,,
+Hotta,210040312,0,91,91,,,,,
+160,"Govt:Boys High School, Hotta (West) (Combined)",Hotta,210040314,184,139,323,1,1,2
+"",,Hotta,210040315,75,59,134,,,
+"",,Hotta,210040316,195,151,346,,,
+161,Govt:Girls  Middle School Hotta  (Combined),Hotta,210040317,77,67,144,1,1,2
+"",,Hotta,210040318,201,142,343,,,
+162,Office of the Union Council No.22.Hotta   (Combined),Hotta,210040319,211,172,383,1,1,2
+"",,Hotta,210040320,259,227,486,,,
+163,"Govt:Boys Primary School, Kot  Bahawal (East)(Combined)",Kot Bahawal,210040601,296,225,521,2,2,4
+"",,Kot Bahawal,210040602,289,244,533,,,
+"",,Kot Bahawal,210040603,247,222,469,,,
+164,"Govt:Boys Primary School, Kot Bahawal (West)  (Combined)",Wara Piran Kalan,210040501,138,77,215,2,1,3
+"",,Wara Piran Khurd,210040502,137,104,241,,,
+"",,Sahanwali,210040503,36,30,66,,,
+"",,Mehmonkay,210040604,34,14,48,,,
+"",,Tarsangi,210040605,1,0,1,,,
+"",,Shekhey kay,210040606,3,1,4,,,
+"",,Bahadar Ali,210040607,15,7,22,,,
+"",,Billara Piran,210040608,321,233,554,,,
+165,"Govt:Boys Primary School, 8/KB (East) (Combined)",Chak 8/KB,210040401,343,326,669,2,2,4
+"",,Chak 8/KB,210040402,428,372,800,,,
+166,"Govt:Boys Primary School, 8/KB (West)   (Combined)",Chak 8/KB,210040403,136,123,259,1,1,2
+"",,Chak 8/KB,210040404,155,112,267,,,
+167,"Govt:Boys Primary School, 9/KB               (Combined)",Chak 9/KB,210040405,393,368,761,1,1,2
+"",,Chak 9/KB,210040406,266,266,532,,,
+168,Govt: Boys Primary School  10/KB              (Combined),Chak 10/KB,210040407,191,149,340,1,1,2
+"",,Chak 10/KB,210040408,331,271,602,,,
+169,Govt:Boys Primary School 7/KB             (Combined),Chak 7/KB,210040703,420,341,761,2,2,4
+"",,Kot Hakam,210040704,291,281,572,,,
+"",,Chak Kot Bakasha,210040706,37,34,71,,,
+170,"Govt:Boys Primary School, Bahdur Khera (Combined)",Bahdur Khera,210040707,84,77,161,1,1,2
+"",,Burhan  Din,210040708,33,44,77,,,
+171,"Govt:Boys Primary School, Behram Pur East (Combined)",Behram Pur,210010501,471,403,874,2,2,4
+"",,Behram Pur,210010502,288,224,512,,,
+172,"Govt:Boys Primary School, Behram Pur    west (Combined)",Behram Pur,210010503,260,207,467,1,1,2
+173,"Govt:Girls Primary School, Behram Pur   (Combined)",Behram Pur,210010504,483,364,847,1,1,2
+"",,Behram Pur,210010506,303,188,491,,,
+175,"Govt:Boys Middle School, Shahu Bloach    (Combined)",Shahu Bloach,210010508,315,292,607,1,1,2
+"",Shahu Bloach,210010509,232,204,436,,,,
+176,Govt Modle Primary School Lal Khan Dhudhi (Combined),Jewaya Mal,210010507,255,182,437,1,1,2
+Lal Khan Dhudhi,210010512,395,298,693,,,,,
+Jatto Wal,210010510,123,86,209,,,,,
+"PollingStationSerial No",Polling Station Name,Electoral Area,Block Code,"MaleVoters","FemaleVoters","TotalVoters","MaleBooths","FemaleBooths","TotalBooths"
+1,Govt:Boys Primary School 24/EB   (Combined),Chak 24/EB,211061301,467,418,885,1,1,2
+2,Govt:Boys Primary School 26/EB           (Male),Chak 26/EB,211061306,500,0,500,2,0,2
+"",,Chak 26/EB,211061307,634,0,634,,,
+3,Govt:Boys Primary School 26/EB   (Female),Chak 26/EB,211061306,0,353,353,0,2,2
+"",,Chak 26/EB,211061307,0,443,443,,,
+4,Govt:Boys High School 28/EB             (Male),Chak 28/EB,211061302,301,0,301,3,0,3
+"",,Chak 28/EB,211061303,290,0,290,,,
+"",,Chak 28/EB,211061304,256,0,256,,,
+"",,Chak 28/EB,211061305,527,0,527,,,
+5,Govt: Girls Middle School 28/EB   (Female),Chak 28/EB,211061302,0,209,209,0,2,2
+"",,Chak 28/EB,211061303,0,238,238,,,
+"",,Chak 28/EB,211061304,0,219,219,,,
+"",,Chak 28/EB,211061305,0,410,410,,,
+6,Govt:Boys Primary School 30/EB          (Male),Chak 30/EB,211061308,626,0,626,2,0,2
+"",,Chak 30/EB,211061309,430,0,430,,,
+"",,Chak 30/EB,211061310,435,0,435,,,
+7,Govt: Girls Middle School 30/EB   (Female),Chak 30/EB,211061308,0,530,530,0,2,2
+"",,Chak 30/EB,211061309,0,387,387,,,
+"",,Chak 30/EB,211061310,0,363,363,,,
+8,"Govt:Boys Middle School, 32/EB   (Combined)",Chak 32/EB,211061311,661,504,1165,1,1,2
+9,Govt:Boys Primary School 63/SP   (Combined),Chak 61/SP,211060603,463,391,854,2,2,4
+chak 63/SP,211060604,464,385,849,,,,,
+Chak 60/SP,211060601,341,281,622,,,,,
+11,Govt:Boys Primary School Bakha Hans (Combined),Bakha Hans,211060906,269,225,494,2,2,4
+"",,Bakha Hans,211060907,354,207,561,,,
+"",,Kalali,211060908,357,232,589,,,
+12,"Govt:Boys High School, Kot Heera Singh   (Male)",Kot Heera Singh,211060904,672,0,672,2,0,2
+"",,Kot Heera Singh,211060905,332,0,332,,,
+13,"Govt:Boys High School, Kot Heera Singh   (Female)",Kot Heera Singh,211060904,0,543,543,0,2,2
+"",,Kot Heera Singh,211060905,0,293,293,,,
+14,"Govt:Boys High School, Kot Mohar Singh    (Male)",Kot Mohar Singh,211060901,371,0,371,2,0,2
+"",,Kot Mohar Singh,211060903,403,0,403,,,
+"",,Kot Mohar Singh,211060902,252,0,252,,,
+15,"Govt:Boys High School, Kot Mohar Singh   (Female)",Kot Mohar Singh,211060901,0,275,275,0,2,2
+"",,Kot Mohar Singh,211060902,0,234,234,,,
+"",,Kot Mohar Singh,211060903,0,375,375,,,
+16,Govt:Boys Primary School Jeevan Shah   (Male),Jeeven Shah,211060102,233,0,233,2,0,2
+"",,Jeeven Shah,211060103,357,0,357,,,
+"",,Jeeven Shah,211060104,601,0,601,,,
+17,Office of Union  Council No. 43-Jeevan Shah   (Female),Jeeven Shah,211060102,0,191,191,0,2,2
+"",,Jeeven Shah,211060103,0,326,326,,,
+"",,Jeeven Shah,211060104,0,494,494,,,
+18,Govt:Boys Primary School Jeevan Shah   (Male),Jeeven Shah,211060105,205,0,205,2,0,2
+"",,Jeeven Shah,211060106,369,0,369,,,
+"",,Jeeven Shah,211060107,263,0,263,,,
+19,Office of Union  Council No. 43-Jeevan Shah   (Female),Jeeven Shah,211060105,0,206,206,0,2,2
+"",,Jeeven Shah,211060106,0,343,343,,,
+"",,Jeeven Shah,211060107,0,221,221,,,
+20,Govt:Boys Primary School 52/SP          (Male),Chak 52/SP,211061002,522,0,522,2,0,2
+"",,Chak 52/SP,211061003,612,0,612,,,
+"",,Chak 52/SP,211061004,426,0,426,,,
+21,Govt: Girls Primary School 52/SP   (Female),Chak 52/SP,211061002,0,418,418,0,2,2
+"",,Chak 52/SP,211061003,0,504,504,,,
+"",,Chak 52/SP,211061004,0,277,277,,,
+22,Govt. Boys Primary School 36/EB (Combined),Ruken Din,211060101,184,149,333,1,1,2
+"",,Chak No. 36/EB,211060807,332,292,624,,,
+23,Govt Boys primary School Rang Shah (Combined),Rang Shah,211061001,709,532,1241,2,1,3
+24,"Govt: Girls Primary School, 5/EB  (Combined)",Chak 5/EB,211061009,398,275,673,1,1,2
+Chak 1/EB,211061005,303,260,563,,,,,
+26,"Govt. Boys primary school Muhmood pur Bohar(Combined)",Muhmmad Pur Bohar,211061007,503,437,940,2,1,3
+"",,Muhmmad Pur Bohar,211061008,223,175,398,,,
+27,Govt:Boys Primary School 53/SP         (Male),Chak 36-A/EB,211060204,92,0,92,2,0,2
+"",,Chak 53/SP,211060205,666,0,666,,,
+"",,Chak 53/SP,211060206,407,0,407,,,
+28,Govt: Girls Middle School 53/SP          (Female),Chak 36-A/EB,211060204,0,63,63,0,2,2
+"",,Chak 53/SP,211060205,0,540,540,,,
+"",,Chak 53/SP,211060206,0,371,371,,,
+29,Govt:Boys Primary School 51/SP          (Male),Chak 51/SP,211060201,405,0,405,3,0,3
+"",,Chak 51/SP,211060202,294,0,294,,,
+"",,Chak 51/SP,211060203,689,0,689,,,
+30,Govt: Girls Primary School 51/SP   (Female),Chak 51/SP,211060201,0,304,304,0,2,2
+"",,Chak 51/SP,211060202,0,192,192,,,
+"",,Chak 51/SP,211060203,0,441,441,,,
+31,"Govt:Boys Primary School Thathi Dakhli Chak Shafi(Combined)",Chak Shafi,211060402,535,390,925,2,2,4
+"",,Chak Shafi,211060410,312,267,579,,,
+"",,Chak Shafi,211060409,159,126,285,,,
+32,Govt:Boys Primary School Chak Shafi Khurd (Combined),Chak Shafi,211060408,145,149,294,1,1,2
+"",,Chak 4/EB,211060505,390,339,729,,,
+33,"Govt:Boys High School, North  Chak Shafi   (Male)",Chak Shafi,211060401,490,0,490,2,0,2
+"",,Chak Shafi,211060403,104,0,104,,,
+"",,Chak Shafi,211060404,472,0,472,,,
+34,"Govt:Boys High School, Chak Shafi South   (Female)",Chak Shafi,211060401,0,363,363,0,2,2
+"",,Chak Shafi,211060403,0,86,86,,,
+"",,Chak Shafi,211060404,0,420,420,,,
+35,"Govt: Girls High School, Chak Shafi East   (Male)",Chak Shafi,211060405,201,0,201,2,0,2
+"",,Chak Shafi,211060406,371,0,371,,,
+"",,Chak Shafi,211060407,893,0,893,,,
+36,"Govt: Girls High School, Chak Shafi East  (Female)",Chak Shafi,211060405,0,160,160,0,2,2
+"",,Chak Shafi,211060406,0,297,297,,,
+"",,Chak Shafi,211060407,0,721,721,,,
+37,"Govt: Girls Middle School, 2/EB    (Combined)",Chak 2/EB,211060501,236,175,411,2,1,3
+Chak 2/EB,211060502,306,226,532,,,,,
+Chak 2/EB,211060503,243,178,421,,,,,
+Chak 2/EB,211060504,184,132,316,,,,,
+Chak 50/SP,211060301,590,0,590,,,,,
+"",,Chak 50/SP,211060303,265,0,265,,,
+"",,Chak 50/SP,211060304,286,0,286,,,
+39,Govt: Girls Primary School  50/SP  (Female),Chak 50/SP,211060301,0,417,417,0,2,2
+"",,Chak 50/SP,211060302,0,288,288,,,
+"",,Chak 50/SP,211060303,0,221,221,,,
+"",,Chak 50/SP,211060304,0,174,174,,,
+40,"Govt:Boys High School, 20EB   (Combined)",Chak 20/EB,211060701,746,562,1308,1,1,2
+41,Govt:Boys Primary School 22/EB              (Male),Chak 18/EB,211060702,415,0,415,2,0,2
+"",,Chak 22/EB,211061103,341,0,341,,,
+"",,Chak 22/EB,211061104,574,0,574,,,
+42,Govt: Girls Primary School 22/EB    (Female),Chak 18/EB,211060702,0,352,352,0,2,2
+"",,Chak 22/EB,211061103,0,280,280,,,
+"",,Chak 22/EB,211061104,0,493,493,,,
+43,Govt:Boys Primary School Kot Qanungo   (Combined),Kot Qanungo,211061102,364,305,669,1,1,2
+44,"Govt:Boys Primary School, Dalil Ke  (Combined)",Dalil Ke,211061101,600,511,1111,1,1,2
+45,"Govt:Boys Primary School, 6/EB  (Combined)",Arazi Lal Singh,211060305,183,100,283,1,1,2
+"",,Talli,211061201,357,296,653,,,
+"",,Chak 6/EB,211061202,355,295,650,,,
+46,Govt:Boys Primary School 8/EB  (Combined),Chak 8/EB,211061203,393,289,682,1,1,2
+"",,Chak 14/EB,211061204,189,130,319,,,
+47,Govt:Boys Primary School 12/EB             (Male),Chak 12/EB,211060703,123,0,123,2,0,2
+"",,Chak 12/EB,211060704,600,0,600,,,
+"",,Chak 12/EB,211060705,419,0,419,,,
+48,Govt:Boys Primary School 12/EB  (Female),Chak 12/EB,211060703,0,104,104,0,2,2
+"",,Chak 12/EB,211060704,0,472,472,,,
+"",,Chak 12/EB,211060705,0,301,301,,,
+49,Govt:Boys Primary School 10/EB             (Male),Chak 10/EB,211060801,311,0,311,2,0,2
+"",,Chak 10/EB,211060802,309,0,309,,,
+"",,Chak 10/EB,211060803,452,0,452,,,
+50,Govt:Boys Primary School 10/EB  (Female),Chak 10/EB,211060801,0,242,242,0,2,2
+"",,Chak 10/EB,211060802,0,232,232,,,
+"",,Chak 10/EB,211060803,0,384,384,,,
+51,Govt:Boys Primary School 16/EB  (Combined),Chak 16/EB,211060804,118,87,205,2,2,4
+Chak 16/EB,211060805,364,301,665,,,,,
+Chak 16/EB,211060806,415,303,718,,,,,
+Mall,210070201,402,0,402,,,,,
+"",,Mall,210070203,236,0,236,,,
+53,"Govt:Boys Primary School,  Mall                                     (Female)",Mall,210070201,0,338,338,0,2,2
+"",,Mall,210070202,0,233,233,,,
+"",,Mall,210070203,0,187,187,,,
+54,"Govt:Boys Primary School, Saleem Kot    (Combined)",Saleem Kot,210070204,544,441,985,2,1,3
+"",,Saleem Kot,210070205,206,140,346,,,
+55,Govt:Boys Middle School Chak Shah Khagga (Combined),Kot Hassan,210070206,47,47,94,2,1,3
+"",,Chak 97/D,210070207,73,59,132,,,
+"",,Chak Shah Khagga,210070208,437,354,791,,,
+"",,Bunga Shamas,210070308,169,156,325,,,
+56,Govt: Girls Primay School Wandal Singh                   ( Male),Wandal Singh,210070301,519,0,519,3,0,3
+"",,Wandal Singh,210070302,205,0,205,,,
+"",,Chak 49/SP,210070307,483,0,483,,,
+57,Govt: Girls Primay School Wandal Singh              ( Female),Wandal Singh,210070301,0,422,422,0,2,2
+"",,Wandal Singh,210070302,0,191,191,,,
+"",,Chak 49/SP,210070307,0,370,370,,,
+58,Govt:Boys Primary School 34/SP  ( Male),Chak 34/SP,210070303,343,0,343,2,0,2
+"",,Chak 34/SP,210070304,569,0,569,,,
+59,Govt Girls Middle School 34/SP                                  ( Female),Chak 34/SP,210070303,0,305,305,0,2,2
+"",,Chak 34/SP,210070304,0,507,507,,,
+60,Govt:Girls Middle School 34/SP                   (Combined),Chak 34/SP,210070305,443,411,854,2,2,4
+"",,Chak 34/SP,210070306,381,325,706,,,
+61,Govt:Boys Middle School 32/SP               (Combined),Chak 32/SP,210070401,385,295,680,2,2,4
+"",,Chak 32/SP,210070414,170,89,259,,,
+"",,Chak 32/SP,210070402,446,331,777,,,
+62,Govt:Boys Middle School 32/SP  (Male),Chak 32/SP,210070403,320,0,320,2,0,2
+"",,Chak 32/SP,210070404,176,0,176,,,
+"",,Chak 32/SP,210070405,445,0,445,,,
+63,Govt: Girls Primary School 32/SP   (Female),Chak 32/SP,210070403,0,228,228,0,2,2
+"",,Chak 32/SP,210070404,0,140,140,,,
+"",,Chak 32/SP,210070405,0,326,326,,,
+64,Govt: Girls Primary School 36/SP                 (Combined),Chak 36/SP,210070406,345,271,616,2,1,3
+"",,Chak 36/SP (Khurad),210070407,527,382,909,,,
+65,Govt: Boys Primary School  36/SP    ( Male),Chak 36/SP,210070408,341,0,341,2,0,2
+Chak 36/SP,210070409,345,0,345,,,,,
+Chak 36/SP,210070410,408,0,408,,,,,
+66,Female),Chak 36/SP,210070409,0,254,254,0,2,2
+"",,Chak 36/SP,210070410,0,314,314,,,
+67,Govt: Girls Primary School 30/SP  (Male),Chak 30/SP,210070411,429,0,429,3,0,3
+"",,Chak 30/SP,210070412,454,0,454,,,
+"",,Chak 30/SP,210070413,502,0,502,,,
+68,Govt: Girls Middle School New Buliding 30/SP  (Female),Chak 30/SP,210070411,0,287,287,0,2,2
+"",,Chak 30/SP,210070412,0,384,384,,,
+"",,Chak 30/SP,210070413,0,376,376,,,
+69,Govt :Boys Primary School 33/SP  (Male),Chak 33/SP,210070503,823,0,823,3,0,3
+"",,Chak 33/SP,210070504,542,0,542,,,
+70,Govt: Girls Primary School 33/SP  (Female),Chak 33/SP,210070503,0,611,611,0,2,2
+"",,Chak 33/SP,210070504,0,385,385,,,
+71,"Govt: Girls,Middle School, 35/SP   (Male)",Chak 35/SP,210070501,744,0,744,3,0,3
+"",,Chak 35/SP,210070502,313,0,313,,,
+72,"Govt: Girls,Middle School, 35/SP  (Female)",Chak 35/SP,210070501,0,539,539,0,2,2
+"",,Chak 35/SP,210070502,0,202,202,,,
+73,Govt: Boys Primary School Dhawana (Male),Dhawana,210070505,474,0,474,2,0,2
+"",,Bahoo key Dogar,210070506,504,0,504,,,
+74,Govt:Girls Primary School Dhawana            (Female),Dhawana,210070505,0,390,390,0,2,2
+"",,Bahoo key Dogar,210070506,0,400,400,,,
+75,Govt:Boys Primary School 20/SP  (Male),Chak 20/SP,210070601,378,0,378,3,0,3
+"",,Chak 20/SP,210070602,380,0,380,,,
+"",,Chak 20/SP,210070603,157,0,157,,,
+"",,Chak 20/SP,210070604,269,0,269,,,
+76,"Govt: Girls,Middle School, 20/SP                      (Female)",Chak 20/SP,210070601,0,301,301,0,2,2
+"",,Chak 20/SP,210070602,0,362,362,,,
+"",,Chak 20/SP,210070603,0,136,136,,,
+"",,Chak 20/SP,210070604,0,204,204,,,
+77,Govt:Boys Primary School 20/SP  (Male),Chak 20/SP,210070605,251,0,251,2,0,2
+"",,Chak 20/SP,210070606,789,0,789,,,
+78,"Govt: Girls,Middle School, 20/SP                      (Female)",Chak 20/SP,210070605,0,236,236,0,2,2
+"",,Chak 20/SP,210070606,0,644,644,,,
+79,Govt: Girls Primary School Chak Nizam Din       (Combined),Chak Nizam Din,210070609,208,162,370,2,1,3
+Khamba Harsae,210070610,238,133,371,,,,,
+Muhammad Pur Jagir,210070611,243,215,458,,,,,
+Farid Pur Dogran,210070607,385,272,657,,,,,
+81,Govt: Girls Primary School 31/SP   (Male),Chak 31/SP,210070701,547,0,547,2,0,2
+"",,Chak 31/SP,210070702,218,0,218,,,
+"",,Bahiwal,210070807,364,0,364,,,
+82,Govt: Girls Primary School 31/SP                     (Female),Chak 31/SP,210070701,0,450,450,0,2,2
+"",,Chak 31/SP,210070702,0,185,185,,,
+"",,Bahiwal,210070807,0,258,258,,,
+83,"Govt:Boys High School, 29/SP East,  (Male)",Chak 29/SP,210070703,574,0,574,3,0,3
+"",,Chak 29/SP,210070704,247,0,247,,,
+"",,Chak 29/SP,210070705,355,0,355,,,
+"",,Chak 29/SP,210070706,281,0,281,,,
+84,"Govt:Boys,High School, 29/SP West               (Female)",Chak 29/SP,210070703,0,435,435,0,2,2
+"",,Chak 29/SP,210070704,0,207,207,,,
+"",,Chak 29/SP,210070705,0,278,278,,,
+"",,Chak 29/SP,210070706,0,185,185,,,
+85,"Govt: Girls,Primary School Chawant East     (Male)",Chanwant,210070707,390,0,390,2,0,2
+"",,Chanwant,210070708,324,0,324,,,
+"",,Chanwant,210070709,541,0,541,,,
+86,Govt: Girls Primary School 33 SP Chanwat          (Female),Chanwant,210070707,0,367,367,0,2,2
+"",,Chanwant,210070708,0,286,286,,,
+"",,Chanwant,210070709,0,395,395,,,
+87,Govt:Boys Primary School 57/SP                     (Combined),Chak 57/SP,210070803,240,178,418,1,1,2
+"",,Chak 57/SP,210070804,436,358,794,,,
+88,Govt:Boys Primary School 68/D            (Male),chak 68/D,210070801,412,0,412,2,0,2
+"",,chak 68/D,210070802,554,0,554,,,
+89,Govt Girls Middle  School 68/D                    (Female),chak 68/D,210070801,0,309,309,0,2,2
+"",,chak 68/D,210070802,0,447,447,,,
+90,Govt: Girls Middle School 68/D                       (Combined),Chak Wasso Kamboh,210070710,194,144,338,2,1,3
+"",,Bunga Kanwar Singh,210070805,346,228,574,,,
+"",,Bunga Kanwar Singh,210070806,228,150,378,,,
+91,Govt:Boys Primary Adda Malka Hans             (Combined),"Malka Hans (GhulsanNagar, Mohallah IdreesNagar)",210070101,263,196,459,2,1,3
+"Malka Hans(MohallahNoor Jang)",210070102,490,425,915,,,,,
+92,(Combined),"Malka Hans ( Adda,Noor Jang,WattowanWali )",210070105,394,316,710,1,1,2
+93,"Govt:Boys Higher School,Malka Hans East     (Combined)","Malka Hans( AddaMalka Hans,Rati Roadexchange)",210070106,342,264,606,2,2,4
+"",,"Malka Hans ( RatiRoad,Pir Haji Shah)",210070107,572,458,1030,,,
+94,"Govt:Boys Higher Secondary School, Malka Hans West(Male)","Malka Hans ( MannaChowk,Jamal Pura)",210070108,311,0,311,3,0,3
+"",,"Malka Hans( Mohallah WarisShah,Purani Eid Gah)",210070109,181,0,181,,,
+"",,"Malka Hans ( Nai EidGah,Rat Pura)",210070111,456,0,456,,,
+"",,"Malka Hans ( Nai EidGah,Rat Pura)",210070112,392,0,392,,,
+95,"Govt:Boys Higher Secondary School, Malka Hans North(Female)","Malka Hans ( MannaChowk,Jamal Pura)",210070108,0,246,246,0,2,2
+"",,"Malka Hans ( MohallahWaris Shah,Purani EidGah)",210070109,0,127,127,,,
+"",,"Malka Hans ( Nai EidGah,Rat Pura)",210070111,0,395,395,,,
+"",,"Malka Hans ( Nai EidGah,Rat Pura)",210070112,0,304,304,,,
+96,"Govt: Girls Higher Secondary School, Malka Hans East(Male)",Malka Hans ( Rat Pura ),210070113,377,0,377,2,0,2
+Malka Hans ( Rat Pura ),210070114,392,0,392,,,,,
+"Malka Hans( MainRoad, Masjid Ahl-Hadise)",210070118,238,0,238,,,,,
+Malka Hans ( Rat Pura ),210070113,0,300,300,,,,,
+"",,"Malka Hans( MainRoad, Masjid Ahl-Hadise)",210070118,0,229,229,,,
+98,"Govt: Girls Higher Secondary School, Malka Hans (South)",Malka Hans ( Rat Pura ),210070116,754,0,754,2,0,2
+"",,Malka Hans ( Rat Pura ),210070117,598,0,598,,,
+99,"Govt: Girls Higher Secondary School Malka Hans North(Female)",Malka Hans ( Rat Pura ),210070116,0,600,600,0,2,2
+"",,Malka Hans ( Rat Pura ),210070117,0,504,504,,,
+100,"Govt. Boys Middle School Malka Hans(New Portion)(Male)","Malka Hans ( MohallahHansan Wala)",210070119,369,0,369,3,0,3
+"",,"Malka Hans ( MohallahHansan Wala,NoorMasjid",210070120,230,0,230,,,
+"",,"Malka Hans ( MohallahMasjid Waris Shah )",210070121,444,0,444,,,
+"",,"Malka Hans ( MasjidWaris Shah )",210070122,398,0,398,,,
+101,"Govt. Boys Middle School Malka Hans old Portion(Female)","Malka Hans (MohallahHansan Wala)",210070119,0,305,305,0,2,2
+"Malka Hans (MohallahHansan Wala, NoorMasjid )",210070120,0,221,221,,,,,
+"Malka Hans (MohallahMasjid Waris Shah )",210070121,0,357,357,,,,,
+"Malka Hans (MasjidWaris Shah)",210070122,0,362,362,,,,,
+102,"Govt:Boys Higher Secondary School, Malka Hans(Male)","Malka Hans ( MohallahWaris Shah)",210070124,251,0,251,4,0,4
+"",,"Malka Hans ( Purani EidGah,Mana Chowk)",210070125,535,0,535,,,
+"",,"Malka Hans ( MehrShah,Chadian Wala )",210070126,262,0,262,,,
+103,Office Union Council No.28 Malka Hans       (Female),"Malka Hans (WarisShah,Chadian Wala)",210070123,0,334,334,0,2,2
+"",,"Malka Hans (MohallahWaris Shah)",210070124,0,221,221,,,
+"",,"Malka Hans (Purani EidGah,Mana Chowk)",210070125,0,421,421,,,
+"",,"Malka Hans (MehrShah, Chadian Wala )",210070126,0,194,194,,,
+104,"Govt: Boys Middle School, Malka Hans Primary Portion Olddispensary                 (Combined)","Malka Hans( MohallahChadian Wala RatiRoad)",210070103,213,183,396,1,1,2
+"",,"Malka Hans ( By pass,Abadi Sher Shah)",210070115,130,116,246,,,
+105,Govt: Girls Primary School Malka Hans         (Combined),"Malka Hans  (JamalPura, MiddleSchool,Chandni Chowk)",210070110,629,529,1158,1,1,2
+"",,"Malka Hans (Jallabad,Bandrian Wala)",210070127,141,107,248,,,
+106,"Govt:Boys Primary School, 75/D            (Combined)",Ladhu Wangah,210060101,319,264,583,2,2,4
+"",,Chak 75/D,210080409,530,486,1016,,,
+107,"Govt:Boys Primary School, 76/D                       (Male)",Chak 76/D,210060102,552,0,552,2,0,2
+"",,Chak 76/D,210060103,430,0,430,,,
+108,"Govt:Boys Primary School, 76/D                     (Female)",Chak 76/D,210060102,0,381,381,0,2,2
+Chak 76/D,210060103,0,319,319,,,,,
+109,"Govt:Boys Primary School, 77/D              (Combined)",Chak 77/D,210060105,241,186,427,2,1,3
+"",,Chak 77/D,210060106,260,193,453,,,
+110,"Govt:Boys High School, .93/D East                   (Male)",Chak 93/D,210060107,215,0,215,2,0,2
+"",,Chak 93/D,210060117,104,0,104,,,
+"",,Chak 93/D,210060108,318,0,318,,,
+"",,Chak 93/D,210060109,449,0,449,,,
+111,"Govt:Boys High School, .93/D East                 (Female)",Chak 93/D,210060107,0,195,195,0,2,2
+"",,Chak 93/D,210060117,0,92,92,,,
+"",,Chak 93/D,210060108,0,287,287,,,
+"",,Chak 93/D,210060109,0,356,356,,,
+112,"Govt: Boys High School, 93/D West                 (Male)",Chak 93/D,210060110,416,0,416,2,0,2
+"",,Chak 93/D,210060111,416,0,416,,,
+"",,Chak 93/D,210060112,264,0,264,,,
+113,"Govt: Boys High School, 93/D West                 (Female)",Chak 93/D,210060110,0,311,311,0,2,2
+"",,Chak 93/D,210060111,0,356,356,,,
+"",,Chak 93/D,210060112,0,225,225,,,
+114,"Govt: Girls Middle School, 93/D East                 (Male)",Chak 93/D,210060113,352,0,352,2,0,2
+"",,Chak 93/D,210060114,455,0,455,,,
+"",,Chak 93/D,210060115,319,0,319,,,
+"",,Chak 93/D,210060116,92,0,92,,,
+115,"Govt: Girls Middle School, 93/D West               (Female)",Chak 93/D,210060113,0,317,317,0,2,2
+"",,Chak 93/D,210060114,0,347,347,,,
+"",,Chak 93/D,210060115,0,254,254,,,
+"",,Chak 93/D,210060116,0,68,68,,,
+116,"Govt: Girls Middle School, 78/D              (Combined)",Chak 78/D,210060201,257,246,503,1,1,2
+"",,Chak 78/D,210060202,380,305,685,,,
+117,"Govt:Boys Primary School, 79/D               (Combined)",Chak 78/D,210060203,52,28,80,1,1,2
+"",,Chak79/D,210060204,333,297,630,,,
+118,"Govt:Boys Primary School, 80/D                (Combined)",Chak 80/D,210060205,385,337,722,2,1,3
+"",,Chak 80/D,210060206,361,294,655,,,
+119,"Govt:Boys Primary School, 81/D                 (Combined)",Chak 81/D,210060207,451,361,812,2,1,3
+"",,Chak 81/D,210060208,272,214,486,,,
+120,"Govt: Girls Primary School, 82/D                 (Combined)",Chak 82/D,210060301,471,375,846,2,2,4
+"",,Chak 82/D,210060302,391,329,720,,,
+121,"Govt:Boys High School, 83/D       (Male)",Chak 83/D,210060303,701,0,701,2,0,2
+Chak 83/D,210060304,363,0,363,,,,,
+"",,Chak 83/D,210060304,0,292,292,,,
+123,"Govt:Boys Primary School, 84/D                (Combined)",Chak 84/D,210060305,548,459,1007,2,2,4
+"",,Chak 84/D,210060306,289,220,509,,,
+124,Govt:Boys Primary School 85/D                  (Combined),Chak 85/D,210060401,569,510,1079,2,1,3
+125,"Govt:Boys Primary School, 86/D                  (Combined)",Chak 86/D,210060402,406,335,741,1,1,2
+"",,Chak 86/D,210060403,192,138,330,,,
+"",,Kot Sher Baig,210060406,40,31,71,,,
+126,"Govt:Boys Primary School, 88/D                  (Combined)",Chak 87/D,210060404,265,207,472,1,1,2
+"",,Chak 88/D,210060405,342,264,606,,,
+127,"Govt:Boys Primary School, 89/D                    (Male)",Chak 89/D,210060601,619,0,619,2,0,2
+"",,Chak 92/D,210060605,376,0,376,,,
+128,"Govt:Boys Primary School, 89/D  (Female)",Chak 89/D,210060601,0,453,453,0,2,2
+"",,Chak 92/D,210060605,0,319,319,,,
+129,"Govt:Boys Middle School, 90/D                      (Male)",Chak 90/D,210060602,578,0,578,2,0,2
+"",,Chak 90/D,210060603,363,0,363,,,
+"",,Chak 91/D,210060604,147,0,147,,,
+130,"Govt:Boys Middle School, 90/D                        (Female)",Chak 90/D,210060602,0,457,457,0,2,2
+"",,Chak 90/D,210060603,0,298,298,,,
+"",,Chak 91/D,210060604,0,122,122,,,
+131,"Govt: Girls Primary School,  94/D                (Combined)",Chak 94/D,210060504,575,420,995,2,1,3
+132,"Govt:Boys Primary School, 99/D                  (Combined)",Chak 99/D,210060701,283,220,503,2,1,3
+"",,Chak 99/D,210060702,313,238,551,,,
+"",,Chak 104/D,210060804,212,180,392,,,
+133,"Govt:Boys Primary School, 98/D                (Combined)",Zakhira,210060606,12,6,18,2,1,3
+"",,Chak No.100/D,210060703,105,88,193,,,
+"",,Chak No.98/D,210060801,598,601,1199,,,
+134,Basic Health Unit 102/D                                            (Male),Chak 103/D,210060704,358,0,358,2,0,2
+"",,Chak 101/D,210060802,254,0,254,,,
+"",,Chak 102/D,210060803,286,0,286,,,
+135,Govt: Girls Primary School  102/D                  (Female),Chak 103/D,210060704,0,311,311,0,2,2
+"",,Chak 101/D,210060802,0,162,162,,,
+"",,Chak 102/D,210060803,0,228,228,,,
+136,"Govt:Boys Primary School, 107/D    (Male)",Chak 106/D,210060705,75,0,75,2,0,2
+Chak 107/D,210060706,817,0,817,,,,,
+Chak 105/D,210060805,74,0,74,,,,,
+Chak 106/D,210060705,0,59,59,,,,,
+"",,Chak 105/D,210060805,0,56,56,,,
+138,"Govt:Boys Middle School, 62/SP                  (Combined)",Chak 62/SP,210060901,301,245,546,1,1,2
+"",,Chak 62/SP,210060902,356,322,678,,,
+139,"Govt:Boys Primary School, 95/D                   (Combined)",Chak 95/D,210060501,395,368,763,2,2,4
+"",,Chak 95/D,210060502,495,452,947,,,
+"",,Chak 95/D,210060503,199,171,370,,,
+140,"Govt: Girls High School, 96/D                   (Combined)",Chak 96/D,210060903,311,266,577,2,1,3
+"",,Chak 96/D,210060904,489,420,909,,,
+141,"Govt:Boys High School, 96/D                  (Combined)",Chak 96/D,210060905,506,412,918,1,1,2
+142,"Govt:Boys Primary School, Kot Hukam singh  (Male)",Rakh Malka Hans,210061011,404,0,404,2,0,2
+"",,Rakh Malka Hans,210061012,567,0,567,,,
+143,"Govt:Boys Primary School, Kot Hukam singh (Female)",Rakh Malka Hans,210061011,0,270,270,0,2,2
+"",,Rakh Malka Hans,210061012,0,412,412,,,
+144,Govt Boys Primary School Arizi Fazal Bhatti   (Male),Rakh Malka Hans,210061007,273,0,273,2,0,2
+"",,Rakh Malka Hans,210061008,348,0,348,,,
+"",,Rakh Malka Hans,210061009,290,0,290,,,
+"",,Rakh Malka Hans,210061010,316,0,316,,,
+145,Govt Boys Primary School Arizi Fazal Bhatti (Female),Rakh Malka Hans,210061007,0,195,195,0,2,2
+"",,Rakh Malka Hans,210061008,0,270,270,,,
+"",,Rakh Malka Hans,210061009,0,218,218,,,
+"",,Rakh Malka Hans,210061010,0,199,199,,,
+146,"Govt: Boys Primary School, Tibba Sher Shah  (Male)",Rakh Malka Hans,210061003,470,0,470,2,0,2
+"",,Rakh Malka Hans,210061004,232,0,232,,,
+"",,Rakh Malka Hans,210061005,381,0,381,,,
+"",,Rakh Malka Hans,210061006,429,0,429,,,
+147,"Govt: Girls Primary School, Tibba Sher Shah (Female)",Rakh Malka Hans,210061003,0,359,359,0,2,2
+"",,Rakh Malka Hans,210061004,0,167,167,,,
+"",,Rakh Malka Hans,210061005,0,294,294,,,
+"",,Rakh Malka Hans,210061006,0,255,255,,,
+148,Govt: Girls Primary School Center Hari Pur   (Combined),Arazi Take Chand,210061002,377,284,661,1,1,2
+149,"Govt:Boys Primary School, 59/SP                   (Male)",Arazi Shaho Khan,210061001,506,0,506,2,0,2
+"",,Chak 59/SP,210080305,591,0,591,,,
+150,"Govt:Boys Primary School, 59/SP                  (Female)",Arazi Shaho Khan,210061001,0,413,413,0,2,2
+Chak 59/SP,210080305,0,494,494,,,,,
+Chak 56/SP,210080201,587,429,1016,,,,,
+152,Govt: Girls Primary School 56/SP                   (Combined),Chak 56/SP,210080203,209,120,329,1,1,2
+"",,Chak 56/SP,210080204,390,248,638,,,
+153,"Govt: Girls Primary School Chak Jaffar Ali Shah(Combined)",Chak Jaffar Ali Shah,210080206,415,308,723,1,1,2
+154,Govt:Boys Primary School Sardool   (Combined),Chak Sardool Singh,210080205,599,423,1022,1,1,2
+155,"Govt:Boys High School, Dhappai                   (Male)",Dhappai,210080101,304,0,304,2,0,2
+"",,Dhappai,210080102,466,0,466,,,
+"",,Dhappai,210080103,279,0,279,,,
+156,"Govt:Boys High School, Dhappai                (Female)",Dhappai,210080101,0,233,233,0,2,2
+"",,Dhappai,210080102,0,373,373,,,
+"",,Dhappai,210080103,0,197,197,,,
+157,Govt:Boys Primary School  55/SP East                (Combined),Chak 55/SP,210080105,429,322,751,2,1,3
+"",,Chak 55/SP,210080106,325,229,554,,,
+158,"Govt:Boys Primary School, 55/SP West             (Combined)",Gobind Pur(Bahmni),210080104,148,126,274,1,1,2
+"",,Chak 55/SP,210080107,397,322,719,,,
+159,Govt:Boys Primary School 71/D                  (Male),Chak 71/D,210080401,97,0,97,2,0,2
+"",,Chak 71/D,210080402,593,0,593,,,
+"",,Kartar Pur,210080410,678,0,678,,,
+160,Govt:Boys Primary School 71/D                   (Female),Chak 71/D,210080401,0,79,79,0,2,2
+"",,Chak 71/D,210080402,0,541,541,,,
+"",,Kartar Pur,210080410,0,585,585,,,
+161,Govt:Boys Primary School 72/D              (Combined),Chak 72/D,210080403,240,209,449,2,1,3
+"",,Chak 72/D,210080404,488,435,923,,,
+162,Govt: Girls Primary School 73/D             (Combined),Chak 73/D,210080405,406,377,783,2,2,4
+"",,Chak 73/D,210080406,390,365,755,,,
+163,Govt:Boys Primary School 74/D                        (Male),Chak 74/D,210080407,635,0,635,2,0,2
+"",,Chak 74/D,210080408,472,0,472,,,
+164,Govt:Boys Primary School 74/D                      (Female),Chak 74/D,210080407,0,570,570,0,2,2
+"",,Chak 74/D,210080408,0,432,432,,,
+165,"Govt:Boys,High School, Chak Sandhay Khan   (Male)",Chak Sandhay Khan,210080301,859,0,859,2,0,2
+"",,Chak Sandhay Khan,210080302,180,0,180,,,
+166,"Govt:Boys,High School, Chak Sandhay Khan (Female)",Chak Sandhay Khan,210080301,0,651,651,0,2,2
+"",,Chak Sandhay Khan,210080302,0,132,132,,,
+167,"Govt: Girls Middle School, Sandhay Khan   (Combined)",Chilli Mamdana,210080306,215,148,363,1,1,2
+Chak 58/SP,210080303,630,477,1107,,,,,
+169,"Govt:Boys Primary School, Ghurri               (Combined)",Ghurri,210080501,354,354,708,1,1,2
+"",,Chak Ahmad Sher,210080504,89,62,151,,,
+"",,Chak Murad Khan,210080505,289,216,505,,,
+170,"Govt:Boys High School, 70/D    (Male)",Chak 70/D,210080502,406,0,406,2,0,2
+"",,Chak 70/D,210080503,567,0,567,,,
+171,"Govt:Boys High School, 70/D                      (Female)",Chak 70/D,210080502,0,339,339,0,2,2
+"",,Chak 70/D,210080503,0,481,481,,,
+172,Govt:Boys Primary School 69/D                 (Combined),Chak 69/D,210080506,178,127,305,2,1,3
+"",,Ram Pur,210080507,556,478,1034,,,
+173,Govt:Boys Primary School 26/SP     (Male),Chak 26/SP,210080702,452,0,452,2,0,2
+"",,Chak 26/SP,210080703,395,0,395,,,
+"",,Sohail,210080705,154,0,154,,,
+174,Govt:Boys Primary School 26/SP                  (Female),Chak 26/SP,210080702,0,345,345,0,2,2
+"",,Chak 26/SP,210080703,0,256,256,,,
+"",,Sohail,210080705,0,119,119,,,
+175,Govt: Girls Primary School 26/SP              (Combined),Chak 26/SP,210080701,722,520,1242,2,1,3
+176,Govt:Boys Primary School 28/SP                 (Combined),Chak 28/SP,210080704,335,288,623,1,1,2
+"PollingStationSerial No",Polling Station Name,Electoral Area,Block Code,"MaleVoters","FemaleVoters","TotalVoters","MaleBooths","FemaleBooths","TotalBooths"
+1,"Govt:Boys Primary School, Iqbal Nagar Arifwala  (Male)",Iqbal Nagar-2,211080504,335,0,335,2,0,2
+"",,Iqbal Nagar-3,211080505,559,0,559,,,
+2,"Govt:Boys Primary School, Iqbal Nagar Arifwala  (Male)",Iqbal Nagar-4,211080506,335,0,335,2,0,2
+"",,Iqbal Nagar-5,211080507,304,0,304,,,
+"",,"Ghulshan RafiqueColony",211080701,281,0,281,,,
+3,"Govt: MC Girls Primary School, Iqbal Nagar, Arifwala(Female)",Iqbal Nagar-2,211080504,0,302,302,0,3,3
+Iqbal Nagar-3,211080505,0,456,456,,,,,
+I q   b  a  l   N   a  g  a  r  -4,211080506,0,298,298,,,,,
+Iqbal Nagar-5,211080507,0,259,259,,,,,
+"Ghulshan RafiqueColony",211080701,0,252,252,,,,,
+4,"Govt:Boys Primary School, O.Block Zia Nagar Arifwala(Male)",Zia Nagar-2,211080602,157,0,157,2,0,2
+"",,Zia Nagar-3,211080603,322,0,322,,,
+"",,Zia Nagar-4,211080604,348,0,348,,,
+5,"Govt: Iqra Girls Primary School O.Block Arifwala(Female)",Zia Nagar-1,211080601,0,327,327,0,2,2
+"",,Z  i a   N   a  g ar-2,211080602,0,144,144,,,
+"",,Zia Nagar-3,211080603,0,270,270,,,
+"",,Zia Nagar-4,211080604,0,335,335,,,
+6,"Govt:Boys Primary School, O.Block Zia Nagar Arifwala(Male)",Zia Nagar-5,211080605,355,0,355,2,0,2
+"",,Zia Nagar-6,211080606,417,0,417,,,
+"",,Zia Nagar-7,211080607,341,0,341,,,
+7,"(4) Govt: Iqra Girls Primary School O.Block Arifwala(Female)",Zia Nagar-5,211080605,0,317,317,0,2,2
+"",,Zia Nagar-6,211080606,0,389,389,,,
+"",,Zia Nagar-7,211080607,0,297,297,,,
+8,Office of SDO. Highway Arifwala          (Male),Mushtaq Nagar-1,211080702,429,0,429,2,0,2
+"",,Mushtaq Nagar-2,211080703,112,0,112,,,
+"",,Mushtaq Nagar-3,211080704,307,0,307,,,
+"",,"Mushtaq Nagar-4 (Basti Odhan Wali)",211080705,271,0,271,,,
+"",,"Mushtaq Nagar-5(Muzaffarabad)",211080706,101,0,101,,,
+9,Office of the Agriculture Arifwala   (Female),Mushtaq Nagar-1,211080702,0,370,370,0,2,2
+"",,Mushtaq Nagar-2,211080703,0,96,96,,,
+"",,Mushtaq Nagar-3,211080704,0,267,267,,,
+"",,"Mushtaq Nagar-4 (Basti Odhan Wali)",211080705,0,254,254,,,
+"",,"Mushtaq Nagar-5(Muzaffarabad)",211080706,0,80,80,,,
+10,"Govt:Boys High School, N.Block North Arifwala    (Male)",Faisall Town,211080401,321,0,321,4,0,4
+Shahzad Colony,211080402,282,0,282,,,,,
+"K Block,",211080501,172,0,172,,,,,
+"K.Block, Iqbal Nagar-1",211080502,213,0,213,,,,,
+Latif Abad/ K Block,211080503,561,0,561,,,,,
+Faisall Town,211080401,0,301,301,,,,,
+Shahzad Colony,211080402,0,221,221,,,,,
+"",,"K.Block, Iqbal Nagar-1",211080502,0,199,199,,,
+"",,Latif Abad/ K Block,211080503,0,465,465,,,
+12,"Govt:Boys High School, N Block East         (Male)",N. Block Arifwala,211080804,448,0,448,2,0,2
+"",,O. Block Arifwala,211080805,413,0,413,,,
+"",,N.O.Block Arifwala,211080806,189,0,189,,,
+13,"Govt:Boys High School,N Block West  (Female)",N. Block Arifwala,211080804,0,400,400,0,2,2
+"",,O. Block Arifwala,211080805,0,395,395,,,
+"",,N.O.Block Arifwala,211080806,0,169,169,,,
+14,Govt MC Girls Middle School M. Block  Arifwala (Male),M- Block,211080801,504,0,504,3,0,3
+"",,M- Block-2,211080802,653,0,653,,,
+"",,M- Block ( Kachi Abadi ),211080803,435,0,435,,,
+15,"Govt:MC Girls Middle School, M.Block Arifwala  (Female)",M- Block,211080801,0,475,475,0,3,3
+"",,M- Block-2,211080802,0,583,583,,,
+"",,M- Block ( Kachi Abadi ),211080803,0,484,484,,,
+16,Govt:Boys Primary School Bhatth No.1 Arifwala    (Male),Bhattha No.1,211080301,409,0,409,3,0,3
+"",,Bhattha No.2,211080302,572,0,572,,,
+"",,L. Block Bhattha.2,211080303,538,0,538,,,
+17,"Govt:Girls Middle School, Bhattah No.1 Arifwala  (Female)",Bhattha No.1,211080301,0,313,313,0,2,2
+"",,Bhattha No.2,211080302,0,495,495,,,
+"",,L. Block Bhattha.2,211080303,0,416,416,,,
+18,Govt:Boys Primary School Bhatth No.1 Arifwala    (Male),L. Block Bhattha.2,211080304,541,0,541,2,0,2
+"",,Fazial Colony,211080305,252,0,252,,,
+"",,Bhattha No.2,211080306,245,0,245,,,
+19,"Govt:Girls Middle School, Bhattah No.1 Arifwala (Female)",L. Block Bhattha.2,211080304,0,451,451,0,2,2
+"",,Fazal Colony,211080305,0,225,225,,,
+"",,Bhattha No.2,211080306,0,188,188,,,
+20,"Govt:Degree College for Women,            (Male)","Christian Colony (L-Block Bhattha No.2 )",211080205,448,0,448,2,0,2
+"Christian Colony (L-Block Bhattha No.2 )",211080206,313,0,313,,,,,
+ShahNawaz Colony,211080307,292,0,292,,,,,
+""
+""
+21,"Govt:Degree College for Women,            (Male)","Bhattha No.3 (RehmatColony )",211080404,202,0,202,2,0,2
+"",,Shah Nawaz Colony,211080405,368,0,368,,,
+22,"Govt:DPS, Arifwala  (Female)","Christian Colony (L-Block Bhattha No.2 )",211080205,0,386,386,0,3,3
+"",,"Christian Colony (L-Block Bhattha No.2 )",211080206,0,222,222,,,
+"",,ShahNawaz Colony,211080307,0,239,239,,,
+"",,"Bhattha No.3 ( ShahzadAbad )",211080403,0,238,238,,,
+"",,"Bhattha No.3 ( RehmatColony )",211080404,0,174,174,,,
+"",,Shah Nawaz Colony,211080405,0,292,292,,,
+23,"Govt: Boys Middle School No.1, Arifwala East   (Male)",H -Block,211080103,279,0,279,2,0,2
+"",,H -Block,211080104,313,0,313,,,
+"",,C -Block-1,211080201,372,0,372,,,
+24,"Govt:Boys Middle School No.1, Arifwala West  (Female)",H-Block,211080103,0,197,197,0,2,2
+"",,H-Block,211080104,0,268,268,,,
+"",,C-Block-1,211080201,0,381,381,,,
+25,"Govt: Boys Middle School No.1, Arifwala East  (Combined)",C -Block-2,211080202,276,233,509,2,2,4
+"",,G -Block-1,211080105,391,339,730,,,
+"",,G -Block-2,211080106,122,104,226,,,
+26,Govt:MC Boys High School East Arifwala   (Male),Wahab Town,211080101,535,0,535,3,0,3
+"",,"Ghulshan Iqbal/ C-Block",211080102,488,0,488,,,
+"",,D- Block,211080203,246,0,246,,,
+"",,D- Block-2,211080204,336,0,336,,,
+27,"Govt:MC Boys High School , West Arifwala  (Female)",Wahab Town,211080101,0,482,482,0,3,3
+"",,"Ghulshan Iqbal/ C-Block",211080102,0,429,429,,,
+"",,D- Block,211080203,0,233,233,,,
+"",,D- Block-2,211080204,0,330,330,,,
+28,"Govt:Girls High School, Arifwala             (Male)",J-Block,211090105,713,0,713,3,0,3
+"Christian Colony/ J-Block",211090106,473,426,899,,,,,
+29,Govt: MC Girls Primary School F.Block Arifwala  (Female),"Christian Colony/J-Block",211090106,0,426,426,0,2,2
+30,Office of the TMA East Arifwala              (Male),F-Block,211090103,446,0,446,2,0,2
+"",,E-Block,211090104,493,0,493,,,
+31,Office of the TMA. West Arifwala    (Female),F-Block,211090103,0,449,449,0,2,2
+"",,E-Block,211090104,0,440,440,,,
+32,Govt:Boys Primary School North Muzaffarabad   (Male),Ghulshan Iqbal,211090201,477,0,477,3,0,3
+"",,Ghulshan Iqbal,211090202,162,0,162,,,
+"",,Ghulshan Iqbal,211090203,449,0,449,,,
+"",,"Ghulshan Iqbal /Housing Colony",211090204,319,0,319,,,
+33,Govt:Boys Primary School South Muzaffarabad  (Female),Ghulshan Iqbal,211090201,0,500,500,0,3,3
+"",,Ghulshan Iqbal,211090202,0,155,155,,,
+"",,Ghulshan Iqbal,211090203,0,409,409,,,
+"",,"Ghulshan Iqbal /Housing Colony",211090204,0,311,311,,,
+34,"Govt:Boys High School, Shakar Gunj Arifwala, South(Male)",Muzafarabad,211090301,538,0,538,2,0,2
+"",,"Muzafarabad/ GauShala",211090302,414,0,414,,,
+35,"Govt:Boys High School, Shakar Gunj Arifwala, South(Female)",Muzafarabad,211090301,0,450,450,0,2,2
+"",,"Muzafarabad/GauShala",211090302,0,331,331,,,
+36,"Govt:Boys High School, Shakar Gunj Arifwala, South(Male)",Muzafarabad,211090303,573,0,573,2,0,2
+"",,"Green Town/ RostamTown",211090304,658,0,658,,,
+37,"Govt:Boys High School, Shakar Gunj Arifwala, South(Female)",Muzafarabad,211090303,0,481,481,0,2,2
+"",,"Green Town/ RostamTown",211090304,0,556,556,,,
+38,"office of the Market Committee, Arifwala East   (Male)",Sharif Pura-1,211090501,581,0,581,3,0,3
+"",,Sharif Pura-2,211090502,443,0,443,,,
+"",,Sharif Pura-3,211090503,489,0,489,,,
+39,"office of the Market Committee, Arifwala West (Female)",Sharif Pura-1,211090501,0,451,451,0,2,2
+Sharif Pura-2,211090502,0,370,370,,,,,
+Sharif Pura-3,211090503,0,416,416,,,,,
+Faridia  Colony,211090102,403,0,403,,,,,
+Muhammad Pura,211090403,425,0,425,,,,,
+"",,Muhammad Pura,211090404,614,0,614,,,
+41,"Govt: MC Girls Primary School Saddique Town Arifwala(Female)",Faridia  Colony,211090102,0,392,392,0,3,3
+"",,"Muhammad Pura",211090403,0,385,385,,,
+"",,Muhammad Pura,211090405,0,259,259,,,
+"",,Muhammad Pura,211090404,0,540,540,,,
+42,"Govt:Boys Primary School No.4 Mandar A Block, WestArifwala   (Male)",B-Block,211090101,855,0,855,2,0,2
+43,"Govt:Boys Primary School, Sharif Pura (Female)",B-Block,211090101,0,784,784,0,2,2
+44,"Govt:Boys Primary School No.4 Mandar A Block, WestArifwala   (Male)",Mohallah Shamas Abad,211090401,731,0,731,2,0,2
+"",,"Sharif Pura/ ShamasAbad",211090402,461,0,461,,,
+45,"Govt:Boys Primary School, Sharif Pura (Female)",Mohallah Shamas Abad,211090401,0,645,645,0,2,2
+"",,"Sharif Pura/ ShamasAbad",211090402,0,387,387,,,
+46,"Govt:Boys Primary School No.3 Al- Badar Colony, ArifwalaEast                   (Male)","Al-Badar Colony &Others areas",211090505,148,0,148,2,0,2
+"",,"Al-Badar Colony/Muhammadi",211090506,150,0,150,,,
+"",,Al-Badar Colony,211090601,495,0,495,,,
+47,"Govt:Boys Primary School. No.3 Al-Badar Colony, ArifwalaWest  (Female)","Al-Badar Colony &Others areas",211090505,0,142,142,0,2,2
+"",,"Al-Badar Colony/Muhammadi",211090506,0,144,144,,,
+"",,Al-Badar Colony,211090601,0,431,431,,,
+48,"Govt:Boys Primary School No.3 Al- Badar Colony, ArifwalaEast                   (Male)",Al-Badar Colony-2,211090602,273,0,273,2,0,2
+"",,Al-Badar Colony-3,211090603,506,0,506,,,
+"",,Al-Badar Colony-4,211090604,414,0,414,,,
+"",,Al-Badar Colony-5,211090608,345,0,345,,,
+49,"Govt:Boys Primary School. No.3 Al-Badar Colony, ArifwalaWest         (Female)",Al-Badar Colony-2,211090602,0,227,227,0,2,2
+"",,Al-Badar Colony-3,211090603,0,424,424,,,
+"",,Al-Badar Colony-4,211090604,0,407,407,,,
+"",,Al-Badar Colony-5,211090608,0,253,253,,,
+50,"Govt: MC. Girls Primary School, Muzaffarabad, ArifwalaWest                (Male)",Sadiq Town,211090504,409,0,409,2,0,2
+Muzafarabad,211090605,793,0,793,,,,,
+"",(Female),Muzafarabad,211090605,0,684,684,,,
+52,"Govt: MC. Girls Primary School, Muzaffarabad, ArifwalaWest                (Male)",Muzafarabad,211090606,653,0,653,2,0,2
+"",,Muzafarabad,211090607,311,0,311,,,
+53,"Govt:MC.Girls Primary School, Muzaffarabad, Arifwala East(Female)",Muzafarabad,211090606,0,569,569,0,2,2
+"",,Muzafarabad,211090607,0,218,218,,,
+54,"Govt:Boys High School, 34/EB East             (Male)",Chak 34/EB,211030801,173,0,173,2,0,2
+"",,Chak 34/EB,211030802,401,0,401,,,
+"",,Chak 34/EB,211030803,531,0,531,,,
+55,"Govt:Boys High School, 34/EB West (Female)",Chak 34/EB,211030801,0,161,161,0,2,2
+"",,Chak 34/EB,211030802,0,329,329,,,
+"",,Chak 34/EB,211030803,0,476,476,,,
+56,Govt:Boys Middle School 38/EB          (Male),Chak 38/EB,211030805,607,0,607,3,0,3
+"",,Chak 38/EB,211030806,237,0,237,,,
+"",,Chak 38/EB,211030807,428,0,428,,,
+57,Govt:Boys Middle School 38/EB  (Female),Chak 38/EB,211030805,0,544,544,0,2,2
+"",,Chak 38/EB,211030806,0,228,228,,,
+"",,Chak 38/EB,211030807,0,368,368,,,
+58,Govt:Girls Middle School New Building 38-EB          (Male),Chak 38/EB,211030808,358,0,358,2,0,2
+"",,Chak 38/EB,211030809,381,0,381,,,
+"",,Chak 38/EB,211030810,321,0,321,,,
+59,Govt:Girls Middle School New Building 38-EB  (Female),Chak 38/EB,211030808,0,320,320,0,2,2
+"",,Chak 38/EB,211030809,0,341,341,,,
+"",,Chak 38/EB,211030810,0,273,273,,,
+60,"Govt:Girls Middle School, 34/EB  (Combined)",Chak 34/EB,211030804,157,124,281,1,1,2
+61,"Govt:Girls Middle School, 40/EB  (Combined)",Chak 40/EB,211030501,549,507,1056,2,2,4
+"",,Chak 40/EB,211030502,289,208,497,,,
+62,"Govt:Boys High School, 50/EB East  (Combined)",Chak 50/EB,211030503,418,423,841,1,1,2
+"",,Chak 50/EB,211030506,219,196,415,,,
+63,"Govt:Boys High School, 50/EB West  (Combined)",Chak 50/EB,211030504,343,313,656,2,1,3
+"",,Chak 50/EB,211030505,398,329,727,,,
+64,"Govt:Girls Middle School, 56/EB       (Male)",Chak 56/EB,211030507,218,0,218,2,0,2
+"",,Chak 56/EB,211030508,409,0,409,,,
+"",,Chak 56/EB,211030509,496,0,496,,,
+65,"Govt:Girls Middle School, 56/EB  (Female)",Chak 56/EB,211030507,0,190,190,0,2,2
+Chak 56/EB,211030508,0,334,334,,,,,
+Chak 56/EB,211030509,0,409,409,,,,,
+"",,Chak 68/EB,211031002,480,0,480,,,
+67,Govt:Boys Primary School 68/EB  (Female),Chak 68/EB,211031001,0,535,535,0,2,2
+"",,Chak 68/EB,211031002,0,427,427,,,
+68,"Govt:Boys High School, 66/EB                (Male)",Chak 66/EB,211031003,449,0,449,2,0,2
+"",,Chak 66/EB,211031004,518,0,518,,,
+69,"Govt:Boys High School, 66/EB  (Female)",Chak 66/EB,211031003,0,402,402,0,2,2
+"",,Chak 66/EB,211031004,0,417,417,,,
+70,Govt:Girls Primary School 74/EB             (Male),Chak 74/EB,211030703,371,0,371,2,0,2
+"",,Chak 74/EB,211030704,568,0,568,,,
+71,Govt:Girls Primary School 74/EB  (Female),Chak 74/EB,211030703,0,336,336,0,2,2
+"",,Chak 74/EB,211030704,0,443,443,,,
+72,Govt:Girls High School 42/EB            (Male),Chak 42/EB,211030301,534,0,534,2,0,2
+"",,Chak 42/EB,211030302,509,0,509,,,
+73,Govt:Girls High School 42/EB  (Female),Chak 42/EB,211030301,0,468,468,0,2,2
+"",,Chak 42/EB,211030302,0,463,463,,,
+74,Govt:Boys Primary School 44/EB (Combined),Chak 44/EB,211030303,426,347,773,1,1,2
+75,Govt:Boys Primary School 64/EB (Combined),Chak 64/EB,211030304,793,720,1513,2,2,4
+76,Govt:Boys Primary School 46/EB          (Male),Chak 46/EB,211030901,129,0,129,2,0,2
+"",,Chak 46/EB,211030902,753,0,753,,,
+"",,Chak 46/EB,211030903,107,0,107,,,
+77,Govt:Boys Primary School 46/EB  (Female),Chak 46/EB,211030901,0,102,102,0,2,2
+"",,Chak 46/EB,211030902,0,637,637,,,
+"",,Chak 46/EB,211030903,0,95,95,,,
+78,Govt:Boys Primary School 48/EB            (Male),Chak 48/EB,211030904,574,0,574,2,0,2
+"",,Chak 48/EB,211030905,426,0,426,,,
+79,Govt:Girls Middle School 48/EB (Female),Chak 48/EB,211030904,0,450,450,0,2,2
+"",,Chak 48/EB,211030905,0,348,348,,,
+80,Govt:Boys High School 52/EB             (Male),Chak 52/EB,211030401,197,0,197,2,0,2
+"",,Chak 52/EB,211030402,445,0,445,,,
+"",,Chak 52/EB,211030403,340,0,340,,,
+81,Govt:Boys High School 52/EB  (Female),Chak 52/EB,211030401,0,179,179,0,2,2
+"",,Chak 52/EB,211030402,0,417,417,,,
+"",,Chak 52/EB,211030403,0,317,317,,,
+82,Govt:Boys Primary School 54/EB  (Combined),Chak 54/EB,211030404,261,237,498,2,2,4
+Chak 54/EB,211030405,450,408,858,,,,,
+Chak 86/EB,211030203,440,0,440,,,,,
+84,"Govt:Girls Primary School, 86/EB  (Female)",Chak 86/EB,211030203,0,332,332,0,2,2
+"",,Chak 86/EB,211030204,0,491,491,,,
+85,Govt:Boys Primary School 70/EB           (Male),Chak 70/EB,211030205,590,0,590,2,0,2
+"",,Chak 70/EB,211030206,574,0,574,,,
+86,Govt:Boys Primary School 70/EB  (Female),Chak 70/EB,211030205,0,457,457,0,2,2
+"",,Chak 70/EB,211030206,0,417,417,,,
+87,Govt:Boys Primary School 78/EB  (Combined),Chak 78/EB,211030102,452,354,806,2,1,3
+"",,Chak 78/EB,211030108,318,256,574,,,
+88,"Govt:Girls Primary School, 78/EB  (Combined)",Chak 78/EB,211030101,420,381,801,2,1,3
+"",,Chak 78/EB,211030103,246,202,448,,,
+89,"Govt:Girls Primary School, 80/EB   (Combined)",Chak 80/EB,211030104,268,222,490,1,1,2
+"",,Chak 80/EB,211030109,274,273,547,,,
+"",,Chak 80/EB,211030105,134,100,234,,,
+90,"Govt:Girls Primary School, 92/EB           (Male)",Chak 92/EB,211030106,448,0,448,2,0,2
+"",,Chak 92/EB,211030107,476,0,476,,,
+91,"Govt:Girls Primary School, 92/EB  (Female)",Chak 92/EB,211030106,0,362,362,0,2,2
+"",,Chak 92/EB,211030107,0,394,394,,,
+92,Govt:Boys Primary School 84/EB            (Male),Chak 84/EB,211031101,199,0,199,2,0,2
+"",,Chak 84/EB,211031102,284,0,284,,,
+"",,Chak 84/EB,211031103,691,0,691,,,
+93,"Govt:Girls Primary School, 84/EB  (Female)",Chak 84/EB,211031101,0,163,163,0,2,2
+"",,Chak 84/EB,211031102,0,189,189,,,
+"",,Chak 84/EB,211031103,0,508,508,,,
+94,Govt:Boys Primary School 72/EB              (Male),Chak 72/EB,211030701,353,0,353,2,0,2
+"",,Chak 72/EB,211030702,617,0,617,,,
+95,Govt:Boys Primary School 72/EB  (Female),Chak 72/EB,211030701,0,275,275,0,2,2
+"",,Chak 72/EB,211030702,0,446,446,,,
+96,Govt:Boys Primary School 76/EB            (Male),Chak 76/EB,211030705,507,0,507,3,0,3
+"",,Chak 76/EB,211030706,259,0,259,,,
+"",,Chak 76/EB,211030707,618,0,618,,,
+97,"Govt:Girls Primary School, 76/EB  (Female)",Chak 76/EB,211030705,0,421,421,0,2,2
+"",,Chak 76/EB,211030706,0,234,234,,,
+"",,Chak 76/EB,211030707,0,491,491,,,
+98,Govt:Boys Primary School 58/EB              (Male),Chak 58/EB,211030601,286,0,286,2,0,2
+Chak 58/EB,211030602,507,0,507,,,,,
+Chak 58/EB,211030603,273,0,273,,,,,
+99,Govt:Girls Primary School 58/EB  (Female),Chak 58/EB,211030602,0,406,406,0,2,2
+"",,Chak 58/EB,211030603,0,207,207,,,
+100,Govt:Boys Primary School 60/EB  (Combined),Chak 60/EB,211030604,398,303,701,1,1,2
+101,"Govt:Girls Middle School, 62/EB            (Male)",Chak 62/EB,211030605,646,0,646,2,0,2
+"",,Chak 62/EB,211030606,418,0,418,,,
+102,"Govt:Girls Middle School, 62/EB  (Female)",Chak 62/EB,211030605,0,517,517,0,2,2
+"",,Chak 62/EB,211030606,0,338,338,,,
+103,Govt:Boys Primary School 82/EB (Combined),Chak 82/EB,211030201,354,196,550,2,1,3
+"",,Chak 82/EB,211030202,538,340,878,,,
+104,"Govt:Boys High School, 88/EB  (Combined)",Chak 88/EB,211031104,621,488,1109,1,1,2
+105,"Govt:Girls Middle School, 90/EB  (Combined)",Chak 90/EB,211031105,638,515,1153,1,1,2
+106,"Govt:Boys Middle School, 59/EB North   (Male)",Chak 59/EB,211010403,409,0,409,2,0,2
+"",,Chak 59/EB,211010404,610,0,610,,,
+107,Govt:Boys Middle School 59/EB South (Female),Chak 59/EB,211010403,0,342,342,0,2,2
+"",,Chak 59/EB,211010404,0,482,482,,,
+108,"Govt:Boys Middle School, 59/EB North (Combined)",Chak 59/EB,211010405,677,577,1254,2,2,4
+109,"Govt:Girls Middle  School,, 59/EB            (Male)",Chak 59/EB,211010406,488,0,488,3,0,3
+"",,Chak 59/EB,211010407,501,0,501,,,
+"",,Chak 59/EB,211010408,212,0,212,,,
+"",,Chak 59/EB,211010409,208,0,208,,,
+"",,Chak 59/EB,211010410,96,0,96,,,
+"",,Chak 59/EB,211010411,77,0,77,,,
+110,"Govt:Girls Middle  School,, 59/EB  (Female)",Chak 59/EB,211010406,0,405,405,0,2,2
+"",,Chak 59/EB,211010407,0,424,424,,,
+"",,Chak 59/EB,211010408,0,175,175,,,
+"",,Chak 59/EB,211010409,0,152,152,,,
+"",,Chak 59/EB,211010410,0,97,97,,,
+"",,Chak 59/EB,211010411,0,61,61,,,
+111,"Govt:Girls High School, 55/EB              (Male)",Chak 55/EB,211010401,512,0,512,2,0,2
+"",,Chak 55/EB,211010402,405,0,405,,,
+112,"Govt:Girls High School, 55/EB   (Female)",Chak 55/EB,211010401,0,413,413,0,2,2
+"",,Chak 55/EB,211010402,0,365,365,,,
+113,"Govt:Boys Primary School, 51/EB (Combined)",Chak 51/EB,211010606,342,261,603,2,1,3
+Chak 51/EB,211010607,463,412,875,,,,,
+Chak 53/EB,211010608,265,0,265,,,,,
+Chak 53/EB,211010609,269,0,269,,,,,
+115,Govt:Boys Primary School 53/EB  (Female),Chak 53/EB,211010608,0,207,207,0,2,2
+"",,Chak 53/EB,211010609,0,261,261,,,
+"",,Chak 53/EB,211010610,0,343,343,,,
+116,Govt:Boys Primary School 57/EB  (Combined),Chak 57/EB,211010604,265,234,499,2,1,3
+"",,Chak 57/EB,211010605,483,339,822,,,
+117,Govt:Boys Primary School 57/EB            (Male),Chak 57/EB,211010601,614,0,614,2,0,2
+"",,Chak 57/EB,211010602,249,0,249,,,
+"",,Chak 57/EB,211010603,264,0,264,,,
+118,"Govt:Girls Middle School, 57/EB          (Female)",Chak 57/EB,211010601,0,471,471,0,3,3
+"",,Chak 57/EB,211010602,0,211,211,,,
+"",,Chak 57/EB,211010603,0,235,235,,,
+119,Govt:Boys Middle School 71/EB              (Male),Chak 71/EB,211010101,380,0,380,2,0,2
+"",,Chak 71/EB,211010102,522,0,522,,,
+120,"Govt: Girls Middle School, 71/EB         (Female)",Chak 71/EB,211010101,0,307,307,0,2,2
+"",,Chak 71/EB,211010102,0,464,464,,,
+121,Govt:Boys Middle School 71/EB              (Male),Chak 71/EB,211010103,519,0,519,2,0,2
+"",,Chak 71/EB,211010104,417,0,417,,,
+"",,Chak 71/EB,211010105,150,0,150,,,
+122,"Govt: Girls Middle School, 71/EB         (Female)",Chak 71/EB,211010103,0,454,454,0,2,2
+"",,Chak 71/EB,211010104,0,366,366,,,
+"",,Chak 71/EB,211010105,0,119,119,,,
+123,"Govt:Boys High School, 69/EB (Male)",Chak 69/EB,211010301,404,0,404,2,0,2
+"",,Chak 69/EB,211010302,497,0,497,,,
+124,"Govt:Boys High School, 69/EB                 (Male)",Chak 69/EB,211010303,651,0,651,2,0,2
+"",,Chak 69/EB,211010304,314,0,314,,,
+125,"Govt:Girls High School, 69/EB          (Female)",Chak 69/EB,211010301,0,344,344,0,3,3
+"",,Chak 69/EB,211010302,0,441,441,,,
+"",,Chak 69/EB,211010303,0,556,556,,,
+"",,Chak 69/EB,211010304,0,265,265,,,
+126,"Govt:Boys High School, 67/EB North (Combined)",chak 67/EB,211010305,338,259,597,1,1,2
+"",,chak 67/EB,211010306,269,234,503,,,
+127,"Govt:Boys High School, 67/EB South           (Male)",Chak 67/EB,211010307,640,0,640,3,0,3
+Chak 67/EB,211010308,496,0,496,,,,,
+Chak 67/EB,211010310,115,0,115,,,,,
+Chak 67/EB,211010307,0,486,486,,,,,
+Chak 67/EB,211010308,0,438,438,,,,,
+129,"Govt:Girls High School, 67/EB              (Male)",Chak 67/EB,211010309,432,0,432,3,0,3
+"",,Chak 67/EB,211010315,416,0,416,,,
+"",,Chak 67/EB,211010311,372,0,372,,,
+130,"Govt:Girls High School, 67/EB  (Female)",Chak 67/EB,211010309,0,313,313,0,2,2
+"",,Chak 67/EB,211010315,0,313,313,,,
+"",,Chak 67/EB,211010311,0,279,279,,,
+131,Govt:Boys Primary School 65/EB             (Male),Chak 65/EB,211010312,1091,0,1091,2,0,2
+132,Govt:Boys Primary School 65/EB  (Female),Chak 65/EB,211010312,0,940,940,0,2,2
+133,"Govt:Girls Primary School, 65/EB  (Combined)",Chak 65/EB,211010313,577,506,1083,2,1,3
+"",,Chak 65/EB,211010314,76,47,123,,,
+134,Govt:Boys Primary School 15/EB           (Male),Chak 15/EB,211010501,242,0,242,2,0,2
+"",,Chak 15/EB,211010502,172,0,172,,,
+"",,Chak 15/EB,211010503,692,0,692,,,
+"",,Chak 15/EB,211010504,146,0,146,,,
+135,"Govt:Girls Primary School, 15/EB  (Female)",Chak 15/EB,211010501,0,188,188,0,2,2
+"",,Chak 15/EB,211010502,0,145,145,,,
+"",,Chak 15/EB,211010503,0,583,583,,,
+"",,Chak 15/EB,211010504,0,119,119,,,
+136,"Govt:Boys Middle School, 21/EB               (Male)",Chak 21/EB,211010505,481,0,481,3,0,3
+"",,Chak 21/EB,211010506,145,0,145,,,
+"",,Chak 21/EB,211010507,372,0,372,,,
+"",,Chak 21/EB,211010508,573,0,573,,,
+137,"Govt:Girls Community Model School, 21/EB  (Female)",Chak 21/EB,211010505,0,394,394,0,2,2
+"",,Chak 21/EB,211010506,0,145,145,,,
+"",,Chak 21/EB,211010507,0,333,333,,,
+"",,Chak 21/EB,211010508,0,557,557,,,
+138,Govt:Boys Primary School 17/EB            (Male),Chak 17/EB,211010509,260,0,260,2,0,2
+"",,Chak 17/EB,211010510,421,0,421,,,
+"",,Chak 17/EB,211010511,257,0,257,,,
+139,Govt:Boys Primary School 17/EB  (Female),Chak 17/EB,211010509,0,236,236,0,2,2
+"",,Chak 17/EB,211010510,0,375,375,,,
+"",,Chak 17/EB,211010511,0,224,224,,,
+140,"Govt:Boys High School, 19/EB               (Male)",Chak 19/EB,211010201,712,0,712,3,0,3
+Chak 19/EB,211010202,283,0,283,,,,,
+Chak 19/EB,211010203,399,0,399,,,,,
+Chak 19/EB,211010201,0,606,606,,,,,
+"",,Chak 19/EB,211010203,0,333,333,,,
+142,"Govt:Girls High School, 63/EB (Female)",Chak 63/EB,211010204,0,596,596,0,2,2
+"",,Chak 63/EB,211010205,0,450,450,,,
+143,Govt:Boys Primary School 63/EB            (Male),Chak 63/EB,211010204,735,0,735,2,0,2
+"",,Chak 63/EB,211010205,521,0,521,,,
+144,Govt:Boys Primary School 63/EB  (Combined),Chak 63/EB,211010206,319,256,575,1,1,2
+"",,Chak 63/EB,211010207,332,250,582,,,
+145,Govt:Boys Primary School 345/EB (Combined),Chak 345/EB,211050401,557,410,967,1,1,2
+146,"Govt:Boys High School, 351/EB   (Combined)",Chak 351/EB,211050201,92,77,169,1,1,2
+"",,Chak 351/EB,211050204,506,357,863,,,
+147,"Govt:Boys High School, 351/EB             (Male)",Chak 351/EB,211050202,526,0,526,2,0,2
+"",,Chak 351/EB,211050203,570,0,570,,,
+148,"Govt:Girls Middle School, 351/EB  (Female)",Chak 351/EB,211050202,0,386,386,0,2,2
+"",,Chak 351/EB,211050203,0,541,541,,,
+149,Govt:Boys Primary School 353/EB           (Male),Chak 353/EB,211050205,665,0,665,2,0,2
+"",,Chak 353/EB,211050206,361,0,361,,,
+150,Govt:Boys Primary School 353/EB  (Female),Chak 353/EB,211050205,0,521,521,0,2,2
+"",,Chak 353/EB,211050206,0,280,280,,,
+151,Govt:Boys Primary School 355/EB           (Male),Chak 355/EB,211050301,589,0,589,2,0,2
+"",,Chak 355/EB,211050302,354,0,354,,,
+152,Govt:Boys Primary School 355/EB  (Female),Chak 355/EB,211050301,0,408,408,0,2,2
+"",,Chak 355/EB,211050302,0,265,265,,,
+153,"Govt: BoysPrimary School, 347/EB            (Male)",Chak 347/EB,211050303,465,0,465,2,0,2
+"",,Chak 347/EB,211050304,433,0,433,,,
+154,"Govt: BoysPrimary School, 347/EB (Female)",Chak 347/EB,211050303,0,436,436,0,2,2
+"",,Chak 347/EB,211050304,0,400,400,,,
+155,"Govt:Boys Primary School, 349/EB  (Combined)",Chak 349/EB,211050402,620,505,1125,2,1,3
+156,Govt:Boys Primary School 349/EB -A (Combined),Chak 349/EB,211050403,333,239,572,2,1,3
+"",,Chak 349/EB,211050404,439,319,758,,,
+157,"Govt:Boys Primary School, 339/EB              (Male)",Chak 339/EB,211050501,581,0,581,2,0,2
+"",,Chak 339/EB,211050502,432,0,432,,,
+158,"Govt:Boys Primary School, 339/EB  (Female)",Chak 339/EB,211050501,0,497,497,0,2,2
+"",,Chak 339/EB,211050502,0,371,371,,,
+159,"Govt:Boys Primary School, 341/EB  (Combined)",Chak 341/EB,211050503,557,459,1016,1,1,2
+160,"Govt:Boys Primary School, 343/EB   (Combined)",Chak 343/EB,211050207,681,523,1204,1,1,2
+Chak 167/EB,211050106,630,0,630,,,,,
+162,"Govt:Girls Primary School, 167/EB  (Female)",Chak 167/EB,211050106,0,450,450,0,3,3
+"",,Chak 167/EB,211050107,0,374,374,,,
+163,Govt:Boys Middle School 167/EB (Combined),Chak 167/EB,211050108,441,349,790,2,1,3
+"",,Chak 167/EB,211050109,293,209,502,,,
+164,Govt:Boys High School 163/EB              (Male),Chak 163/EB,211050101,548,0,548,3,0,3
+"",,Chak 163/EB,211050102,457,0,457,,,
+"",,Chak 163/EB,211050103,430,0,430,,,
+165,Govt:Boys High School 163/EB  (Female),Chak 163/EB,211050101,0,443,443,0,2,2
+"",,Chak 163/EB,211050102,0,376,376,,,
+"",,Chak 163/EB,211050103,0,399,399,,,
+166,Govt:Girls High School 165/EB                (Male),Chak 165/EB,211050104,781,0,781,2,0,2
+"",,Chak 165/EB,211050105,291,0,291,,,
+167,Govt:Girls High School 165/EB  (Female),Chak 165/EB,211050104,0,653,653,0,2,2
+"",,Chak 165/EB,211050105,0,215,215,,,
+168,"Govt:Boys Middle School, 143/EB           (Male)",Chak 143/EB,211050803,495,0,495,3,0,3
+"",,Chak 143/EB,211050805,344,0,344,,,
+"",,Chak 143/EB,211050806,282,0,282,,,
+169,"Govt:Girls Primary School, 143/EB (Female)",Chak 143/EB,211050803,0,412,412,0,2,2
+"",,Chak 143/EB,211050805,0,293,293,,,
+"",,Chak 143/EB,211050806,0,241,241,,,
+170,"Govt:Boys Middle School, 143/EB           (Male)",Chak 143/EB,211050804,701,0,701,2,0,2
+171,"Govt:Girls Primary School, 143/EB  (Female)",Chak 143/EB,211050804,0,632,632,0,2,2
+172,"Govt:Girls Middle School, 145/EB         (Male)",Chak 145/EB,211050801,384,0,384,2,0,2
+"",,Chak 145/EB,211050802,577,0,577,,,
+173,"Govt:Girls Middle School, 145/EB (Female)",Chak 145/EB,211050801,0,382,382,0,2,2
+"",,Chak 145/EB,211050802,0,450,450,,,
+174,"Govt:Boys Middle School, 147/EB           (Male)",Chak 147/EB,211050809,482,0,482,2,0,2
+"",,Chak 147/EB,211050810,229,0,229,,,
+175,"Govt:Girls High School, 147/EB  (Female)",Chak 147/EB,211050809,0,427,427,0,2,2
+"",,Chak 147/EB,211050810,0,201,201,,,
+176,"Govt:Boys Middle School, 147/EB           (Male)",Chak 147/EB,211050807,954,0,954,2,0,2
+"",,Chak 147/EB,211050808,562,0,562,,,
+177,"Govt:Girls High School, 147/EB  (Female)",Chak 147/EB,211050807,0,840,840,0,3,3
+Chak 147/EB,211050808,0,477,477,,,,,
+Chak 155/EB,211050906,289,0,289,,,,,
+Chak 155/EB,211050907,410,0,410,,,,,
+"",,Chak 155/EB,211050909,714,0,714,,,
+179,"Govt:Girls High School, 155/EB   (Female)",Chak 155/EB,211050906,0,281,281,0,3,3
+"",,Chak 155/EB,211050907,0,355,355,,,
+"",,Chak 155/EB,211050908,0,257,257,,,
+"",,Chak 155/EB,211050909,0,599,599,,,
+180,Govt:Boys Primary School 161/EB            (Male),Chak 161/EB,211050901,456,0,456,3,0,3
+"",,Chak 161/EB,211050902,707,0,707,,,
+"",,Chak 161/EB,211050903,316,0,316,,,
+181,"Govt:Girls Primary School, 161/EB  (Female)",Chak 161/EB,211050901,0,402,402,0,3,3
+"",,Chak 161/EB,211050902,0,627,627,,,
+"",,Chak 161/EB,211050903,0,275,275,,,
+182,Govt:Boys Primary School 159/EB         (Male),Chak 159/EB,211050904,688,0,688,2,0,2
+"",,Chak 159/EB,211050905,411,0,411,,,
+183,"Govt:Girls,Middle School 159/EB  (Female)",Chak 159/EB,211050904,0,556,556,0,2,2
+"",,Chak 159/EB,211050905,0,328,328,,,
+184,Govt:Boys High School 153/EB            (Male),Chak 153/EB,211050606,626,0,626,2,0,2
+"",,Chak 153/EB,211050607,262,0,262,,,
+"",,Chak 153/EB,211050608,245,0,245,,,
+185,Govt:Boys High School 153/EB  (Female),Chak 153/EB,211050606,0,540,540,0,2,2
+"",,Chak 153/EB,211050607,0,185,185,,,
+"",,Chak 153/EB,211050608,0,227,227,,,
+186,Govt:Boys High School 157/EB             (Male),Chak 157/EB,211050609,586,0,586,2,0,2
+"",,Chak 157/EB,211050610,126,0,126,,,
+"",,Chak 157/EB,211050611,259,0,259,,,
+187,Govt:Boys High School 157/EB  (Female),Chak 157/EB,211050609,0,528,528,0,2,2
+"",,Chak 157/EB,211050610,0,121,121,,,
+"",,Chak 157/EB,211050611,0,222,222,,,
+188,Govt:Boys Middle School 139/EB            (Male),Chak 139/EB,211050709,367,0,367,2,0,2
+"",,Chak 139/EB,211050710,313,0,313,,,
+"",,Chak 139/EB,211050711,285,0,285,,,
+"",,Chak 139/EB,211050712,475,0,475,,,
+189,"Govt:Girls community Model Middle School, 139/EB(Female)",Chak 139/EB,211050709,0,354,354,0,2,2
+"",,Chak 139/EB,211050710,0,293,293,,,
+"",,Chak 139/EB,211050711,0,270,270,,,
+"",,Chak 139/EB,211050712,0,389,389,,,
+190,Govt:Boys Primary School 141/EB  (Combined),Chak 141/EB,211050701,528,487,1015,1,1,2
+191,"Govt:Girls High School, 149/EB             (Male)",Chak 149/EB,211050703,361,0,361,2,0,2
+"",,Chak 149/EB,211050704,312,0,312,,,
+192,Govt:Boys High School 149/EB South (Female),Chak 149/EB,211050702,0,308,308,0,2,2
+"",,Chak 149/EB,211050703,0,297,297,,,
+"",,Chak 149/EB,211050704,0,235,235,,,
+193,"Govt:Girls High School, 149/EB             (Male)",Chak 149/EB,211050705,326,0,326,3,0,3
+"",,Chak 149/EB,211050706,705,0,705,,,
+"",,Chak 149/EB,211050707,426,0,426,,,
+194,Govt:Boys High School 149/EB South  (Female),Chak 149/EB,211050705,0,278,278,0,2,2
+"",,Chak 149/EB,211050706,0,521,521,,,
+"",,Chak 149/EB,211050707,0,364,364,,,
+195,"Govt:Boys High School, 149/EB  (Combined)",Chak 149/EB,211050708,275,222,497,1,1,2
+196,Govt:Boys Primary School 151/EB            (Male),Chak 151/EB,211050601,396,0,396,4,0,4
+Chak 151/EB,211050602,517,0,517,,,,,
+Chak 151/EB,211050603,316,0,316,,,,,
+Chak 151/EB,211050604,464,0,464,,,,,
+Chak 151/EB,211050605,168,0,168,,,,,
+Chak 151/EB,211050601,0,293,293,,,,,
+Chak 151/EB,211050602,0,510,510,,,,,
+Chak 151/EB,211050603,0,302,302,,,,,
+Chak 151/EB,211050604,0,188,188,,,,,
+"PollingStationSerial No",Polling Station Name,Electoral Area,Block Code,"MaleVoters","FemaleVoters","TotalVoters","MaleBooths","FemaleBooths","TotalBooths"
+1,"Govt:Girls Primary School, 39/EB (Combined)",Chak 39/EB,211020406,346,264,610,2,1,3
+"",,Chak 39/EB,211020407,244,190,434,,,
+"",,Chak 39/EB,211020408,220,171,391,,,
+2,Govt:Boys Primary School 29/EB (Combined),Chak 29/EB,211020409,200,152,352,1,1,2
+"",,Chak 29/EB,211020410,375,326,701,,,
+3,"Govt:Boys Middle School, 25/EB  (Combined)",Chak 25/EB,211020501,573,474,1047,1,1,2
+4,"Govt:Girls Middle School, 25/EB  (Combined)",Chak 25/EB,211020502,381,327,708,1,1,2
+Chak 25/EB,211020503,206,165,371,,,,,
+5,Govt:Boys Primary School 23/EB             (Male),Chak 23/EB,211020505,375,0,375,2,0,2
+"",,Chak 23/EB,211020506,250,0,250,,,
+6,Govt:Boys Primary School 23/EB  (Female),Chak 23/EB,211020504,0,290,290,0,2,2
+"",,Chak 23/EB,211020505,0,291,291,,,
+"",,Chak 23/EB,211020506,0,225,225,,,
+7,Govt:Boys Primary School 27/EB             (Male),Chak 27/EB,211020507,340,0,340,2,0,2
+"",,Chak 27/EB,211020508,278,0,278,,,
+"",,Chak 27/EB,211020509,422,0,422,,,
+8,Govt:Boys Primary School 27/EB  (Female),Chak 27/EB,211020507,0,270,270,0,2,2
+"",,Chak 27/EB,211020508,0,213,213,,,
+"",,Chak 27/EB,211020509,0,292,292,,,
+9,Govt:Boys Primary School Pir Sadar Din  (Combined),Pir Sadar Din,211020510,128,159,287,1,1,2
+"",,Pir Sadar Din,211020511,285,242,527,,,
+10,Govt:Boys Primary School 81/EB             (Male),Chak 81/EB,211020101,276,0,276,2,0,2
+"",,Chak 81/EB,211020102,378,0,378,,,
+"",,Chak 81/EB,211020103,192,0,192,,,
+11,Govt:Boys Primary School 81/EB  (Female),Chak 81/EB,211020101,0,294,294,0,2,2
+"",,Chak 81/EB,211020102,0,316,316,,,
+"",,Chak 81/EB,211020103,0,163,163,,,
+12,"Govt:Girls Middle School, 35/EB             (Male)",Chak 35/EB,211020308,323,0,323,3,0,3
+"",,Chak 35/EB,211020309,701,0,701,,,
+"",,Chak 35/EB,211020310,406,0,406,,,
+13,"Govt:Girls Middle School, 35/EB  (Female)",Chak 35/EB,211020308,0,271,271,0,2,2
+"",,Chak 35/EB,211020309,0,563,563,,,
+"",,Chak 35/EB,211020310,0,316,316,,,
+14,Govt:Boys Primary School 75/EB            (Male),Chak 75/EB,211020311,535,0,535,2,0,2
+"",,Chak 75/EB,211020312,335,0,335,,,
+"",,Chak 75/EB,211020313,330,0,330,,,
+15,"Govt: Community Girls Middle School, 75/EB  (Female)",Chak 75/EB,211020311,0,417,417,0,2,2
+"",,Chak 75/EB,211020312,0,231,231,,,
+"",,Chak 75/EB,211020313,0,270,270,,,
+16,Govt:Boys Primary School 75/EB  (Combined),Chak 75/EB,211020314,707,529,1236,2,1,3
+17,"Govt:Boys Primary School, 73/EB  (Combined)",Chak 73/EB,211020315,338,264,602,1,1,2
+"",,Chak 73/EB,211020316,324,252,576,,,
+18,Govt:Boys Primary School Jhamb  (Combined),Jhamb,211020401,358,301,659,2,1,3
+Jhamb,211020402,316,267,583,,,,,
+19,Govt:Boys Primary School 31/EB East (Male),Chak 31/EB,211020404,397,0,397,2,0,2
+"",,Chak 31/EB,211020405,483,0,483,,,
+20,"Govt:Boys Primary School, 31/EB West   (Female)",Chak 31/EB,211020403,0,354,354,0,2,2
+"",,Chak 31/EB,211020404,0,329,329,,,
+"",,Chak 31/EB,211020405,0,389,389,,,
+21,Govt:Boys Middle School 85/EB           (Male),Chak 85/EB,211020104,335,0,335,2,0,2
+"",,Chak 85/EB,211020105,298,0,298,,,
+"",,Chak 85/EB,211020106,370,0,370,,,
+"",,Chak 85/EB,211020107,86,0,86,,,
+22,"Govt:Girls Primary School, 85/EB        (Female)",Chak 85/EB,211020104,0,242,242,0,2,2
+"",,Chak 85/EB,211020105,0,333,333,,,
+"",,Chak 85/EB,211020106,0,340,340,,,
+"",,Chak 85/EB,211020107,0,77,77,,,
+23,Govt:Boys Primary School 79/EB              (Male),Chak 79/EB,211020108,278,0,278,2,0,2
+"",,Chak 79/EB,211020109,379,0,379,,,
+"",,Chak 79/EB,211020110,634,0,634,,,
+24,Govt:Boys Primary School 79/EB  (Female),Chak 79/EB,211020108,0,277,277,0,2,2
+"",,Chak 79/EB,211020109,0,365,365,,,
+"",,Chak 79/EB,211020110,0,611,611,,,
+25,Govt:Boys Middle School 87/EB            (Male),Chak 87/EB,211020202,479,0,479,3,0,3
+"",,Chak 87/EB,211020203,385,0,385,,,
+"",,Chak 87/EB,211020204,298,0,298,,,
+"",,Chak 87/EB,211020205,345,0,345,,,
+26,Govt:Girls community Modle School 87/EB (Female),Chak 87/EB,211020202,0,356,356,0,2,2
+"",,Chak 87/EB,211020203,0,349,349,,,
+"",,Chak 87/EB,211020204,0,239,239,,,
+"",,Chak 87/EB,211020205,0,279,279,,,
+27,Govt:Girls Primary School 99/EB  (Combined),Chak 101/EB,211020201,328,287,615,2,1,3
+"",,Chak 99/EB,211020206,331,272,603,,,
+28,"Govt: Community Girls Middle School, 11/EB  (Male)",Chak 11/EB,211020604,163,0,163,2,0,2
+Chak 11/EB,211020605,174,0,174,,,,,
+Chak 11/EB,211020606,196,0,196,,,,,
+Chak 11/EB,211020607,528,0,528,,,,,
+Chak 11/EB,211020604,0,138,138,,,,,
+Chak 11/EB,211020605,0,156,156,,,,,
+Chak 11/EB,211020606,0,146,146,,,,,
+30,Govt:Boys Primary School 09/EB  (Combined),Chak 9/EB,211020601,190,161,351,2,1,3
+"",,Chak 9/EB,211020602,426,343,769,,,
+"",,Chak 9/EB,211020603,262,218,480,,,
+31,"Govt:Boys Primary School, 7/EB      (Male)",Chak 7/EB,211020608,602,0,602,2,0,2
+"",,Chak 7/EB,211020609,405,0,405,,,
+32,"Govt:Boys Primary School, 7/EB          (Female)",Chak 7/EB,211020608,0,523,523,0,2,2
+"",,Chak 7/EB,211020609,0,327,327,,,
+33,"Govt:Girls Primary School, 13/EB   (Combined)",Chak 13/EB,211020610,212,192,404,1,1,2
+"",,Viah Kot,211020611,202,169,371,,,
+34,"Govt:Boys High School, 37/EB              (Male)",Chak 37/EB,211020301,203,0,203,2,0,2
+"",,Chak 37/EB,211020302,489,0,489,,,
+"",,Chak 37/EB,211020303,274,0,274,,,
+"",,Chak 37/EB,211020304,259,0,259,,,
+35,"Govt:Boys High School, 37/EB   (Female)",Chak 37/EB,211020301,0,177,177,0,2,2
+"",,Chak 37/EB,211020302,0,396,396,,,
+"",,Chak 37/EB,211020303,0,209,209,,,
+"",,Chak 37/EB,211020304,0,207,207,,,
+36,Govt:Boys Primary School 33/EB           (Male),Chak 33/EB,211020305,187,0,187,2,0,2
+"",,Chak 33/EB,211020306,411,0,411,,,
+"",,Chak 33/EB,211020307,566,0,566,,,
+37,Govt:Boys Primary School 33/EB      (Female),Chak 33/EB,211020305,0,123,123,0,2,2
+"",,Chak 33/EB,211020306,0,334,334,,,
+"",,Chak 33/EB,211020307,0,487,487,,,
+38,"Govt:Boys High School, Jaman Shah East  (Male)",Tukra Jangle Sarkar,211040609,156,0,156,2,0,2
+"",,Chaki Molvian Wali,211040610,122,0,122,,,
+"",,Jaman Shah,211041007,697,0,697,,,
+39,"Govt:Boys High School, Jaman Shah East  (Female)",Tukra Jangle Sarkar,211040609,0,113,113,0,2,2
+"",,Chaki Molvian Wali,211040610,0,126,126,,,
+"",,Jaman Shah,211041007,0,570,570,,,
+40,"Govt:Boys High School, Jaman Shah West  (Combined)",Jaman Shah,211041008,547,456,1003,2,1,3
+"",,Jaman Shah,211041009,281,199,480,,,
+41,"Govt:Boys Primary School, Hassu Hassan ka  (Combined)",Hassu Hassan ka,211040701,363,313,676,2,2,4
+"",,Behli Kalan,211040901,400,322,722,,,
+42,Govt:Girls Primary School Bilara Hassan ka  (Combined),Bilara Hassan ka,211040902,483,390,873,1,1,2
+Bilara Dilawar,211040801,177,0,177,,,,,
+"",,Bilara Dilawar,211040803,247,0,247,,,
+"",,Bilara Dilawar,211040804,507,0,507,,,
+44,Govt:Boys Primary School Bilara Dilawar  (Female),Bilara Dilawar,211040801,0,122,122,0,2,2
+"",,Bilara Dilawar,211040802,0,70,70,,,
+"",,Bilara Dilawar,211040803,0,312,312,,,
+"",,Bilara Dilawar,211040804,0,275,275,,,
+45,"Govt:Girls Primary School, Bilara Lakhu Ka (Bait Bhattian)(Combined)",Bilara Lakhu ka,211040702,361,351,712,2,1,3
+"",,Bilara Lakhu ka,211040703,216,142,358,,,
+"",,Bilara Lakhu ka,211040704,192,166,358,,,
+46,"Govt:Boys High School, 111/EB            (Male)",Chak 111/EB,211040207,330,0,330,2,0,2
+"",,Chak 111/EB,211040212,198,0,198,,,
+"",,Chak 111/EB,211040208,247,0,247,,,
+"",,Chak 111/EB,211040213,287,0,287,,,
+47,"Govt:Girls Middle School, 111/EB       (Female)",Chak 111/EB,211040207,0,307,307,0,2,2
+"",,Chak 111/EB,211040212,0,151,151,,,
+"",,Chak 111/EB,211040208,0,220,220,,,
+"",,Chak 111/EB,211040213,0,246,246,,,
+48,"Govt:Boys High School, 111/EB  (Combined)",Chak 111/EB,211040205,404,311,715,2,2,4
+"",,Chak 111/EB,211040206,424,372,796,,,
+49,"Govt:Boys Middle School, 113/EB          (Male)",Chak 113/EB,211040209,282,0,282,2,0,2
+"",,Chak 113/EB,211040210,492,0,492,,,
+"",,Chak 113/EB,211040211,550,0,550,,,
+50,"Govt:Boys Middle School, 113/EB (Female)",Chak 113/EB,211040209,0,232,232,0,2,2
+"",,Chak 113/EB,211040210,0,422,422,,,
+"",,Chak 113/EB,211040211,0,561,561,,,
+51,"Basic Health Unit, Arazi Dilawar (East) (Male)",Arazi Dilawar,211040903,185,0,185,2,0,2
+"",,Arazi Dilawar,211040904,289,0,289,,,
+"",,Arazi Dilawar,211040905,589,0,589,,,
+52,"Basic Health Unit, Arazi Dilawar (East) (Female)",Arazi Dilawar,211040903,0,131,131,0,2,2
+"",,Arazi Dilawar,211040904,0,292,292,,,
+"",,Arazi Dilawar,211040905,0,562,562,,,
+53,Basic Health Unit Arazi Dilawar (West)  (Combined),Vernal,211040805,245,235,480,2,1,3
+Arazi Dilawar,211040906,233,210,443,,,,,
+Kalia Shah,211041005,205,137,342,,,,,
+Kooria,211041001,492,418,910,,,,,
+Qasmana,211041002,89,61,150,,,,,
+"",,Ratta Thara,211041004,91,70,161,,,
+"",,"Muhammad PurNoaabad",211041006,140,92,232,,,
+55,Govt:Boys Primary School 95/EB (Combined),Chak 95/EB,211040101,127,114,241,1,1,2
+"",,Chak 95/EB,211040105,241,200,441,,,
+56,Govt:Girls Primary School 95/EB            (Male),Chak 95/EB,211040102,324,0,324,2,0,2
+"",,Chak 95/EB,211040103,320,0,320,,,
+"",,Chak 95/EB,211040104,392,0,392,,,
+57,Govt:Girls Primary School 95/EB      (Female),Chak 95/EB,211040102,0,296,296,0,2,2
+"",,Chak 95/EB,211040103,0,310,310,,,
+"",,Chak 95/EB,211040104,0,285,285,,,
+58,Govt:Boys Middle School 109/EB  (Combined),Chak 109/EB,211040108,414,348,762,2,2,4
+"",,Chak 109/EB,211040109,404,327,731,,,
+59,Govt:Boys Middle School 109/EB          (Male),Chak 109/EB,211040106,391,0,391,2,0,2
+"",,Chak 109/EB,211040107,692,0,692,,,
+60,Govt:Girls Higher School 109/EB (Female),Chak 109/EB,211040106,0,308,308,0,3,3
+"",,Chak 109/EB,211040107,0,584,584,,,
+61,Govt:Boys Middle School 115/EB  (Combined),Chak 115/EB,211040110,564,490,1054,2,2,4
+"",,Chak 115/EB,211040111,226,212,438,,,
+62,Govt:Boys Primary School 117/EB  (Combined),Chak 117/EB,211040112,466,433,899,2,2,4
+"",,Chak 117/EB,211040113,249,205,454,,,
+63,"Govt:Boys High School, 93/EB              (Male)",Chak 93/EB,211040201,678,0,678,2,0,2
+"",,Chak 93/EB,211040202,503,0,503,,,
+64,"Govt:Girls Middle School, 93/EB (Female)",Chak 93/EB,211040201,0,579,579,0,2,2
+"",,Chak 93/EB,211040202,0,425,425,,,
+65,Govt:Boys Primary School 97/EB  (Combined),Chak 97/EB,211040203,322,308,630,1,1,2
+"",,Chak 97/EB,211040204,318,304,622,,,
+66,"Govt:Boys Middle School, 123/EB             (Male)",Chak 123/EB,211040303,485,0,485,2,0,2
+"",,Chak 123/EB,211040304,450,0,450,,,
+67,"Govt:Boys Middle School, 123/EB (Female)",Chak 123/EB,211040303,0,383,383,0,2,2
+"",,Chak 123/EB,211040304,0,333,333,,,
+68,"Govt: Girls High School, 119/EB (Combined)",Chak 119/EB,211040301,408,326,734,1,1,2
+69,Govt:Boys Primary School 31/KB (Combined),Chak 31/KB,211040601,245,149,394,2,2,4
+Chak 31/KB,211040602,267,254,521,,,,,
+Chak 31/KB,211040603,353,307,660,,,,,
+Chak 34/KB,211040604,256,0,256,,,,,
+71,"Govt:Boys High School, 34/KB (Female)",Chak 34/KB,211040604,0,191,191,0,2,2
+"",,Chak 34/KB,211040605,0,617,617,,,
+72,Govt:Boys Primary School 38/KB (Combined),Chak 38/KB,211040606,379,333,712,2,1,3
+"",,Chak 38/KB,211040607,132,142,274,,,
+"",,Chak 38/KB,211040608,138,115,253,,,
+73,Govt:Boys Primary School 131/EB        (Male),Chak 131/EB,211040501,742,0,742,3,0,3
+"",,Chak 131/EB,211040502,323,0,323,,,
+74,Govt:Boys Primary School 131/EB (Female),Chak 131/EB,211040501,0,668,668,0,2,2
+"",,Chak 131/EB,211040502,0,284,284,,,
+75,Govt:Boys Primary School 133/EB           (Male),Chak 133/EB,211040503,608,0,608,2,0,2
+"",,Dhana Gurdail,211040509,475,0,475,,,
+76,Govt:Boys Primary School 133/EB (Female),Chak 133/EB,211040503,0,461,461,0,2,2
+"",,Dhana Gurdail,211040509,0,401,401,,,
+77,Govt:Boys Primary School 135/EB           (Male),Chak 135/EB,211040504,442,0,442,2,0,2
+"",,Chak 135/EB,211040505,206,0,206,,,
+"",,Chak 135/EB,211040506,306,0,306,,,
+78,Govt:Boys Primary School 135/EB  (Female),Chak 135/EB,211040504,0,348,348,0,1,1
+"",,Chak 135/EB,211040505,0,178,178,,,
+"",,Chak 135/EB,211040506,0,241,241,,,
+79,"Govt:Girls Primary School, 137/EB (Combined)",Chak 137/EB,211040507,112,107,219,1,1,2
+"",,Chak 137/EB,211040508,502,394,896,,,
+80,Govt:Boys Primary School Islam Nagar (Combined),Islam Nagar,211040510,685,643,1328,2,1,3
+81,Govt:Boys Higher Secondary School 127/EB  (Male),Chak 127/EB,211040401,363,0,363,2,0,2
+"",,Chak 127/EB,211040402,481,0,481,,,
+82,Govt:Boys Higher Secondary School 127/EB (Female),Chak 127/EB,211040401,0,311,311,0,2,2
+"",,Chak 127/EB,211040402,0,447,447,,,
+83,"Govt:Girls Primary School, 129/EB    (Male)",Chak 129/EB,211040403,474,0,474,2,0,2
+"",,Chak 129/EB,211040404,417,0,417,,,
+84,"Govt:Girls Primary School, 129/EB  (Female)",Chak 129/EB,211040403,0,466,466,0,2,2
+"",,Chak 129/EB,211040404,0,356,356,,,
+85,Govt:Boys Primary School 121/EB  (Combined),Chak 121/EB,211040302,707,622,1329,2,2,4
+86,"Govt:Boys Middle School, 29/KB     (Male)",Chak 29/KB,211041301,325,0,325,3,0,3
+Chak 29/KB,211041302,334,0,334,,,,,
+Chak 29/KB,211041303,174,0,174,,,,,
+Chak 30/KB,211041304,386,0,386,,,,,
+Chak 29/KB,211041301,0,272,272,,,,,
+"",,Chak 29/KB,211041303,0,155,155,,,
+"",,Chak 30/KB,211041304,0,316,316,,,
+88,"Govt: Girls Primary School, Shah Murad (Chotey(Combined)",Shah Murad,211041305,361,325,686,1,1,2
+"",,Madho Farid Shah,211041306,26,24,50,,,
+"",,Pakhian,211041307,86,64,150,,,
+89,Govt:Boys Primary School 26/KB (Combined),Chak 26/KB,211041201,445,357,802,2,1,3
+"",,Chak 26/KB,211041202,266,220,486,,,
+"",,Jheejra,211041204,121,95,216,,,
+90,Govt:Boys Primary School 28/KB (Combined),Chak 28/KB,211041203,600,489,1089,2,1,3
+"",,Jamoon Bodla,211041205,109,86,195,,,
+91,Govt:Boys Primary School 25/KB          (Male),Chak 25/KB,211041101,438,0,438,2,0,2
+"",,Basti Kalu Wali,211041102,112,0,112,,,
+"",,Madhu Feroz kay,211041104,241,0,241,,,
+"",,Arazi Lakhwera,211041206,200,0,200,,,
+92,Govt:Boys Primary School 25/KB  (Female),Chak 25/KB,211041101,0,312,312,0,1,1
+"",,Basti Kalu Wali,211041102,0,98,98,,,
+"",,Madhu Feroz kay,211041104,0,135,135,,,
+"",,Arazi Lakhwera,211041206,0,147,147,,,
+93,Govt:Boys Primary School Balara Arjan Ka (Combined),Balara Arjankay,211041103,338,331,669,1,1,2
+"",,Arjan kay,211041308,250,252,502,,,
+94,Govt:Boys Primary School Chak Mehdi Khan (Male),Chak Mehdi Khan,211070404,693,0,693,2,0,2
+"",,Chak Mehdi Khan,211070405,356,0,356,,,
+95,"Govt:Girls Middle School, Chak Mehdi Khan  (Female)",Chak Mehdi Khan,211070404,0,643,643,0,2,2
+"",,Chak Mehdi Khan,211070405,0,272,272,,,
+96,Govt:Boys Primary School Chak Mehdi Khan (Male),Chak Mehdi Khan,211070406,351,0,351,2,0,2
+"",,Chak Mehdi Khan,211070407,526,0,526,,,
+97,"Govt:Girls Middle School, Chak Mehdi Khan  (Female)",Chak Mehdi Khan,211070406,0,319,319,0,2,2
+"",,Chak Mehdi Khan,211070407,0,488,488,,,
+98,"Govt:Girls Primary School, Sehar Jillani, Dakhli Daulat Abad(Combined)",Daulat Abad,211070401,219,207,426,2,2,4
+"",,Daulat Abad,211070402,298,260,558,,,
+"",,Daulat Abad,211070403,368,316,684,,,
+99,Govt:Boys Middle School 89/EB  (Combined),Chak 89/EB,211071101,229,174,403,2,2,4
+Chak 89/EB,211071102,378,318,696,,,,,
+Chak 89/EB,211071103,456,349,805,,,,,
+Chak 89/EB,211071104,404,0,404,,,,,
+Chak 89/EB,211071105,167,0,167,,,,,
+101,Govt:Girls Middle School 89/EB  (Female),Chak 89/EB,211071104,0,333,333,0,2,2
+"",,Chak 89/EB,211071105,0,138,138,,,
+"",,Chak 89/EB,211071106,0,161,161,,,
+102,"Govt:Girls Middle School, 105/EB  (Combined)",Chak 105/EB,211071107,588,486,1074,2,2,4
+"",,Chak 105/EB,211071108,239,210,449,,,
+103,Govt:Girls Middle School Chak Hassan Arain  (Male),Chak Hassan Araien,211071109,272,0,272,2,0,2
+"",,Chak Hassan Araien,211071110,403,0,403,,,
+"",,Chak Hassan Araien,211071111,166,0,166,,,
+"",,Chak Hassan Araien,211071112,127,0,127,,,
+104,Govt:Girls Middle School Chak Hassan Arain  (Female),Chak Hassan Araien,211071109,0,248,248,0,2,2
+"",,Chak Hassan Araien,211071110,0,372,372,,,
+"",,Chak Hassan Araien,211071111,0,138,138,,,
+"",,Chak Hassan Araien,211071112,0,99,99,,,
+105,Govt:Boys Primary School Saad ullah Pur (Combined),Saad ullah Pur,211071113,423,409,832,1,1,2
+106,"Govt:Girls Middle School, 41/EB  (Combined)",Chak 41/EB,211070701,332,266,598,2,1,3
+"",,Chak 41/EB,211070702,432,356,788,,,
+107,"Basic Health Unit, 41/EB (Combined)",Chak 41/EB,211070703,524,449,973,1,1,2
+108,Govt:Boys Middle School 43/EB            (Male),Chak 43/EB,211070704,625,0,625,4,0,4
+"",,Chak 43/EB,211070705,415,0,415,,,
+"",,Chak 49/EB,211070710,453,0,453,,,
+109,Govt:Girls community Model School 43/EB  (Female),Chak 43/EB,211070704,0,450,450,0,3,3
+"",,Chak 43/EB,211070705,0,304,304,,,
+"",,Chak 49/EB,211070710,0,391,391,,,
+110,"Govt:Girls Primary School, 45/EB           (Male)",Chak 45/EB,211070706,536,0,536,2,0,2
+"",,Chak 45/EB,211070707,363,0,363,,,
+"",,Chak 45/EB,211070708,52,0,52,,,
+"",,Chak 45/EB,211070709,308,0,308,,,
+111,"Govt:Girls Primary School, 45/EB  (Female)",Chak 45/EB,211070706,0,396,396,0,2,2
+Chak 45/EB,211070707,0,283,283,,,,,
+Chak 45/EB,211070708,0,23,23,,,,,
+Chak 45/EB,211070709,0,261,261,,,,,
+"Qaboola / Moh, PirKhadam/ MubarakNagar",211070104,439,0,439,,,,,
+"",,"Qaboola / Moh, PirKhadam/ MubarakNagar",211070121,299,0,299,,,
+113,"Govt:Iqra Girls Primary School, ward No.10 Qaboola(Female)","Qaboola / Moh, PirKhadam/ MubarakNagar",211070104,0,346,346,0,2,2
+"",,"Qaboola / Moh, PirKhadam/ MubarakNagar",211070105,0,255,255,,,
+"",,"Qaboola / Moh, PirKhadam/ MubarakNagar",211070121,0,316,316,,,
+114,Office Union Council No.47  Qaboola (Combined),"Qaboola/ ChahLahoreian Wala / PirKhadam",211070103,113,94,207,1,1,2
+"",,"Qaboola/ ChahLahoreian Wala / PirKhadam",211070120,177,143,320,,,
+115,"Govt: Girls Higher Secondary School, New Block Qaboola(Male)","Qaboola/ AmjadColony",211070106,206,0,206,2,0,2
+"Qaboola/ AmjadColony",211070107,445,0,445,,,,,
+"Qaboola/ Moh. PirHazori",211070108,138,0,138,,,,,
+"Qaboola/ Moh. PirHazori",211070122,297,0,297,,,,,
+"Qaboola/ Moh. PirHazori",211070109,175,0,175,,,,,
+"Qaboola/ Moh. PirHazori",211070123,184,0,184,,,,,
+"Qaboola/ AmjadColony",211070106,0,181,181,,,,,
+"Qaboola/ AmjadColony",211070107,0,383,383,,,,,
+"",(Female),"Qaboola/ Moh. PirHazori",211070122,0,279,279,,,
+"",,"Qaboola/ Moh. PirHazori",211070109,0,161,161,,,
+"",,"Qaboola/ Moh. PirHazori",211070123,0,165,165,,,
+117,"Govt: Girls Higher Secondary School, Old Block Qaboola(Male)","Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070110,283,0,283,2,0,2
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070111,316,0,316,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070112,371,0,371,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070124,399,0,399,,,,,
+"Qaboola/ Gali SehtanWali",211070113,351,0,351,,,,,
+"Qaboola/ Gali SehtanWali",211070114,302,0,302,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070110,0,253,253,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070111,0,238,238,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070112,0,339,339,,,,,
+"Qaboola./ Moh, PirCharigh, Zarghran,Dhaki",211070124,0,342,342,,,,,
+"",,"Qaboola/ Gali SehtanWali",211070114,0,207,207,,,
+119,"Govt: Boys Higher Secondary School, North Qaboola(Male)","Qaboola/ Near BilalMasjad",211070115,234,0,234,4,0,4
+"",,"Qaboola/ Near BilalMasjad",211070125,286,0,286,,,
+"",,"Qaboola/GaliRahmania Masjad",211070116,148,0,148,,,
+"",,"Qaboola/GaliRahmania Masjad",211070126,511,0,511,,,
+"",,"Qaboola/ Gali JagaranWali",211070117,540,0,540,,,
+120,"Govt: Boys Higher Secondary School, South Qaboola(Female)","Qaboola/ Near BilalMasjad",211070115,0,167,167,0,3,3
+"",,"Qaboola/ Near BilalMasjad",211070125,0,247,247,,,
+"",,"Qaboola/GaliRahmania Masjad",211070116,0,90,90,,,
+"",,"Qaboola/GaliRahmania Masjad",211070126,0,492,492,,,
+"",,"Qaboola/ Gali JagaranWali",211070117,0,463,463,,,
+121,"Govt:Girls Primary School, Rehmnia Qaboola Near GolaChowk              (Male)",Chak 47/EB,211070101,479,0,479,2,0,2
+"Moh, Pir HazoriQaboola",211070119,165,0,165,,,,,
+"Moh, Pir HazoriQaboola",211070128,120,0,120,,,,,
+"Moh, Pir HazoriQaboola",211070129,166,0,166,,,,,
+Chak 47/EB,211070101,0,390,390,,,,,
+"Moh, Pir HazoriQaboola",211070119,0,122,122,,,,,
+"Moh, Pir HazoriQaboola",211070128,0,86,86,,,,,
+123,"Govt:Girls Primary School, Rehmnia Qaboola Near GolaChowk (Combined)","Hasain Abad, IslamPura Qaboola",211070118,522,456,978,2,2,4
+"",,"Hasain Abad, IslamPura Qaboola",211070127,494,418,912,,,
+124,Govt:Boys High School Jamia Islamia Arifwala    (Combined),Jamia Islamia,211070102,754,633,1387,2,1,3
+125,Govt:Boys Primary School 18/KB           (Male),chak 18/KB,211070901,415,0,415,3,0,3
+"",,chak 18/KB,211070902,306,0,306,,,
+"",,chak 18/KB,211070903,539,0,539,,,
+"",,chak 18/KB,211070904,244,0,244,,,
+126,"Govt:Girls Primary School, 18/KB  (Female)",Chak 18/KB,211070901,0,368,368,0,2,2
+"",,Chak 18/KB,211070902,0,268,268,,,
+"",,Chak 18/KB,211070903,0,484,484,,,
+"",,Chak 18/KB,211070904,0,159,159,,,
+127,"Govt:Boys Primary School, 20/KB              (Male)",Chak 20/KB,211070911,290,0,290,2,0,2
+"",,Chak 20/KB,211070912,149,0,149,,,
+"",,Chak 20/KB,211070913,509,0,509,,,
+128,"Govt:Girls Primary School, 20/KB  (Female)",Chak 20/KB,211070911,0,261,261,0,2,2
+"",,Chak 20/KB,211070912,0,145,145,,,
+"",,Chak 20/KB,211070913,0,452,452,,,
+129,"Govt:Girls Primary School, 22/KB  (Combined)",Chak 22/KB,211070908,475,380,855,1,1,2
+130,"Govt:Boys Primary School, 17/KB   (Combined)",Chak 17/KB,211070905,277,236,513,2,2,4
+"",,Chak 17/KB,211070906,485,417,902,,,
+"",,Chak 17/KB,211070907,126,117,243,,,
+131,"Govt:Girls Primary School, 19/KB  (Combined)",Chak 19/KB,211070909,467,376,843,2,1,3
+"",,Chak 19/KB,211070910,413,343,756,,,
+132,"Govt:Boys Primary School, Madhu Fazal Din  East(Combined)",Fazal Din,211070504,161,106,267,1,1,2
+"",,Wali Muhammad,211070505,370,200,570,,,
+133,"Govt:Boys Primary School, Madhu Fazal Din  West(Combined)",Burhan Din,211070501,64,33,97,1,1,2
+"",,Piple,211070502,132,90,222,,,
+"",,Piple,211070503,187,136,323,,,
+134,"Govt:Boys High School,Tibbi  Lal Baig East  (Male)",Tibbi Lal Baig,211070506,505,0,505,3,0,3
+Tibbi Lal Baig,211070507,595,0,595,,,,,
+Tibbi Lal Baig,211070508,377,0,377,,,,,
+Tibbi Lal Baig,211070509,52,0,52,,,,,
+Tibbi Lal Baig,211070506,0,385,385,,,,,
+"",,Tibbi Lal Baig,211070508,0,308,308,,,
+"",,Tibbi Lal Baig,211070509,0,42,42,,,
+136,"Govt:Boys Primary School, 23/KB         ( Combined)",Chak 23/KB,211070308,437,422,437,2,2,4
+137,Govt: Girls Primary School Chowk Marly (Combined),Chak 23/KB,211070305,374,292,292,2,2,4
+"",,Chak 23/KB,211070306,413,343,343,,,
+"",,Chak 23/KB,211070307,398,368,368,,,
+138,"Govt:Girls Primary School, 27/KB           (Male)",Chak 27/KB,211070301,408,0,408,2,0,2
+"",,Chak 27/KB,211070302,28,0,28,,,
+"",,Chak 27/KB,211070303,286,0,286,,,
+"",,Chak 27/KB,211070304,484,0,484,,,
+139,"(214)Govt:Girls Primary School, 27/KB (Female)",Chak 27/KB,211070301,0,306,306,0,2,2
+"",,Chak 27/KB,211070302,0,18,18,,,
+"",,Chak 27/KB,211070303,0,206,206,,,
+"",,Chak 27/KB,211070304,0,406,406,,,
+140,Govt:Boys Primary School 21/KB            (Male),Chak 21/KB,211070309,451,0,451,2,0,2
+"",,Chak 21/KB,211070310,289,0,289,,,
+"",,Chak 21/KB,211070315,147,0,147,,,
+"",,Chak 21/KB,211070311,288,0,288,,,
+141,"Govt:Girls Primary School, 21/KB,  (Female)",Chak 21/KB,211070309,0,369,369,0,2,2
+"",,Chak 21/KB,211070310,0,222,222,,,
+"",,Chak 21/KB,211070315,0,170,170,,,
+"",,Chak 21/KB,211070311,0,250,250,,,
+142,Govt:Boys Primary School 21/KB            (Male),Chak 21/KB,211070312,172,0,172,2,0,2
+"",,Chak 21/KB,211070313,445,0,445,,,
+"",,Chak 21/KB,211070314,475,0,475,,,
+143,"(216)Govt:Girls Primary School, 21/KB,  (Female)",Chak 21/KB,211070312,0,156,156,0,2,2
+"",,Chak 21/KB,211070313,0,319,319,,,
+"",,Chak 21/KB,211070314,0,380,380,,,
+144,"Govt:Boys High School, Noora Rath (Combined)",Kund Noora Rath,211071301,133,109,242,2,2,4
+"",,Noora Rath,211071303,421,331,752,,,
+"",,Noora Rath,211071304,370,303,673,,,
+145,"Govt:Girls Primary School, Ali Shah (Combined)",Ali Shah,211071302,239,172,411,1,1,2
+146,"Govt:Boys Primary School, Joyia  (Combined)",Joyia,211071306,88,68,156,1,1,2
+Kotli,211071307,222,187,409,,,,,
+Lal Shah,211071401,372,268,640,,,,,
+Kund Shams Din,211071402,300,0,300,,,,,
+147,"Govt:Boys Primary School, Kund Shams Din (Male)",Kund Shams Din,211071404,200,0,200,2,0,2
+"",,Balari Qasooria,211071405,122,0,122,,,
+"",,Kund Kabul,211071406,216,0,216,,,
+148,"(220)Govt:Boys Primary School, Kund Shams Din (Female)",Kund Shams Din,211071402,0,178,178,0,2,2
+"",,Kund Shams Din,211071403,0,275,275,,,
+"",,Kund Shams Din,211071404,0,151,151,,,
+"",,Balari Qasooria,211071405,0,89,89,,,
+"",,Kund Kabul,211071406,0,179,179,,,
+149,"Govt:Boys Middle School, Hama Rath (Combined)",Hama Rath,211070608,517,391,908,1,1,2
+150,Govt:girls Middle School Jalal Jamu (Combined),Mari Habat Wali,211070201,205,204,409,1,1,2
+"",,Jhugian Chughatta,211070206,267,207,474,,,
+"",,Kot Jahana,211070207,22,17,39,,,
+151,"Govt:Boys Primary School, Jalal Jammo (Combined)",Jalal Jammu,211070205,512,418,930,1,1,2
+152,"Govt:Boys Primary School, Saalam Rath  (Combined)",Saalam Rath,211071305,236,235,471,1,1,2
+153,"Govt: Boys Primary School, Dahar (Combined)",Dahar,211070203,334,272,606,1,1,2
+154,"Govt:Boys Primary School, Mari Hazara  (Male)",Mari Hazara,211070601,411,0,411,2,0,2
+"",,Mari Hazara,211070602,455,0,455,,,
+"",,Mari Hazara,211070603,290,0,290,,,
+155,"Govt:Girls Primary School, Mari Hazara  (Female)",Mari Hazara,211070601,0,369,369,0,2,2
+"",,Mari Hazara,211070602,0,375,375,,,
+"",,Mari Hazara,211070603,0,251,251,,,
+156,"Govt: Boys Elemantary School, Taurez (Combined)",Taurez,211070202,291,263,554,1,1,2
+"",,Nusrat,211070607,110,71,181,,,
+157,"Govt:Boys Primary School, Maghar        (Male)",Maghar,211070604,502,0,502,2,0,2
+"",,Maghar,211070605,364,0,364,,,
+"",,Maghar,211070606,249,0,249,,,
+158,"Govt:Girls Primary School, Maghar (Female)",Maghar,211070604,0,336,336,0,2,2
+"",,Maghar,211070605,0,308,308,,,
+"",,Maghar,211070606,0,219,219,,,
+159,"Govt:Boys Primary School, Budhan Shah  (Combined)",Budhan Shah,211070204,331,294,625,1,1,2
+160,"Govt:Boys Primary School, Machhi Singh  (Combined)",Chak Machhi singh,211071001,212,153,365,2,2,4
+"",,Chak Machhi singh,211071002,968,701,1669,,,
+161,"Govt:Boys Primary School, Machhi Singh  (Male)",Chak Machhi singh,211071003,363,0,363,2,0,2
+Machhi singh,211071004,216,0,216,,,,,
+Chak Machhi singh,211071005,259,0,259,,,,,
+Machhi singh,211071006,50,0,50,,,,,
+162,"Govt:Girls Primary School, Machhi Singh  (Female)",Machhi singh,211071004,0,183,183,0,2,2
+"",,Machhi singh,211071005,0,200,200,,,
+"",,Machhi singh,211071006,0,29,29,,,
+163,"Govt:Boys Primary School, Sohawa Mall (Male)",Sohawa Mall,211071007,453,0,453,2,0,2
+"",,Machhi singh,211071006,50,0,50,,,
+"",,Hazara Mall,211071010,123,0,123,,,
+"",,Bulandi,211071011,73,0,73,,,
+"",,Sham Din,211071201,66,0,66,,,
+164,"Govt: Girls Modle Primary School, Sohawa Mall  (Female)",Sohawa Mall,211071007,0,391,391,0,2,2
+"",,Sohawa Mall,211071008,0,337,337,,,
+"",,Sohawa Mall,211071009,0,191,191,,,
+"",,Hazara Mall,211071010,0,93,93,,,
+"",,Bulandi,211071011,0,86,86,,,
+"",,Sham Din,211071201,0,38,38,,,
+165,"Govt:Girls Primary School, Kalay Pathan  (Male)",Arazi Kasuria,211070801,65,0,65,2,0,2
+"",,Kalay Pathan,211070802,279,0,279,,,
+"",,Kalay Pathan,211070803,402,0,402,,,
+"",,Kalay Pathan,211070804,267,0,267,,,
+"",,Kalay Pathan,211070805,322,0,322,,,
+166,"Govt: Girls Primary School, Kalay Pathan    (Female)",Arazi Kasuria,211070801,0,46,46,0,2,2
+"",,Kalay Pathan,211070802,0,274,274,,,
+"",,Kalay Pathan,211070803,0,343,343,,,
+"",,Kalay Pathan,211070804,0,256,256,,,
+"",,Kalay Pathan,211070805,0,246,246,,,
+167,"Govt:Boys Middle School, Hama Mehro Ka   (Combined)",Hama Mehro ka,211070806,559,474,1033,1,1,2
+168,"Govt:Boys Primary School, Luqman Mehro ka   (Combined)",Luqman Mehro ka,211070807,284,211,495,1,1,2
+"",,Luqman Mehro ka,211070808,431,266,697,,,
+169,"Govt:Girls Primary School, Luqman Mehro ka   (Combined)",Luqman Mehro ka,211070809,209,170,379,1,1,2
+"",,Luqman Mehro ka,211070810,343,264,607,,,
+170,"Govt:Boys Primary School, Sabu key Dakhli Sanattey key(Combined)",Shahbazi,211071204,133,106,239,1,1,2
+171,"Govt:Boys Primary School, Yaseen kay Dakhly Sanattay key(Combined)",Ghub,211071202,52,31,83,2,2,4
+Natha Singh,211071203,22,13,35,,,,,
+Sanattey kay,211071205,436,373,809,,,,,
+Sanattey kay,211071206,300,302,602,,,,,
+"",,Chak 77/EB,211051006,431,0,431,,,
+173,Govt:Boys Primary School 77/EB  (Female),Chak 77/EB,211051005,0,621,621,0,2,2
+"",,Chak 77/EB,211051006,0,420,420,,,
+174,Govt:Boys Primary School 83/EB            (Male),Chak 83/EB,211051001,366,0,366,2,0,2
+"",,Chak 83/EB,211051002,267,0,267,,,
+"",,Chak 83/EB,211051003,413,0,413,,,
+"",,Chak 83/EB,211051004,99,0,99,,,
+175,Govt:Girls Middle  School 83/EB (Female),Chak 83/EB,211051001,0,348,348,0,2,2
+"",,Chak 83/EB,211051002,0,260,260,,,
+"",,Chak 83/EB,211051003,0,385,385,,,
+"",,Chak 83/EB,211051004,0,87,87,,,
+176,Govt:Boys High School 91/EB                (Male),Chak 91/EB,211051007,354,0,354,3,0,3
+"",,Chak 91/EB,211051008,211,0,211,,,
+"",,Chak 91/EB,211051010,368,0,368,,,
+"",,Chak 91/EB,211051009,452,0,452,,,
+177,Govt:Boys High School 91/EB  (Female),Chak 91/EB,211051007,0,301,301,0,2,2
+"",,Chak 91/EB,211051008,0,234,234,,,
+"",,Chak 91/EB,211051010,0,276,276,,,
+"",,Chak 91/EB,211051009,0,435,435,,,
+178,Govt:Boys Primary School 205/EB             (Male),Chak 205/EB,211051110,516,0,516,2,0,2
+179,Govt:Boys Primary School 205/EB             (Male),Chak 205/EB,211051109,446,0,446,2,0,2
+"",,Chak 205/EB,211051111,321,0,321,,,
+180,"Govt:Girls Community Middle School, 205/EB,  (Female)",Chak 205/EB,211051109,0,320,320,0,2,2
+"",,Chak 205/EB,211051110,0,412,412,,,
+"",,Chak 205/EB,211051111,0,259,259,,,
+181,Govt:Boys Middle School 207/EB            (Male),Chak 207/EB,211051106,242,0,242,2,0,2
+"",,Chak 207/EB,211051107,589,0,589,,,
+182,"Govt:Girls Middle School, 207/EB   (Female)",Chak 207/EB,211051106,0,191,191,0,2,2
+"",,Chak 207/EB,211051107,0,468,468,,,
+183,Govt:Boys Middle School 207/EB,Chak 207/EB,211051104,499,444,943,2,2,4
+"",,Chak 207/EB,211051108,340,258,598,,,
+"",,Chak 207/EB,211051105,355,282,637,,,
+184,Govt:Boys Primary School 209/EB          (Male),Chak 209/EB,211051102,439,0,439,3,0,3
+"",,Chak 209/EB,211051103,777,0,777,,,
+185,"Govt:Girls Primary School, 209/EB  (Female)",Chak 209/EB,211051102,0,315,315,0,2,2
+Chak 209/EB,211051103,0,605,605,,,,,
