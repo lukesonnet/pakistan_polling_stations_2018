@@ -2,11 +2,11 @@
 library(tidyverse)
 library(stringr)
 
-# wd is file dir
+# wd is proj dir (git root)
 
 # Get list of tabula files
 kpcsv <- list.files(
-  "csv", 
+  "raw/kp/csv", 
   pattern = "csv$", 
   full.names = TRUE
 )
@@ -157,4 +157,8 @@ dat2 <- dat %>%
   )
 
 # Still have to error check + get peshawar working
-head(dat2)
+
+# Fill down ps_number
+
+
+table(dat2$ps_number, dat2$district)
